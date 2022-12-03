@@ -1,2 +1,7 @@
 # DataLearnDE
-repository for datalearn-data-engineer course and home task
+repository for datalearn.ru-data-engineer course and it's home task
+
+
+## V^_^V
+### V^_^V
+#### V^_^V
