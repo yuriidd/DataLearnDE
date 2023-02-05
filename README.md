@@ -1,19 +1,19 @@
 # DataLearnDE
+
 repository for datalearn.ru-data-engineer course and it's home task
-#new 
 
-## V^.^V
-### V^.^V
-#### V^.^V
-dfsdf
-sdfsdffffffffffffffffff
+#DataEngineer #datalearn
 
----
-ok ok , this line us for update readme via cli from pc windows
+# Module 1
 
----
-why line above is so big? oh its ok , i unserted new line after text after '---' and font was set to normal size
+Home task DONE. [You can check it.](DE-101/Module1/README.md)
 
----
+MindMaps:
+[DataAnalysis.xmind](DE-101/Module1/DataAnalysis.xmind)
+[CLI.xmind](DE-101/Module1/cli/CLI.xmind)
+[Excel-n-Sheets.xmind](DE-101/Module1/Excel/Excel-n-Sheets.xmind)
 
-## d^.^b
+# Module 2
+
+In process...
+
