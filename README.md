@@ -1,6 +1,6 @@
 # DataLearnDE
 
-repository for datalearn.ru-data-engineer course and it's home task
+That repository for [datalearn.ru-data-engineer](https://github.com/Data-Learn/data-engineering) course and it's home task.
 
 #DataEngineer #datalearn
 
@@ -15,5 +15,5 @@ MindMaps:
 
 # Module 2
 
-In process...
+In process... [You can check it.](DE-101/Module2/README.md)
 
