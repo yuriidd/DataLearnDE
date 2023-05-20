@@ -1,16 +1,22 @@
+> [Начало](../../README.md) >> Модуль 2
+
 # DataLearn Module 2
 
-#module2 #sql #postgres #csv #psql 
+#module2 #sql #postgres #csv #psql #shell
 
 
 
 # Домашнее задание
 
 **Модуль 2** преследует такие цели:
-- База данных. Установка, подключение, создание БД, запросы.
+- База данных. 
+	- Установка, подключение. 
+	- Cоздание БД, запросы.
 - Модели данных.
 - База данных в облаке.
 - Сервисы визуализации для баз данных.
+
+---
 
 # База данных
 
@@ -20,11 +26,15 @@
 
 ### Postgres + Win
 
-Далее, далее, все готово :). Встроеный pgAdmin работает. DBeaver подключил, сложностей нет. Сразу перешел на psql клиент. Не знаю почему, но по моему мнению - изучать стоит sql прямо из консоли. Во первых, там есть все. Во вторых, нет перегрузки интерфейса. Залет в любую IDE похож на случайное попадание в кабину пилота самолета, куча мнопок. А так ничего лишнего, только то что выучил. На скринах WSL, это для примера.
+Далее, далее, все готово :). Встроеный pgAdmin работает. DBeaver подключил, сложностей нет. Сразу перешел на psql клиент. Не знаю почему, но по моему мнению - изучать стоит sql прямо из консоли. Во первых, там есть все. Во вторых, нет перегрузки интерфейса. Залет в любую IDE похож на случайное попадание школьника в кабину пилота самолета, становится страшно от этой кучи кнопок xDD. А так ничего лишнего, только то что выучил. На скринах WSL, это для примера.
 
 ![](_att/snap_screen_20230314234912.png)
 
 ![](_att/snap_screen_20230404141459.png)
+
+
+Мне сильно помог вот этот парнишка [freeCodeCamp.org
+Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4), он хорошо показал как пользоваться именно консолью, а не IDE. Ну а потом Вы уже сможете под свои потребности подобрать текстовый редактор для SQL или IDE.
 
 На счет самого psql в windows, у него есть косяк с кодировкой. Косячит, даже если у тебя база данных создана в UTF8 и кодировка, везде где можно, выставленна UTF8, ты все равно будешь получать ошибку при выводе, например, `'México D.F.'`.
 
@@ -32,10 +42,11 @@
 
 Как исправить?
 
-	SHOW server_encoding; -- проверяем настройки
-	SHOW client_encoding; -- проверяем настройки
+	-- вот так можно проверить настройки
+	SHOW server_encoding;
+	SHOW client_encoding;
 	
-	-- это и следующее прямо находясь в консоле psql/windows
+	-- следующее вводить находясь в консоле psql/windows
 	SET client_encoding TO 'UTF8'; 
 	psql \! chcp 1251
 
@@ -72,14 +83,12 @@
 
 ![](_att/Pasted%20image%2020230501222714.png)
 
-В таком варианте мы можем работать от пользователя useraik, создавать свои новые базы данных, генерировать и прочее. Но уже загрузить свои данные из ОС не можем, потому что у нас нет прав. В принципе, это нормально. Всегда можно зайти через sudo (администратора), сделать импорт/экспорт и дальше работать через `useraik` без страха дропнуть соседнюю базу. Если Вы еще ни разу не дропали не ту таблицу, я Вам завидую))
+В таком варианте мы можем работать от пользователя useraik, создавать свои новые базы данных, генерировать и прочее. Но уже загрузить свои данные из ОС не можем, потому что у нас нет прав. В принципе, это нормально. Всегда можно зайти с помощью sudo (администратора), сделать импорт/экспорт и дальше работать через `useraik` без страха дропнуть соседнюю базу. Если Вы еще ни разу не дропали не ту таблицу, я Вам завидую)).
 
 ### Postgres + CSV/SQL
 
-Импорт и экпорт CSV/SQL файлов - это вообще нативная штука. Это как открыть документ Word или сохранить его с другим именем. Тебе всегда надо что-то вынимать из базы и ставить это на место. 
+Импорт и экпорт CSV/SQL файлов - это вообще нативная штука. Это как открыть документ Word или сохранить его с другим именем. Тебе всегда надо что-то брать с книжной полки и ставить что-то другое на неё. 
 
-Мне сильно помог вот этот парнишка [freeCodeCamp.org
-Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4), он хорошо показал как пользоваться именно консолью, а не IDE (где много лишнего для начинающего). Ну а потом Вы уже сможете под свои потребности подобрать текстовый редактор или IDE.
 
 #### Import
 
@@ -104,13 +113,15 @@ DELIMITER ','
 CSV HEADER;
 ```
 
-Тоже что и выше с помощью SQL файла.  Сохраняете текст выше в файл, например, `D:\summer_import.sql` и в psql делаете команду `\i /path/to/file`.
+Тоже что и выше с помощью SQL файла.  Сохраняете код выше в файл, например, `D:\summer_import.sql` и в psql выполните команду `\i /path/to/file`.
 
 ```shell
 \i /mnt/d/summer_import.sql
 ```
 
-Вариант импорта снимка таблицы.
+Результат будет идентичный.
+
+Вариант импорта снимка таблицы из обочки Linux.
 
 ```shell
 psql --dbname=mydb --username=postgres -f /tmp/mydb.sql
@@ -145,7 +156,7 @@ INSERT INTO public.person (id, first_name, last_name, gender, email, date_of_bir
 
 ### Задание 1
 
-*Вам необходимо установить клиент SQL для подключения базы данных. Вы можете посмотреть [инструкции по установки DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md). Так же вы можете использовать любой другой клиент для подключения к ваше БД.*
+> *Вам необходимо установить клиент SQL для подключения базы данных. Вы можете посмотреть [инструкции по установки DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md). Так же вы можете использовать любой другой клиент для подключения к ваше БД.*
 
 ##### DBeaver
 
@@ -163,14 +174,15 @@ INSERT INTO public.person (id, first_name, last_name, gender, email, date_of_bir
 
 ### Задание 2
 
-*Создайте 3 таблицы и загрузите данные из [Superstore Excel файл](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls) в вашу базу данных. Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц. Вы можете использовать готовый [пример sql файлов](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1).*
+> *Создайте 3 таблицы и загрузите данные из [Superstore Excel файл](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls) в вашу базу данных. Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц. Вы можете использовать готовый [пример sql файлов](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1).*
 
 1. Сделал CSV для каждой таблицы: [orders.csv](SQL/Source/orders.csv), [people.csv](SQL/Source/people.csv), [returns.csv](SQL/Source/returns.csv).
 
-2. Зашел от обычного пользователя, создал новую базу, вышел.
+2. Захожу от обычного пользователя, создаю новую базу, подключаюсь к базе `superstore` (автоматом нас кидает в базу postgres).
 
-```sql
- ~#@❯  psql -U useraik -h 127.0.0.1 -d postgres                                           
+```shell
+❯  psql -U useraik -h 127.0.0.1 -d postgres
+
 Password for user useraik:
 psql (15.2 (Ubuntu 15.2-1.pgdg22.04+1))
 SSL connection (protocol: TLSv1.3, cipher: TLS_AES_256_GCM_SHA384, compression: off)
@@ -178,58 +190,123 @@ Type "help" for help.
 
 postgres=> CREATE DATABASE superstore;
 CREATE DATABASE
-postgres=> \q
+
+postgres=> \c superstore
+superstore=>
 ```
 
-Это для того, что-бы этот пользователь был владельцем базы, тогда не надо перекидывать права на создание/удаление таблиц.
+3. Создаю таблицы с помощью написанного ранее запроса [orders_create_table.sql](SQL/Source/orders_create_tables.sql) (пути для импорта указаны явно), проверяю созданы ли таблицы, выхожу.
 
-3. Захожу через администратора, подключаюсь к базе `superstore` (автоматом нас кидает в базу postgres), делаю импорт с помощью написанного ранее запроса  [orders_import.sql](SQL/Source/orders_import.sql) (пути для импорта указаны явно).
+```shell
+superstore=> \i /mnt/d/git/DataLearnDE/DE-101/Module2/SQL/Source/orders_import.sql
 
-```sql
- ~#@❯  sudo -u postgres psql     
+psql:/mnt/d/git/DataLearnDE/DE-101/Module2/SQL/Source/orders_create_tables.sql:8: NOTICE:  table "orders" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:/mnt/d/git/DataLearnDE/DE-101/Module2/SQL/Source/orders_create_tables.sql:36: NOTICE:  table "people" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:/mnt/d/git/DataLearnDE/DE-101/Module2/SQL/Source/orders_create_tables.sql:45: NOTICE:  table "returns" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+
+superstore=> \d
+
+              List of relations
+ Schema |     Name      |   Type   |  Owner
+--------+---------------+----------+---------
+ public | orders        | table    | useraik
+ public | orders_id_seq | sequence | useraik
+ public | people        | table    | useraik
+ public | returns       | table    | useraik
+(4 rows)
+
+superstore=> \q
+```
+
+Это для того, что-бы этот пользователь был владельцем базы и таблиц, тогда не надо перекидывать права на чтение/правку/удаление таблиц.
+
+4. Захожу через администратора, подключаюсь к базе `superstore` (автоматом нас кидает в базу postgres). 
+
+```shell
+❯  sudo -u postgres psql     
 could not change directory to "/home/aikz": Permission denied
 psql (15.2 (Ubuntu 15.2-1.pgdg22.04+1))
 Type "help" for help.
 
 postgres=# \c superstore
+superstore=#
+```
 
+5. Делаю импорт с помощью написанного ранее запроса  [orders_import.sql](SQL/Source/orders_import.sql) (пути для импорта указаны явно). Обратите внимание, что внутри указан разделитель как точка-с-запятой `DELIMITER ';'`, потому что Excel выгружает так.
+
+```shell
 superstore=# \i /mnt/d/git/DataLearnDE/DE-101/Module2/SQL/Source/orders_import.sql
-DROP TABLE
-CREATE TABLE
+
 COPY 9994
-DROP TABLE
-CREATE TABLE
 COPY 4
-DROP TABLE
-CREATE TABLE
 COPY 800
 ```
 
+Теперь можно подключаться, как обычный пользователь, и уже делать необходимые запросы.
 
+### Задание 3
+
+> *Напишите запросы, чтобы ответить на вопросы из [Модуля 01](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%B2-excel). Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц.*
+
+По заданию сделал запросы, что-бы получить таблицы, по которым делал дашборд в Excel в первом модуле.
+
+- Вспомогательные [действия](SQL/Source/00add.sql).
+- ComboChart - [sql](SQL/Source/01combochart.sql)
+- WaterfallChart - [sql](SQL/Source/02waterfall.sql)
+- PieChart - [sql](SQL/Source/03piechart.sql)
+- MapChart - [sql](SQL/Source/04mapchart.sql)
+- Top5 Subcategory - [sql](SQL/Source/05top5.sql)
+- KPI - [sql](SQL/Source/06kpi.sql)
+- KPIYOY - [sql](SQL/Source/07kpiyoy.sql)
+
+Вам удобнее их будет посмотреть на [отдельной странице](SQL/superstor_sql_querry.md) с описанием и результами вывода.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+тут могу заделать ещ
+- еще практика по добавлению норсвинда с чужого гита.
 
 
 тут что сделать хочу:
 
 - три цсв **OK**
-	- создать таблицы для них 
-	- загрузить все
+	- создать таблицы для них ОК
+	- загрузить все ОК
 	- сделать нормализацию
 	- данные переложить в нормализованные таблицы
 	- 
-- для каждого пунктка скрипты в постгрес
+~~- для каждого пунктка скрипты в постгрес~~
 
 
 - отдельно команды для загрузки данных в постгрес
-	- из цсв
-	- из скл файлов
+	- из цсв ОК
+	~~- из скл файлов~~
 
 
-
-
-
-
-### Задание 3
-
-*Напишите запросы, чтобы ответить на вопросы из [Модуля 01](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%B2-excel). Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц.*
-
-тут могу заделать еще +50 заданий из гитхаба
+---
+> [Начало](../../README.md) >> Модуль 2
