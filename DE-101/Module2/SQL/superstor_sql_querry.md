@@ -2,7 +2,7 @@
 
 #superstore #sql
 
-## Вспомогательные [действия](Source/00add.sql).
+## Вспомогательные [действия](dashboard/00add.sql).
 
 Мы импортировали дату заказа и дату отправки как текстовые поля, а не поля типа `date`.  С текстовой датой в виде `05.12.2018` очень неудобно работать и что-бы в последующих запросах не нагромождать много кода для перевода и калькуляции срезов по месяцам/годам, создаю две колонки: год заказа как `integer` и дату заказа как `date`. 
 
@@ -31,7 +31,7 @@ superstore=> SELECT order_date, year, order_date2 FROM orders LIMIT 1;
 (1 row)
 ```
 
-## ComboChart - [sql](SQL/Source/01combochart.sql)
+## ComboChart - [sql](dashboard/01combochart.sql)
 
 ```sql
 SELECT
@@ -62,7 +62,7 @@ GROUP BY Order_Month
 (12 rows)
 ```
 
-## WaterfallChart - [sql](SQL/Source/02waterfall.sql)
+## WaterfallChart - [sql](dashboard/02waterfall.sql)
 
 ```sql
 SELECT * FROM (
@@ -89,9 +89,9 @@ UNION ALL
 (4 rows)
 ```
 
-Сделал через UNION, потому что нужен был максимальный результат в году по категори сверху и общее внизу. По другому не получалось :(. Но как-нибудь я сделаю это через функцию, чтобы автоматом давать такие результаты для каждого года последовательно.
+Сделал через UNION, потому что нужен был максимальный результат в году по категори сверху и общее внизу. Удобно смотреть на первый результат в году и на последний. Чисто зрительная особенность восприятия. Как-нибудь я сделаю это через функцию, чтобы автоматом давать такие результаты для каждого года последовательно.
 
-Через ROLLUP сортировка дает другой результат. Удобно смотреть на первый результат в году и на последний. Чисто зрительная особенность восприятия.
+Через ROLLUP сортировка дает другой результат. 
 
 ```sql
  year |    category     | total_profit
@@ -102,7 +102,7 @@ UNION ALL
  2019 |                 |   93439.2696
 ```
 
-## PieChart - [sql](SQL/Source/03piechart.sql)
+## PieChart - [sql](dashboard/03piechart.sql)
 
 ```sql
 SELECT
@@ -125,7 +125,7 @@ ORDER BY category
 (3 rows)
 ```
 
-## MapChart - [sql](SQL/Source/04mapchart.sql)
+## MapChart - [sql](dashboard/04mapchart.sql)
 
 ```sql
 SELECT
@@ -191,7 +191,7 @@ ORDER BY state ASC
 (47 rows)
 ```
 
-## Top5 Subcategory - [sql](SQL/Source/05top5.sql)
+## Top5 Subcategory - [sql](dashboard/05top5.sql)
 
 ```sql
 SELECT
@@ -216,7 +216,7 @@ LIMIT 5
 (5 rows)
 ```
 
-## KPI - [sql](SQL/Source/06kpi.sql)
+## KPI - [sql](dashboard/06kpi.sql)
 
 ```sql
 SELECT
@@ -252,7 +252,7 @@ ORDER BY Order_Month
           12 |     83829.32 |       8483.35 |            1723 |           462 |        0.1012
 (12 rows)
 ```
-## KPIYOY - [sql](SQL/Source/07kpiyoy.sql)
+## KPIYOY - [sql](dashboard/07kpiyoy.sql)
 
 Последняя вышла интересная. На сколько выросли показатели, по сравнению с прошлым годом. 
 
@@ -288,7 +288,7 @@ ORDER BY year
 ;
 ```
 
-Оказывается в 2019 году доход на объем продаж упал на 5%. Во как >"_"<.
+Оказывается в 2019 году доход на объем продаж упал на 5%. Зарабатывать стали меньше. Вот тебе и инсайт >"_"<.
 
 ```sql
  year | sales_grwth_prc | profit_grwth_prc | quantity_grwth_prc | orders_grwth_prc | profit_margin_grwth_prc

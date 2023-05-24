@@ -9,6 +9,7 @@
 # Домашнее задание
 
 **Модуль 2** преследует такие цели:
+
 - База данных. 
 	- Установка, подключение. 
 	- Cоздание БД, запросы.
@@ -256,24 +257,42 @@ COPY 800
 
 По заданию сделал запросы, что-бы получить таблицы, по которым делал дашборд в Excel в первом модуле.
 
-- Вспомогательные [действия](SQL/Source/00add.sql).
-- ComboChart - [sql](SQL/Source/01combochart.sql)
-- WaterfallChart - [sql](SQL/Source/02waterfall.sql)
-- PieChart - [sql](SQL/Source/03piechart.sql)
-- MapChart - [sql](SQL/Source/04mapchart.sql)
-- Top5 Subcategory - [sql](SQL/Source/05top5.sql)
-- KPI - [sql](SQL/Source/06kpi.sql)
-- KPIYOY - [sql](SQL/Source/07kpiyoy.sql)
+- Вспомогательные [действия](SQL/dashboard/00add.sql).
+- ComboChart - [sql](SQL/dashboard/01combochart.sql)
+- WaterfallChart - [sql](SQL/dashboard/02waterfall.sql)
+- PieChart - [sql](SQL/dashboard/03piechart.sql)
+- MapChart - [sql](SQL/dashboard/04mapchart.sql)
+- Top5 Subcategory - [sql](SQL/dashboard/05top5.sql)
+- KPI - [sql](SQL/dashboard/06kpi.sql)
+- KPIYOY - [sql](SQL/dashboard/07kpiyoy.sql)
 
 Вам удобнее их будет посмотреть на [отдельной странице](SQL/superstor_sql_querry.md) с описанием и результами вывода.
 
 ---
 
+# Модели данных
 
+### Задание 1
 
+> *Вам необходимо нарисовать модель данных для нашего файлика [Superstore](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls):*
+> 
+> -   *Концептуальную*
+> -   *Логическую*
+> -   *Физическую*  
+> 
+> *Вы можете использовать бесплатную версию [SqlDBM](https://sqldbm.com/Home/) или любой другой софт для создания моделей данных баз данных.*
 
+### Задание 2
 
+> *Когда вы нарисуете модель данных, вам нужно скопировать DDL и выполнить его в SQL клиенте.*
 
+### Задание 3
+
+> *Вам необходимо сделать `INSERT INTO SQL`, чтобы заполнить **Dimensions** таблицы и **Sales Fact** таблицу. Сначала мы заполняем **Dimensions** таблицы, где в качестве **id** мы генерим последовательность чисел, а зачем **Sales Fact** таблицу, в которую вставляем **id** из **Dimensions** таблиц. Такой пример я рассматривал в видео.*
+
+### Результат
+
+Выношу [результат всех заданий](dbmodel/superstore_dbmodel.md) на отдельную страницу, т.к. все преобразования занимают очень много места. Поскольку задания делаю для себя, то описывать буду в полном объеме.
 
 
 
