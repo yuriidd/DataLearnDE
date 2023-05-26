@@ -1,22 +1,20 @@
 > [Начало](../../../README.md) >>  [Модуль 2](../README.md) >> SQL запросы для дашборда к Superstore
 
-#superstore #sql #dbmodel #erdiagram #schema
+#superstore #sql #dbmodel #ERdiagram #DDL
 
 Все рисовки и разукрашки связанные с моделями данных опираются на одну важную вещь - это сущность. Все отношения в базах данных - это отношения между этими сущностями. Другого ничего нет) Поэтому ваша задача вникнуть в то, чем является сущность и какие артибуты Вы можете этой сущности дать, а какие не стоит.
 
 До того как писать SQL запросы в любом виде, я посмотрел просто афигенский курс [freeCodeCamp.org - Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc), который дает концепцию построяния этих связей (отношений) между сущностями. В общем, за всем стоят сущности.
 
-Открывая наш текущий вид базы `superstore`, мы видим наличие только одной сущности. Одна строка = одна запись этой сущности. Выглядит такая диаграмма связей (Entity Relationship Diagram - Диаграмма связей сущностей) вот так:
+Открывая наш текущий вид базы `superstore`, мы видим наличие только одной сущности. Одна строка = одна сущность. Выглядит такая диаграмма связей (Entity Relationship Diagram - Диаграмма связей сущностей) вот так:
 
 ![](_att/Maxthon%20Snap20230522225712.png)
 
 `superstore` - сущность, все остальное артибуты. Сущность одна, поэтому связей пока нет xD. Вот этим мы и займемся - разобьем на несколько сущностей и построим модель.
 
-В разных источниках термины концептуальная, логическая, физическая модели могут применятся к разным вещам. Это как со словом `condition`, что одновременно значит `состояние` и `условие`. В курсе от DataCamp есть вот такая трактовка со ссылкой на Википедию, её я и буду использовать в дальнейшем.
+## Entity Relationship Diagram
 
-![](_att/Pasted%20image%2020230526215658.png)
-
-## Conceptual data model. Entity Relationship Diagram
+Или логическая модель.
 
 Разбиваю все имеющиеся атрибуты в таблице на группы. 
 
@@ -37,21 +35,23 @@
 
 От колонки `row_id` буду избавлятся, потому что она мне не дает ничего. В новой таблице `orders` уникальным полем будет `order_id`, а второе уникальное просто безсмысленно. 
 
-Вот так будет выглядеть моя модель, если я спрячу атрибуты. В терминологии Лекции 2-4 её называли концептуальной моделью.
+## Концептуальная модель
+
+Вот так будет выглядеть моя концептуальная модель - это сущности без атрибутов.
 
 ![](_att/Maxthon%20Snap20230523205302.png)
 
-Теперь подгоняю диаграмму выше под мою концептуальную модель.
+Теперь подгоняю диаграмму (логическую модель) выше под мою концептуальную модель.
 
 ![](_att/Pasted%20image%2020230524214558.png)
 
-Я не знаю, как правильно нужно отображать связи между сущностями[^1], поэтому совместил атрибуты (колонки), через которые будут связаны мои сущности. 
+Я не знаю, как правильно нужно отображать связи между сущностями, поэтому совместил атрибуты, через которые будут связаны мои сущности. 
 
 Для построения этих диаграмм я использовал инструмент [erdplus.com](https://erdplus.com) и я очень рад что его нашел, т.к. в нем нет ничего лишнего. Только сущности - атрибуты - отношения > схема > выгрузка в код.
 
-## Logical data model. Relational Schema
+## Relational Schema
 
-Преобразовываю, что у меня получилось, в Relational Schema, и настраиваю связи между своими таблицами. Они сразу не были соединены.  Указываю типы данных в атрибутах.
+Преобразовываю, что у меня получилось, в Relational Schema (или физическая модель по уроку), и настраиваю связи между своими таблицами. Они сразу не были соединены.  Указываю типы данных в атрибутах.
 
 ![](_att/Pasted%20image%2020230524215754.png)
 
@@ -173,7 +173,7 @@ ADD COLUMN ship_date2 DATE;
 UPDATE orders_old SET ship_date2 = to_date(ship_date, 'DD.MM.YYYY');
 ```
 
-Запускаю ранее сгенерированный [код](00_new_dbmodel.sql) и создаю таблицы для новой модели. Итого.
+Запускаю [SQL код](00_new_dbmodel.sql) и создаю таблицы для новой модели.
 
 ```sql
 superstore=> \d
@@ -251,15 +251,14 @@ FROM orders_old
 Самая простая таблица в виду всего нескольких строк.
 
 ```sql
-INSERT INTO ship_modes
+superstore=> INSERT INTO ship_modes
 SELECT DISTINCT ship_mode
 FROM orders_old
 ;
+INSERT 0 4
 ```
 
 ```sql
-INSERT 0 4
-
 superstore=> SELECT * FROM ship_modes;
    ship_mode    | ship_mode_id
 ----------------+--------------
@@ -274,7 +273,7 @@ superstore=> SELECT * FROM ship_modes;
 
 #### Заполнение `products`
 
-И получаем первый попадос, потому что данные у нас не чистые)).
+И получаем первый попадос, потому что данные у нас чистые)).
 
 ```sql
 INSERT INTO products
@@ -303,188 +302,28 @@ WHERE product_id = 'TEC-PH-10002200'
 (2 rows)
 ```
 
-У нас дубликаты есть в `product_id`. Находим все дубликаты.
+У нас дубликат
 
-```sql
-SELECT product_id, COUNT(*)
-FROM (
-	SELECT DISTINCT product_id, product_name
-	FROM orders_old
-	GROUP BY product_id, product_name 
-	ORDER BY product_id
-	) AS o
-GROUP BY product_id
-HAVING COUNT(*) > 1
-;
-```
 
-```sql
-   product_id    | count
------------------+-------
- FUR-BO-10002213 |     2
- FUR-CH-10001146 |     2
- FUR-FU-10001473 |     2
- FUR-FU-10004017 |     2
- FUR-FU-10004091 |     2
- FUR-FU-10004270 |     2
- FUR-FU-10004848 |     2
- FUR-FU-10004864 |     2
- OFF-AP-10000576 |     2
- OFF-AR-10001149 |     2
- OFF-BI-10002026 |     2
- OFF-BI-10004632 |     2
- OFF-BI-10004654 |     2
- OFF-PA-10000357 |     2
- OFF-PA-10000477 |     2
- OFF-PA-10000659 |     2
- OFF-PA-10001166 |     2
- OFF-PA-10001970 |     2
- OFF-PA-10002195 |     2
- OFF-PA-10002377 |     2
- OFF-PA-10003022 |     2
- OFF-ST-10001228 |     2
- OFF-ST-10004950 |     2
- TEC-AC-10002049 |     2
- TEC-AC-10002550 |     2
- TEC-AC-10003832 |     2
- TEC-MA-10001148 |     2
- TEC-PH-10001530 |     2
- TEC-PH-10001795 |     2
- TEC-PH-10002200 |     2
- TEC-PH-10002310 |     2
- TEC-PH-10004531 |     2
-(32 rows)
-```
 
-Исправляем данные. Я это делал ручками, полный код [тут](01_datamigration.sql). И продолжаем заполнение.
 
-```sql
-INSERT INTO products
-SELECT DISTINCT product_id, category, subcategory, product_name
-FROM orders_old
-;
-```
 
-Сверка с источником.
 
-```sql
-INSERT 0 1894
 
-superstore=> SELECT COUNT(DISTINCT product_id) AS product_id
-FROM orders_old
-;
 
- product_id
-------------
-       1894
-(1 row)
-```
 
-#### Заполнение `customers`
 
-```sql
-INSERT INTO customers
-SELECT DISTINCT customer_id, customer_name, segment
-FROM orders_old
-;
-```
 
-#### Заполнение `delivery_places`
 
-В одном адресе почтового индекса не оказалось, я его обновил своим значением. Хотя, наверное, правильно было бы снять ограничение NOT NULL.
 
-```sql
-UPDATE orders_old
-SET postal_code = '12345'
-WHERE country = 'United States' AND
-	city = 'Burlington' AND state = 'Vermont';
-
-INSERT INTO delivery_places
-SELECT DISTINCT country, city, state, postal_code, region
-FROM orders_old
-;
-```
-
-#### Заполнение `orders`
-
-Если с id'шниками клиентов все нормально, то id'шники доставок нам не доступны изначально в таблице `orders_old`. Надо их присоединять.
-
-```sql
-INSERT INTO orders
-SELECT DISTINCT oo.order_id 
-		, oo.order_date2 AS order_date
-		, oo.ship_date2 AS ship_date
-		, oo.customer_id 
-		, s1.delivery_place_id
-		, s2.ship_mode_id
-FROM orders_old AS oo
-LEFT JOIN delivery_places AS s1 
-	ON oo.country = s1.country 
-		AND oo.city = s1.city 
-		AND oo.state = s1.state 
-		AND oo.postal_code = s1.postal_code 
-LEFT JOIN ship_modes AS s2 
-	USING(ship_mode)
-;
-```
-
-```sql
-INSERT 0 5009
-```
-
-#### Заполнение `orders`
-
-Забавно вышло, но для такой вставки надо было таблицу подготовить с такой последовательностью полей, ровно как в новой созданной. Поэтому `order_id` и `product_id` аж в самом конце.
-
-```sql
-superstore=> \d order_details
-                    Table "public.order_details"
-   Column   |         Type          | Collation | Nullable | Default
-------------+-----------------------+-----------+----------+---------
- sales      | numeric               |           | not null |
- quantity   | integer               |           | not null |
- discount   | numeric               |           | not null |
- profit     | numeric               |           | not null |
- product_id | character varying(20) |           | not null |
- order_id   | character varying(14) |           | not null |
-Foreign-key constraints:
-    "order_details_order_id_fkey" FOREIGN KEY (order_id) REFERENCES orders(order_id)
-    "order_details_product_id_fkey" FOREIGN KEY (product_id) REFERENCES products(product_id)
-```
-
-```sql
-INSERT INTO order_details
-SELECT 	sales
-	, quantity 
-	, discount 
-	, profit 
-	, product_id
-	, order_id
-FROM orders_old
-;
-```
-
-```sql
-INSERT 0 9994
-```
-
-Позже оказалось, что можно явно указать названия столбцов в `INSERT INTO` и писать в удобной для себя последовательности.
-
-```sql
-INSERT INTO order_details
-	(order_id, product_id, sales, quantity, discount, profit)
-SELECT 	order_id
-	, product_id
-	, sales
-	, quantity 
-	, discount 
-	, profit 
-FROM orders_old
-;
-```
+DROP TABLE IF EXISTS orders;
+DROP TABLE IF EXISTS products;
+~~DROP TABLE IF EXISTS ship_modes;~~
+DROP TABLE IF EXISTS customers;
+DROP TABLE IF EXISTS delivery_places;
+DROP TABLE IF EXISTS order_details;
 
 ---
 
-> [Начало](../../../README.md) >>  [Модуль 2](../README.md) >> SQL запросы для дашборда к Superstore
 
-[^1]: Но обязательно это выясню и буду применять ^.^
+

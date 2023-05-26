@@ -8,7 +8,7 @@ DROP TABLE IF EXISTS order_details;
 CREATE TABLE products
 (
   product_id VARCHAR(20) NOT NULL,
-  category SERIAL NOT NULL,
+  category VARCHAR(40) NOT NULL,
   subcategory VARCHAR(40) NOT NULL,
   product_name VARCHAR(250) NOT NULL,
   PRIMARY KEY (product_id)
@@ -31,12 +31,12 @@ CREATE TABLE customers
 
 CREATE TABLE delivery_places
 (
+  delivery_place_id SERIAL NOT NULL,
   country VARCHAR(30) NOT NULL,
   city VARCHAR(30) NOT NULL,
   state VARCHAR(30) NOT NULL,
   postal_code VARCHAR(30) NOT NULL,
   region VARCHAR(10) NOT NULL,
-  delivery_place_id SERIAL NOT NULL,
   PRIMARY KEY (delivery_place_id)
 );
 
@@ -56,12 +56,12 @@ CREATE TABLE orders
 
 CREATE TABLE order_details
 (
+  order_id VARCHAR(14) NOT NULL,
+  product_id VARCHAR(20) NOT NULL,
   sales NUMERIC NOT NULL,
   quantity INT NOT NULL,
   discount NUMERIC NOT NULL,
   profit NUMERIC NOT NULL,
-  product_id VARCHAR(20) NOT NULL,
-  order_id VARCHAR(14) NOT NULL,
   FOREIGN KEY (product_id) REFERENCES products(product_id),
   FOREIGN KEY (order_id) REFERENCES orders(order_id)
 );
