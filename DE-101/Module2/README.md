@@ -143,7 +143,7 @@ WITH DELIMITER ',' CSV HEADER;
 Или делаем dump из таблицы в виде SQL файла.
 
 ```shell
-sudo -u postgres pg_dump --column-inserts --data-only --table=person test_database > table_from_dump.sql
+pg_dump -U postrges --column-inserts --data-only --table=person test > table_from_dump.sql
 ```
 
 Пример выгруженных строк для дампа.
@@ -300,16 +300,184 @@ COPY 800
 - Заполнение данными, часть 1 - [sql](dbmodel/01_datamigration.sql)
 - Заполнение данными, часть 2 - [sql](dbmodel/02_datamigration.sql)
 
+---
+
 # База данных в облаке
 
+## AWS Lightsail 
 
+С **Lightsail** начать было проще всего. Но это было интересное приключение. Я тестил сначала через IDE, и понял что я не могу переключаться между базами данных в клиенте. Поэтому пошел в `psql` - cоединение вышло изи совсем.
 
+```bash
+psql -U dbmasteruser -h ls-1efb3f.cbcuz.eu-central-1.rds.amazonaws.com -d postgres 
+```
 
+Смотрим что у нас есть: какие схемы, какие таблицы.
 
+```sql
+SELECT catalog_name, schema_name, schema_owner
+FROM information_schema.schemata;
+```
 
+```sql
+ catalog_name |    schema_name     | schema_owner
+--------------+--------------------+--------------
+ postgres     | pg_catalog         | rdsadmin
+ postgres     | information_schema | rdsadmin
+ postgres     | public             | dbmasteruser
+(3 rows)
+```
 
+```sql
+SELECT table_schema, table_name
+FROM information_schema.tables
+WHERE table_schema NOT IN ('information_schema', 'pg_catalog')
+ORDER by table_schema, table_name
+;
+```
 
+```sql
+ table_schema | table_name
+--------------+------------
+(0 rows)
+```
 
+Схем нет, таблиц нет. Надо срочно исправлять xD.
+
+### `stg` schema
+
+Создают схему stg используя код [cloud/01_stg.sql](cloud/01_stg.sql).
+
+Что изменил по сравнению с прошлыми заданиями:
+
+- `DROP SCHEMA IF EXISTS stg CASCADE;` как бальзам на душу, помогает
+- добавляю сразу две колонки с типом `DATA`
+
+### `stg` import
+
+В прошлом задание не было схем, поэтому было как-то проще. Импорт CSV через `COPY` по удаленке у меня выдало ошибку. Пришлось искать вариант выгрузки своей готовой базы в SQL, через нормальный дамп мне не подошло, потому что там куча кода по созданию вообще всех таблиц и данных. Нашел вариант выгрузки чисто одной таблицы.
+
+```bash
+pg_dump -h localhost -U postgres --column-inserts --data-only --table=orders_old superstore > ~/superstore_orders_old.sql
+```
+
+Получился SQL чисто для одной таблицы. В самом начале и в самом конце закомментировал какие-то настройки. Но оказалось, что вставка строк начинается с `INSERT INTO public.orders_old `.
+
+```sql
+INSERT INTO public.orders_old (id, order_id, order_date, ship_date, ship_mode, customer_id, customer_name, segment, country, city, state, postal_code, region, product_id, category, subcategory, product_name, sales, quantity, discount, profit, order_date2, ship_date2) VALUES (30, 'US-2017-150630', '17.09.2017', '21.09.2017', 'Standard Class', 'TB-21520', 'Tracy Blumstein', 'Consumer', 'United States', 'Philadelphia', 'Pennsylvania', '19140', 'East', 'FUR-FU-10004858', 'Furniture', 'Furnishings', 'Howard Miller 13-3/4" Diameter Brushed Chrome Round Wall Clock', 124.2, 3, 0.2, 15.525, '2017-09-17', '2017-09-21');
+```
+
+Что очень не подходит, потому что мне импорт нужно делать в схему `stg`. Помог `sed` - сделал замену в части текста в строке на другой.
+
+```bash
+sed 's/public.orders_old/stg.orders/g' superstore_orders_old.sql > stg-orders_import.sql
+```
+
+Далее просто выполнил запуск файла с компьютера. Выполнялось по 1 команде, достаточно долго. Не как восстановление дампа.
+
+```sql
+postgres=> \i ~/02_stg-orders_import.sql
+```
+
+Но работает.
+
+```sql
+postgres=> SELECT COUNT(*) FROM stg.orders ;
+ count
+-------
+  9994
+(1 row)
+```
+
+Полная загрузка - [cloud/02_stg-orders_import.sql](cloud/02_stg-orders_import.sql).
+
+### `stg.orders` чистка данных
+
+Так как с данными были небольшие косяки, все исправления собрал в одном вместе - [cloud/03_fix_data.sql](cloud/03_fix_data.sql).
+
+### `dw` schema
+
+Создание схемы и таблиц - [cloud/04_dw.sql](cloud/04_dw.sql).
+
+### Перенос данных
+
+Собрал в один файл - [cloud/05_migration.sql](cloud/05_migration.sql).
+
+Столкнулся с тем, что надо явно указывать колонки в `INSERT`. Все потому что, когда эту таблицу сначала создавал,  `delivery_place_id` поставил как первую колонку, она у меня `SERIAL`.
+
+```sql
+INSERT INTO dw.delivery_places
+	(country, city, state, postal_code, region)
+SELECT DISTINCT country, city, state, postal_code, region
+FROM stg.orders
+;
+```
+
+Вобщем тогда ловишь ошибку.
+
+```sql
+postgres=> INSERT INTO dw.delivery_places
+SELECT DISTINCT country, city, state, postal_code, region
+FROM stg.orders
+;
+ERROR:  column "delivery_place_id" is of type integer but expression is of type character varying
+LINE 2: SELECT DISTINCT country, city, state, postal_code, region
+                        ^
+HINT:  You will need to rewrite or cast the expression.
+```
+
+А если колонку с `SERIAL` создать в конце и сделать импорт похожим образом, то все получается сразу.
+
+```sql
+CREATE TABLE dw.ship_modes
+(
+  ship_mode VARCHAR(14) NOT NULL,
+  ship_mode_id SERIAL NOT NULL,
+  PRIMARY KEY (ship_mode_id)
+);
+
+INSERT INTO dw.ship_modes
+SELECT DISTINCT ship_mode
+FROM stg.orders
+;
+```
+
+Все получилось.
+
+## AWS RDS
+
+Создал инстанс по инструкции. Ничего сложно, главное обращайте внимание на каком сервере Вы создаете свои сервера, потому что легко потерятся...
+
+Повторять все что выше для Lightsale не стал. Поэтому захотел просто перенести дампом базу в новое место.
+
+```bash
+pg_dump -h ls-1e3f.cbuz.eu-central-1.rds.amazonaws.com -Fc -U dbmasteruser postgres > /home/aikz/superstore_aws_ls.dump
+```
+
+Из базы `postgres` буду кочевать в `superstore`. B RDS у меня нет пользователя `dbmasteruser`, поэтому использую `--no-onwer`.
+
+```bash
+pg_restore -U postgres -h database-1-for-de123.ckebt.eu-central-1.rds.amazonaws.com -d superstore --no-owner /home/aikz/superstore_aws_ls.dump
+```
+
+Пробовал использовать дамп-скрипт - сам SQL код сохраняет нормально, но при восстановлении пишет ошибку что нет пользователя `dbmasteruser`. Получается, возможности восстановления из чисто SQL малость ограничены. Ну или ковырять руками пользователей? `pg_restore` дает больше возможностей - отдельно схемы, отдельно таблицы, отдельно данные.
+
+```bash
+pg_dump -h ls-1ef22a3f.cbveuz.eu-central-1.rds.amazonaws.com -U dbmasteruser postgres > /home/aikz/superstore_aws_ls.sql
+```
+
+```bash
+psql -U postgres -h database-1-for-de123.ckebt.eu-central-1.rds.amazonaws.com -d ssx -f /home/aikz/superstore_aws_ls.sql
+...
+psql:/home/aikz/superstore_aws_ls.sql:26: ERROR:  role "dbmasteruser" does not exist
+...
+```
+
+Но если пользователя создать, то будет все работает. 
+
+---
+
+# Сервисы визуализации для баз данных
 
 ---
 > [Начало](../../README.md) >> Модуль 2
