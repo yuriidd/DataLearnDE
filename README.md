@@ -17,5 +17,10 @@ MindMaps:
 
 # Module 2
 
-In process... [You can check it.](DE-101/Module2/README.md)
+Home task DONE. [You can check it.](DE-101/Module2/README.md)
 
+
+
+# Module 3
+
+In process... 
