@@ -1,0 +1,155 @@
+docker run \
+-p 5432:5432 --name postgres_contoso2 \
+-e POSTGRES_PASSWORD=pass123 \
+-v /mnt/d/sql:/sql \
+-v /mnt/d/git/DataLearnDE/Surfalytics/03_docker/postgres/init.d/:/docker-entrypoint-initdb.d \
+-d postgres
+
+
+========== run postgres image
+
+docker run \
+-p 5432:5432 --name postgres_contoso \
+-e POSTGRES_PASSWORD=pass123 \
+-v /mnt/d/sql:/sql \
+-v /home/aikz/03_docker/bash-scripts:/docker-entrypoint-initdb.d \
+-d postgres:16.1
+
+
+========== run pg-contoso image
+docker run \
+-p 5432:5432 --name postgres_contoso \
+-v /mnt/d/sql:/sql \
+-d pg-contoso:1.0
+
+
+
+
+
+
+
+
+services:
+  db:
+    build: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - /mnt/d/sql/source/CleanedContosoDataset/:/contosodb
+
+
+
+
+
+/mnt/d/sql/source/CleanedContosoDataset/CleanedContosoDataset_CSV
+
+psql -U postgres -d postgres
+psql -U postgres -d contoso
+
+psql -U postgres -h 172.20.44.2 -d postgres 
+postgresql-client-common -U postgres -h 172.20.44.2 -d postgres 
+
+postgres=# \i /mnt/d/git/DataLearnDE/Surfalytics/03_docker/postgres/create_db.txt
+
+
+
+
+
+---
+FROM '/mnt/d/sql/source/CleanedContosoDataset/CleanedContosoDataset_CSV/FactInventory.csv' DELIMITER ',' CSV HEADER;
+ERROR:  insert or update on table "fact_inventory" violates foreign key constraint "fact_inventory_product_key_fkey"
+DETAIL:  Key (product_key)=(904) is not present in table "dim_products".
+
+
+
+
+
+postgres=# \i /docker-entrypoint-initdb.d/sqlfiles/insert_data2tables.sql
+COPY 24
+COPY 4
+COPY 28
+COPY 2556
+COPY 293
+COPY 421
+COPY 674
+COPY 7816
+COPY 303
+COPY 8
+COPY 44
+COPY 28
+COPY 265
+COPY 3
+COPY 306
+COPY 773
+COPY 23283
+COPY 4925
+COPY 2750628
+COPY 18869
+COPY 2233
+COPY 8013099
+COPY 12627608
+COPY 3406089
+COPY 7465911
+
+
+=========================
+
+.
+├── Dockerfile
+├── docker_posgres16.1_log.txt
+└── init.d
+    ├── contosodb.sh
+    └── sqlfiles
+        ├── create_tables_erdplus.sql
+        └── insert_data2tables_linux.sql
+
+===============================
+
+services:
+  postgres:
+    container_name: postgres
+    image: postgres:latest
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PW}
+      - POSTGRES_DB=${POSTGRES_DB} #optional (specify default database instead of $POSTGRES_DB)
+    ports:
+      - "5432:5432"
+    restart: always
+
+  pgadmin:
+    container_name: pgadmin
+    image: dpage/pgadmin4:latest
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=${PGADMIN_MAIL}
+      - PGADMIN_DEFAULT_PASSWORD=${PGADMIN_PW}
+    ports:
+      - "5050:80"
+    restart: always
+
+
+============================
+FROM postgres:16.1
+
+WORKDIR /db
+
+COPY ./create_db.sql /docker-entrypoint-initdb.d
+COPY . /db
+
+EXPOSE 5432
+
+CMD ["postgres"]
+
+RUN --mount=type=bind,source=requirements.txt,target=/tmp/requirements.txt \
+    pip install --requirement /tmp/requirements.txt
+RUN --mount=from=src,target=/src 
+
+
+==========================
+
+docker exec -it <container id> psql -U postgres -d contoso -c "SELECT SUM(sales_amount) AS total_sales FROM fact_sales"
+docker exec -it 4fac944b5273 psql -U postgres -d contoso -c "SELECT SUM(sales_amount) AS total_sales FROM fact_sales"
+
+
+
+

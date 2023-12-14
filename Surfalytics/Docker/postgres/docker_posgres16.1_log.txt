@@ -1,0 +1,123 @@
+The files belonging to this database system will be owned by user "postgres".
+This user must also own the server process.
+
+The database cluster will be initialized with locale "en_US.utf8".
+The default database encoding has accordingly been set to "UTF8".
+The default text search configuration will be set to "english".
+
+Data page checksums are disabled.
+
+fixing permissions on existing directory /var/lib/postgresql/data ... ok
+creating subdirectories ... ok
+selecting dynamic shared memory implementation ... posix
+selecting default max_connections ... 100
+selecting default shared_buffers ... 128MB
+selecting default time zone ... Etc/UTC
+creating configuration files ... ok
+running bootstrap script ... ok
+performing post-bootstrap initialization ... ok
+syncing data to disk ... ok
+
+
+Success. You can now start the database server using:
+
+    pg_ctl -D /var/lib/postgresql/data -l logfile start
+
+waiting for server to start....2023-12-12 07:58:09.092 UTC [48] LOG:  starting PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+2023-12-12 07:58:09.096 UTC [48] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2023-12-12 07:58:09.107 UTC [51] LOG:  database system was shut down at 2023-12-12 07:58:08 UTC
+2023-12-12 07:58:09.114 UTC [48] LOG:  database system is ready to accept connections
+ done
+server started
+
+/usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/contosodb.sh
+CREATE DATABASE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+COPY 24
+COPY 4
+COPY 28
+COPY 2556
+COPY 293
+COPY 421
+COPY 674
+COPY 7816
+COPY 303
+COPY 8
+COPY 44
+COPY 28
+COPY 265
+COPY 3
+COPY 306
+COPY 773
+COPY 23283
+COPY 4925
+COPY 2750628
+COPY 18869
+COPY 2233
+2023-12-12 08:00:21.266 UTC [49] LOG:  checkpoint starting: wal
+2023-12-12 08:00:55.838 UTC [49] LOG:  checkpoint complete: wrote 5336 buffers (32.6%); 0 WAL file(s) added, 0 removed, 33 recycled; write=33.010 s, sync=0.609 s, total=34.946 s; sync files=385, longest=0.361 s, average=0.002 s; distance=539738 kB, estimate=539738 kB; lsn=0/403EC5C0, redo lsn=0/22401550
+2023-12-12 08:00:58.207 UTC [49] LOG:  checkpoint starting: wal
+2023-12-12 08:02:30.583 UTC [73] ERROR:  syntax error at or near "sh" at character 1
+2023-12-12 08:02:30.583 UTC [73] STATEMENT:  sh log
+	;
+COPY 8013099
+2023-12-12 08:04:37.875 UTC [49] LOG:  checkpoint complete: wrote 5131 buffers (31.3%); 0 WAL file(s) added, 0 removed, 33 recycled; write=213.496 s, sync=5.315 s, total=219.668 s; sync files=18, longest=3.468 s, average=0.296 s; distance=537691 kB, estimate=539534 kB; lsn=0/61000B28, redo lsn=0/43118320
+2023-12-12 08:04:41.565 UTC [49] LOG:  checkpoint starting: wal
+2023-12-12 08:05:51.452 UTC [49] LOG:  checkpoint complete: wrote 4464 buffers (27.2%); 0 WAL file(s) added, 0 removed, 33 recycled; write=64.423 s, sync=4.704 s, total=69.887 s; sync files=18, longest=3.204 s, average=0.262 s; distance=541799 kB, estimate=541799 kB; lsn=0/8226FF60, redo lsn=0/64232090
+2023-12-12 08:05:54.413 UTC [49] LOG:  checkpoint starting: wal
+2023-12-12 08:06:40.498 UTC [49] LOG:  checkpoint complete: wrote 10236 buffers (62.5%); 0 WAL file(s) added, 0 removed, 33 recycled; write=41.762 s, sync=3.722 s, total=46.085 s; sync files=16, longest=3.687 s, average=0.233 s; distance=542591 kB, estimate=542591 kB; lsn=0/A321AC78, redo lsn=0/85412050
+2023-12-12 08:06:42.914 UTC [49] LOG:  checkpoint starting: wal
+2023-12-12 08:07:33.752 UTC [49] LOG:  checkpoint complete: wrote 8734 buffers (53.3%); 0 WAL file(s) added, 0 removed, 33 recycled; write=47.327 s, sync=2.717 s, total=50.839 s; sync files=4, longest=2.683 s, average=0.680 s; distance=540434 kB, estimate=542376 kB; lsn=0/C42E4848, redo lsn=0/A63D6BF8
+2023-12-12 08:07:35.634 UTC [49] LOG:  checkpoint starting: wal
+2023-12-12 08:12:08.482 UTC [49] LOG:  checkpoint complete: wrote 3966 buffers (24.2%); 0 WAL file(s) added, 0 removed, 33 recycled; write=269.579 s, sync=1.533 s, total=272.818 s; sync files=6, longest=0.721 s, average=0.242 s; distance=537120 kB, estimate=541850 kB; lsn=0/D717EE18, redo lsn=0/C705EF38
+2023-12-12 08:12:35.546 UTC [49] LOG:  checkpoint starting: time
+2023-12-12 08:13:04.061 UTC [49] LOG:  checkpoint complete: wrote 270 buffers (1.6%); 0 WAL file(s) added, 0 removed, 16 recycled; write=28.285 s, sync=0.016 s, total=28.516 s; sync files=6, longest=0.008 s, average=0.003 s; distance=263306 kB, estimate=513996 kB; lsn=0/D7186B28, redo lsn=0/D71818E0
+COPY 12627608
+2023-12-12 08:17:35.231 UTC [49] LOG:  checkpoint starting: time
+2023-12-12 08:20:12.982 UTC [49] LOG:  checkpoint complete: wrote 1683 buffers (10.3%); 0 WAL file(s) added, 2 removed, 4 recycled; write=155.067 s, sync=1.175 s, total=157.880 s; sync files=10, longest=1.048 s, average=0.118 s; distance=102699 kB, estimate=472866 kB; lsn=0/F7D10698, redo lsn=0/DD5CC6E0
+2023-12-12 08:22:35.684 UTC [49] LOG:  checkpoint starting: time
+2023-12-12 08:22:39.626 UTC [49] LOG:  checkpoint complete: wrote 36 buffers (0.2%); 0 WAL file(s) added, 1 removed, 26 recycled; write=3.559 s, sync=0.018 s, total=3.943 s; sync files=16, longest=0.008 s, average=0.002 s; distance=437093 kB, estimate=469289 kB; lsn=0/F80A5F00, redo lsn=0/F80A5EC8
+COPY 3406089
+2023-12-12 08:24:00.069 UTC [49] LOG:  checkpoint starting: wal
+2023-12-12 08:28:30.427 UTC [49] LOG:  checkpoint complete: wrote 8809 buffers (53.8%); 0 WAL file(s) added, 0 removed, 33 recycled; write=269.972 s, sync=0.011 s, total=270.370 s; sync files=12, longest=0.005 s, average=0.001 s; distance=541180 kB, estimate=541180 kB; lsn=1/2F306C78, redo lsn=1/19124FA8
+COPY 7465911
+
+/usr/local/bin/docker-entrypoint.sh: ignoring /docker-entrypoint-initdb.d/sqlfiles
+
+2023-12-12 08:29:50.725 UTC [48] LOG:  received fast shutdown request
+2023-12-12 08:29:50.740 UTC [48] LOG:  aborting any active transactions
+waiting for server to shut down....2023-12-12 08:29:50.753 UTC [73] FATAL:  terminating connection due to administrator command
+2023-12-12 08:29:50.760 UTC [48] LOG:  background worker "logical replication launcher" (PID 54) exited with exit code 1
+2023-12-12 08:29:50.781 UTC [49] LOG:  shutting down
+2023-12-12 08:29:50.790 UTC [49] LOG:  checkpoint starting: shutdown immediate
+2023-12-12 08:29:51.068 UTC [49] LOG:  checkpoint complete: wrote 35 buffers (0.2%); 0 WAL file(s) added, 0 removed, 22 recycled; write=0.027 s, sync=0.020 s, total=0.287 s; sync files=7, longest=0.015 s, average=0.003 s; distance=362375 kB, estimate=523299 kB; lsn=1/2F306D88, redo lsn=1/2F306D88
+2023-12-12 08:29:51.155 UTC [48] LOG:  database system is shut down
+ done
+server stopped
+
+PostgreSQL init process complete; ready for start up.
+

@@ -1,0 +1,19 @@
+ 1023  python3 -m venv venv
+ 1024  source venv/bin/activate
+
+
+ 1025  pip install flask
+python3.11 -m pip install flask
+
+
+ 1026  pip freeze > requirements.txt
+ 1027  python3 app.py
+
+
+
+
+
+pip3 uninstall flask && python3 -m pip install flask
+
+
+pip uninstall flask && python3.11 -m pip install flask

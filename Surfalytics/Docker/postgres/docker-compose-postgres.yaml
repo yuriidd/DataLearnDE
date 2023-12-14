@@ -1,0 +1,14 @@
+services:
+  postgres:
+    container_name: pg-contoso-compose:1.0
+    image: postgres:16.1
+    environment:
+#      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=pass123
+#      - POSTGRES_DB=${POSTGRES_DB} #optional (specify default database instead of $POSTGRES_DB)
+#      - PGDATA=/var/lib/postgresql/data/pgdata
+    ports:
+      - "5432:5432"
+    volumes:
+      - /mnt/d/sql:/sql
+      - /home/aikz/03_docker/bash-scripts:/docker-entrypoint-initdb.d

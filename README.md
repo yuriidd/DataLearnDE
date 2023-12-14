@@ -1,10 +1,10 @@
-# DataLearnDE
+That repository for [datalearn.ru-data-engineer](https://github.com/Data-Learn/data-engineering) course and Surfalytics projects.
 
-That repository for [datalearn.ru-data-engineer](https://github.com/Data-Learn/data-engineering) course and it's home task.
+# DataLearn ~ Data Engineer
 
-#DataEngineer #datalearn
+#dataengineer #datalearn
 
-# Module 1
+## Module 1
 
 Home task DONE. [You can check it.](DE-101/Module1/README.md)
 
@@ -15,12 +15,21 @@ MindMaps:
 - [Excel-n-Sheets.xmind](DE-101/Module1/Excel/Excel-n-Sheets.xmind)
 
 
-# Module 2
+## Module 2
 
 Home task DONE. [You can check it.](DE-101/Module2/README.md)
 
+MindMaps: [SQL.xmind](SQL.xmind)
+
+## Module 3
+
+In process... 
 
 
-# Module 3
+# Surfalytics ~ projects
+
+#surfalytics
+
+## Docker
 
 In process... 
