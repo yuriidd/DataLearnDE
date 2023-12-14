@@ -6,7 +6,7 @@ That repository for [datalearn.ru-data-engineer](https://github.com/Data-Learn/d
 
 ## Module 1
 
-Home task is DONE. [You can check it.](DE-101/Module1/README.md)
+Home task is DONE. [You can check it (RU).](DE-101/Module1/README.md)
 
 MindMaps:
 
@@ -17,7 +17,7 @@ MindMaps:
 
 ## Module 2
 
-Home task is DONE. [You can check it.](DE-101/Module2/README.md)
+Home task is DONE. [You can check it (RU).](DE-101/Module2/README.md)
 
 MindMaps: [SQL.xmind](SQL.xmind)
 
@@ -32,4 +32,4 @@ In process...
 
 ## Docker
 
-Task is DONE. [RU version](Surfalytics/Docker/README.md), EN version in progress...
+Local deployment is DONE. [RU version](Surfalytics/Docker/README.md), [EN version](Surfalytics/Docker/README-EN.md).
