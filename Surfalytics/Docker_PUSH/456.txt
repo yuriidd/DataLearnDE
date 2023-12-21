@@ -1,0 +1,47 @@
+== 1
+выбрать подписку и создать ресорс группу
+
+Select Azure subscription (Azure CLI command prompt)
+ az account set --subscription "Surfalytics training"
+
+Create resource group (Azure CLI command prompt)
+ az group create --name rg-surfalytics-docker --location westus
+
+
+
+
+
+
+
+== 2 создать сонтейнер регистр
+
+
+
+
+
+
+3 контейнер регистр
+ключи доступа - админ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== 4       веб апп для контейнеров (вконце, когда уже запушен image)
+
+=====  команда удалить РГ полностью и все что в ней
+
+
+======= отправить image из своей консоли            в ажур по логину и паролю    
+это аналогично как отправить на докерхаб
