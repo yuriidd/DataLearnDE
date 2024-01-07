@@ -1,12 +1,15 @@
 == 1
 выбрать подписку и создать ресорс группу
 
+
+
+
 Select Azure subscription (Azure CLI command prompt)
  az account set --subscription "Surfalytics training"
 
 Create resource group (Azure CLI command prompt)
- az group create --name rg-surfalytics-docker --location westus
-
+az group create --name rg-surfalytics-docker --location westus
+#az group create --name rg-cli-learn --location westeurope
 
 
 

@@ -1,0 +1,35 @@
+
+az group list --output table
+===============
+
+
+export RESOURCE_GROUP=learn-24032000-eedd-4f03-b4a2-cccfb27115ab
+export AZURE_REGION=eastus
+export AZURE_APP_PLAN=popupappplan-$RANDOM
+export AZURE_WEB_APP=popupwebapp-$RANDOM
+
+
+export RESOURCE_GROUP
+
+
+az appservice plan create --name $AZURE_APP_PLAN --resource-group $RESOURCE_GROUP --location $AZURE_REGION --sku FREE
+az appservice plan list --output table
+
+az webapp create --name $AZURE_WEB_APP --resource-group $RESOURCE_GROUP --plan $AZURE_APP_PLAN
+az webapp list --output table
+popupwebapp-15184.azurewebsites.net
+site="http://$AZURE_WEB_APP.azurewebsites.net"
+echo $site
+
+
+az webapp deployment source config --name $AZURE_WEB_APP --resource-group $RESOURCE_GROUP \
+--repo-url "https://github.com/Azure-Samples/php-docs-hello-world" --branch master --manual-integration
+curl $AZURE_WEB_APP.azurewebsites.net
+
+
+
+
+
+
+
+
