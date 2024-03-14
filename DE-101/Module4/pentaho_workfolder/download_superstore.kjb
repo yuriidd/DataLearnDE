@@ -314,7 +314,7 @@
       <type>HTTP</type>
       <attributes/>
       <url>https://github.com/yuriizd/DataLearnDE/blob/main/DE-101/Module3/Source/Superstore(2016-2020).xlsx</url>
-      <targetfilename>${INPUT}/Superstore.xlsx</targetfilename>
+      <targetfilename>D:\git\DataLearnDE\DE-101\Module4\source_input\Superstore2.xls</targetfilename>
       <file_appended>N</file_appended>
       <date_time_added>N</date_time_added>
       <targetfilename_extension/>
@@ -334,8 +334,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>304</xloc>
-      <yloc>176</yloc>
+      <xloc>336</xloc>
+      <yloc>64</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -343,21 +343,21 @@
       <description/>
       <type>DELETE_FILE</type>
       <attributes/>
-      <filename>${INPUT}\Superstore.xlsx</filename>
+      <filename>D:\git\DataLearnDE\DE-101\Module4\source_input\Superstore.xls</filename>
       <fail_if_file_not_exists>N</fail_if_file_not_exists>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>176</xloc>
-      <yloc>80</yloc>
+      <xloc>784</xloc>
+      <yloc>112</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
-      <name>Shell</name>
+      <name>download_superstore.ps1</name>
       <description/>
       <type>SHELL</type>
       <attributes/>
-      <filename>${WORKFOLDER}/download_superstore.sh</filename>
+      <filename>D:\git\DataLearnDE\DE-101\Module4\pentaho_workfolder\download_superstore.ps1</filename>
       <work_directory/>
       <arg_from_previous>N</arg_from_previous>
       <exec_per_row>N</exec_per_row>
@@ -373,29 +373,50 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>304</xloc>
-      <yloc>80</yloc>
+      <xloc>784</xloc>
+      <yloc>48</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>HTTP</name>
+      <description/>
+      <type>HTTP</type>
+      <attributes/>
+      <url>https://github.com/yuriizd/DataLearnDE/blob/main/DE-101/Module3/Source/Superstore(2016-2020).xls</url>
+      <targetfilename>D:\git\DataLearnDE\DE-101\Module4\source_input\Superstore.xls</targetfilename>
+      <file_appended>N</file_appended>
+      <date_time_added>N</date_time_added>
+      <targetfilename_extension/>
+      <uploadfilename/>
+      <run_every_row>N</run_every_row>
+      <url_fieldname/>
+      <upload_fieldname/>
+      <dest_fieldname/>
+      <username/>
+      <password>Encrypted </password>
+      <proxy_host/>
+      <proxy_port/>
+      <non_proxy_hosts/>
+      <addfilenameresult>N</addfilenameresult>
+      <headers>
+      </headers>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>192</xloc>
+      <yloc>192</yloc>
       <attributes_kjc/>
     </entry>
   </entries>
   <hops>
     <hop>
       <from>Start</from>
-      <to>Delete file</to>
+      <to>HTTP</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
       <evaluation>Y</evaluation>
       <unconditional>Y</unconditional>
-    </hop>
-    <hop>
-      <from>Delete file</from>
-      <to>HTTP download sample from github</to>
-      <from_nr>0</from_nr>
-      <to_nr>0</to_nr>
-      <enabled>Y</enabled>
-      <evaluation>Y</evaluation>
-      <unconditional>N</unconditional>
     </hop>
   </hops>
   <notepads>

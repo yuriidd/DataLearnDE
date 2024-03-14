@@ -23,6 +23,10 @@ MindMaps: [SQL.xmind](SQL.xmind)
 
 ## Module 3
 
+Home task is DONE. [You can check it (RU).](DE-101/Module3/README.md)
+
+## Module 4
+
 In process... 
 
 

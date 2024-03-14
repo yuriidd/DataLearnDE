@@ -1,0 +1,1 @@
+"D:\1.Program\Pentaho-data-integration\Kitchen.bat" /file:"D:\git\DataLearnDE\DE-101\Module4\pentaho_workfolder\final_job_superstore.kjb" /level:Basic

@@ -1,0 +1,535 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country/Region,City,State,Postal_Code,Region,Product_ID,Sales,Quantity,Discount,Profit,Person
+CA-2020-100412,2020-12-22,2020-12-26,Standard Class,SR-20425,Sharelle Roach,Home Office,United States,Tuscaloosa,Alabama,35401,South,FUR-CH-10002647,141.96,2,0,35.49,Cassandra Brandow
+CA-2020-100426,2020-06-04,2020-06-08,Standard Class,DC-12850,Dan Campbell,Consumer,United States,Florence,Alabama,35630,South,OFF-PA-10002870,12.48,2,0,5.616,Cassandra Brandow
+CA-2020-100622,2020-11-03,2020-11-07,Standard Class,DK-13090,Dave Kipp,Consumer,United States,Orlando,Florida,32839,South,TEC-CO-10003236,959.984,2,0.2,311.9948,Cassandra Brandow
+CA-2020-100622,2020-11-03,2020-11-07,Standard Class,DK-13090,Dave Kipp,Consumer,United States,Orlando,Florida,32839,South,OFF-BI-10002982,4.086,2,0.7,-2.9964,Cassandra Brandow
+CA-2020-100622,2020-11-03,2020-11-07,Standard Class,DK-13090,Dave Kipp,Consumer,United States,Orlando,Florida,32839,South,OFF-AR-10004010,55.984,2,0.2,4.1988,Cassandra Brandow
+CA-2020-100622,2020-11-03,2020-11-07,Standard Class,DK-13090,Dave Kipp,Consumer,United States,Orlando,Florida,32839,South,OFF-PA-10002947,10.688,2,0.2,3.7408,Cassandra Brandow
+CA-2020-100902,2020-11-17,2020-11-21,Standard Class,CK-12595,Clytie Kelty,Consumer,United States,Charlotte,North Carolina,28205,South,OFF-PA-10002558,268.24,7,0.2,93.884,Cassandra Brandow
+CA-2020-100902,2020-11-17,2020-11-21,Standard Class,CK-12595,Clytie Kelty,Consumer,United States,Charlotte,North Carolina,28205,South,TEC-AC-10003174,431.16,5,0.2,107.79,Cassandra Brandow
+CA-2020-101042,2020-11-19,2020-11-23,Standard Class,AB-10105,Adrian Barton,Consumer,United States,Henderson,Kentucky,42420,South,FUR-FU-10004665,821.88,6,0,213.6888,Cassandra Brandow
+CA-2020-101042,2020-11-19,2020-11-23,Standard Class,AB-10105,Adrian Barton,Consumer,United States,Henderson,Kentucky,42420,South,OFF-BI-10000088,21.96,2,0,10.7604,Cassandra Brandow
+CA-2020-101210,2020-08-25,2020-08-28,Second Class,DW-13540,Don Weiss,Consumer,United States,Jackson,Tennessee,38301,South,OFF-AR-10003560,9.728,2,0.2,1.7024,Cassandra Brandow
+CA-2020-101210,2020-08-25,2020-08-28,Second Class,DW-13540,Don Weiss,Consumer,United States,Jackson,Tennessee,38301,South,OFF-PA-10000130,3.424,1,0.2,1.07,Cassandra Brandow
+CA-2020-101273,2020-08-27,2020-08-30,Second Class,ST-20530,Shui Tom,Consumer,United States,Port Saint Lucie,Florida,34952,South,OFF-AP-10000804,14.336,4,0.2,0.896,Cassandra Brandow
+CA-2020-101483,2020-07-29,2020-08-01,Second Class,AG-10675,Anna Gayman,Consumer,United States,Jacksonville,North Carolina,28540,South,OFF-AP-10002082,34.848,2,0.2,6.534,Cassandra Brandow
+CA-2020-101483,2020-07-29,2020-08-01,Second Class,AG-10675,Anna Gayman,Consumer,United States,Jacksonville,North Carolina,28540,South,TEC-PH-10003442,22,5,0.2,1.375,Cassandra Brandow
+CA-2020-101483,2020-07-29,2020-08-01,Second Class,AG-10675,Anna Gayman,Consumer,United States,Jacksonville,North Carolina,28540,South,OFF-AR-10002833,4.368,3,0.2,0.3822,Cassandra Brandow
+CA-2020-102204,2020-05-01,2020-05-06,Standard Class,CJ-12010,Caroline Jumper,Consumer,United States,Jacksonville,Florida,32216,South,OFF-SU-10001212,3.328,2,0.2,0.416,Cassandra Brandow
+CA-2020-102204,2020-05-01,2020-05-06,Standard Class,CJ-12010,Caroline Jumper,Consumer,United States,Jacksonville,Florida,32216,South,FUR-TA-10001889,933.262,4,0.45,-458.1468,Cassandra Brandow
+CA-2020-102204,2020-05-01,2020-05-06,Standard Class,CJ-12010,Caroline Jumper,Consumer,United States,Jacksonville,Florida,32216,South,FUR-CH-10002024,2803.92,5,0.2,0,Cassandra Brandow
+CA-2020-102309,2020-09-23,2020-09-25,Second Class,DO-13645,Doug O'Connell,Consumer,United States,Pine Bluff,Arkansas,71603,South,TEC-AC-10001114,199.95,5,0,63.984,Cassandra Brandow
+CA-2020-102309,2020-09-23,2020-09-25,Second Class,DO-13645,Doug O'Connell,Consumer,United States,Pine Bluff,Arkansas,71603,South,OFF-PA-10002005,12.96,2,0,6.2208,Cassandra Brandow
+CA-2020-102554,2020-06-11,2020-06-15,Standard Class,KN-16705,Kristina Nunn,Home Office,United States,Auburn,Alabama,36830,South,OFF-AR-10001919,3.76,2,0,1.0904,Cassandra Brandow
+CA-2020-102610,2020-11-04,2020-11-08,Standard Class,CA-12265,Christina Anderson,Consumer,United States,Chattanooga,Tennessee,37421,South,TEC-AC-10000303,95.976,3,0.2,15.5961,Cassandra Brandow
+CA-2020-102610,2020-11-04,2020-11-08,Standard Class,CA-12265,Christina Anderson,Consumer,United States,Chattanooga,Tennessee,37421,South,TEC-PH-10000127,143.928,9,0.2,-32.3838,Cassandra Brandow
+CA-2020-102610,2020-11-04,2020-11-08,Standard Class,CA-12265,Christina Anderson,Consumer,United States,Chattanooga,Tennessee,37421,South,OFF-BI-10004364,3.564,2,0.7,-2.97,Cassandra Brandow
+CA-2020-102610,2020-11-04,2020-11-08,Standard Class,CA-12265,Christina Anderson,Consumer,United States,Chattanooga,Tennessee,37421,South,OFF-LA-10002195,4.928,2,0.2,1.7248,Cassandra Brandow
+CA-2020-102736,2020-09-05,2020-09-09,Standard Class,LP-17095,Liz Preis,Consumer,United States,Knoxville,Tennessee,37918,South,TEC-AC-10004568,89.568,4,0.2,-1.1196,Cassandra Brandow
+CA-2020-102736,2020-09-05,2020-09-09,Standard Class,LP-17095,Liz Preis,Consumer,United States,Knoxville,Tennessee,37918,South,OFF-AR-10001897,71.96,5,0.2,7.196,Cassandra Brandow
+CA-2020-102736,2020-09-05,2020-09-09,Standard Class,LP-17095,Liz Preis,Consumer,United States,Knoxville,Tennessee,37918,South,OFF-PA-10001800,15.552,3,0.2,5.4432,Cassandra Brandow
+CA-2020-103009,2020-11-03,2020-11-05,Second Class,PJ-18835,Patrick Jones,Corporate,United States,Richmond,Kentucky,40475,South,OFF-PA-10001215,26.4,5,0,11.88,Cassandra Brandow
+CA-2020-103065,2020-10-20,2020-10-20,Same Day,PT-19090,Pete Takahito,Consumer,United States,Jacksonville,Florida,32216,South,OFF-ST-10000617,4.768,2,0.2,-0.7748,Cassandra Brandow
+CA-2020-103065,2020-10-20,2020-10-20,Same Day,PT-19090,Pete Takahito,Consumer,United States,Jacksonville,Florida,32216,South,OFF-PA-10000380,6.672,1,0.2,2.502,Cassandra Brandow
+CA-2020-103065,2020-10-20,2020-10-20,Same Day,PT-19090,Pete Takahito,Consumer,United States,Jacksonville,Florida,32216,South,OFF-AR-10003251,4.448,2,0.2,1.112,Cassandra Brandow
+CA-2020-103065,2020-10-20,2020-10-20,Same Day,PT-19090,Pete Takahito,Consumer,United States,Jacksonville,Florida,32216,South,FUR-FU-10000175,43.936,4,0.2,6.0412,Cassandra Brandow
+CA-2020-103212,2020-10-13,2020-10-14,First Class,MH-18025,Michelle Huthwaite,Consumer,United States,Lafayette,Louisiana,70506,South,OFF-LA-10000248,11.07,3,0,5.2029,Cassandra Brandow
+CA-2020-103212,2020-10-13,2020-10-14,First Class,MH-18025,Michelle Huthwaite,Consumer,United States,Lafayette,Louisiana,70506,South,FUR-TA-10003473,1504.52,4,0,346.0396,Cassandra Brandow
+CA-2020-103212,2020-10-13,2020-10-14,First Class,MH-18025,Michelle Huthwaite,Consumer,United States,Lafayette,Louisiana,70506,South,OFF-PA-10004355,25.92,4,0,12.4416,Cassandra Brandow
+CA-2020-103499,2020-11-20,2020-11-24,Standard Class,ES-14020,Erica Smith,Consumer,United States,Jackson,Tennessee,38301,South,FUR-CH-10001482,209.568,2,0.2,-23.5764,Cassandra Brandow
+CA-2020-104318,2020-05-13,2020-05-18,Standard Class,FH-14275,Frank Hawley,Corporate,United States,Franklin,Tennessee,37064,South,OFF-AP-10000358,20.768,2,0.2,2.3364,Cassandra Brandow
+CA-2020-104731,2020-07-21,2020-07-27,Standard Class,AM-10705,Anne McFarland,Consumer,United States,Salem,Virginia,24153,South,OFF-AR-10003727,101.94,6,0,29.5626,Cassandra Brandow
+CA-2020-104731,2020-07-21,2020-07-27,Standard Class,AM-10705,Anne McFarland,Consumer,United States,Salem,Virginia,24153,South,TEC-PH-10002660,271.96,4,0,67.99,Cassandra Brandow
+CA-2020-104731,2020-07-21,2020-07-27,Standard Class,AM-10705,Anne McFarland,Consumer,United States,Salem,Virginia,24153,South,FUR-FU-10003274,8.8,5,0,3.872,Cassandra Brandow
+CA-2020-104731,2020-07-21,2020-07-27,Standard Class,AM-10705,Anne McFarland,Consumer,United States,Salem,Virginia,24153,South,OFF-AR-10003829,19.68,6,0,5.7072,Cassandra Brandow
+CA-2020-104731,2020-07-21,2020-07-27,Standard Class,AM-10705,Anne McFarland,Consumer,United States,Salem,Virginia,24153,South,FUR-BO-10003441,302.94,3,0,69.6762,Cassandra Brandow
+CA-2020-104731,2020-07-21,2020-07-27,Standard Class,AM-10705,Anne McFarland,Consumer,United States,Salem,Virginia,24153,South,OFF-BI-10003355,14.94,3,0,7.1712,Cassandra Brandow
+CA-2020-104731,2020-07-21,2020-07-27,Standard Class,AM-10705,Anne McFarland,Consumer,United States,Salem,Virginia,24153,South,OFF-SU-10003505,231.72,2,0,11.586,Cassandra Brandow
+CA-2020-104864,2020-11-18,2020-11-23,Second Class,JS-15685,Jim Sink,Corporate,United States,Miramar,Florida,33023,South,OFF-ST-10002301,81.36,5,0.2,-19.323,Cassandra Brandow
+CA-2020-104864,2020-11-18,2020-11-23,Second Class,JS-15685,Jim Sink,Corporate,United States,Miramar,Florida,33023,South,OFF-BI-10001636,20.232,8,0.7,-16.1856,Cassandra Brandow
+CA-2020-104864,2020-11-18,2020-11-23,Second Class,JS-15685,Jim Sink,Corporate,United States,Miramar,Florida,33023,South,OFF-AP-10002684,389.056,4,0.2,48.632,Cassandra Brandow
+CA-2020-104864,2020-11-18,2020-11-23,Second Class,JS-15685,Jim Sink,Corporate,United States,Miramar,Florida,33023,South,OFF-PA-10004609,20.736,4,0.2,7.2576,Cassandra Brandow
+CA-2020-104864,2020-11-18,2020-11-23,Second Class,JS-15685,Jim Sink,Corporate,United States,Miramar,Florida,33023,South,OFF-PA-10003309,41.472,8,0.2,14.5152,Cassandra Brandow
+CA-2020-105620,2020-12-25,2020-12-28,First Class,JH-15430,Jennifer Halladay,Consumer,United States,Hialeah,Florida,33012,South,FUR-FU-10004963,21,3,0.2,5.775,Cassandra Brandow
+CA-2020-105620,2020-12-25,2020-12-28,First Class,JH-15430,Jennifer Halladay,Consumer,United States,Hialeah,Florida,33012,South,TEC-MA-10004626,120,2,0.5,-7.2,Cassandra Brandow
+CA-2020-106537,2020-08-12,2020-08-17,Standard Class,RH-19495,Rick Hansen,Consumer,United States,Orlando,Florida,32839,South,OFF-PA-10000223,20.736,4,0.2,7.2576,Cassandra Brandow
+CA-2020-107167,2020-06-10,2020-06-14,Standard Class,ND-18460,Neil Ducich,Corporate,United States,Jacksonville,Florida,32216,South,OFF-ST-10003805,1347.52,8,0.2,84.22,Cassandra Brandow
+CA-2020-107209,2020-07-27,2020-08-01,Second Class,JW-15955,Joni Wasserman,Consumer,United States,Raleigh,North Carolina,27604,South,FUR-CH-10001146,194.848,4,0.2,12.178,Cassandra Brandow
+CA-2020-107461,2020-12-21,2020-12-26,Second Class,PK-19075,Pete Kriz,Consumer,United States,Columbia,South Carolina,29203,South,OFF-BI-10002003,23.88,6,0,11.2236,Cassandra Brandow
+CA-2020-108035,2020-11-29,2020-12-03,Standard Class,TT-21070,Ted Trevino,Consumer,United States,Chattanooga,Tennessee,37421,South,FUR-CH-10000454,390.368,2,0.2,48.796,Cassandra Brandow
+CA-2020-108035,2020-11-29,2020-12-03,Standard Class,TT-21070,Ted Trevino,Consumer,United States,Chattanooga,Tennessee,37421,South,FUR-FU-10004017,101.52,5,0.2,19.035,Cassandra Brandow
+CA-2020-108112,2020-11-15,2020-11-20,Standard Class,DK-12895,Dana Kaydos,Consumer,United States,Miramar,Florida,33023,South,FUR-FU-10003553,220.064,4,0.2,55.016,Cassandra Brandow
+CA-2020-108112,2020-11-15,2020-11-20,Standard Class,DK-12895,Dana Kaydos,Consumer,United States,Miramar,Florida,33023,South,FUR-FU-10001488,339.136,4,0.2,0,Cassandra Brandow
+CA-2020-108287,2020-12-18,2020-12-20,First Class,AG-10330,Alex Grayson,Consumer,United States,Charlotte,North Carolina,28205,South,OFF-AR-10001315,12.672,9,0.2,1.4256,Cassandra Brandow
+CA-2020-108322,2020-04-30,2020-05-05,Standard Class,SS-20140,Saphhira Shifley,Corporate,United States,Pompano Beach,Florida,33068,South,FUR-FU-10001935,23.68,8,0.2,6.216,Cassandra Brandow
+CA-2020-108322,2020-04-30,2020-05-05,Standard Class,SS-20140,Saphhira Shifley,Corporate,United States,Pompano Beach,Florida,33068,South,TEC-AC-10003433,2.376,3,0.2,0.7425,Cassandra Brandow
+CA-2020-109183,2020-12-04,2020-12-09,Standard Class,LR-16915,Lena Radford,Consumer,United States,Nashville,Tennessee,37211,South,TEC-MA-10001856,649,2,0.5,-272.58,Cassandra Brandow
+CA-2020-109589,2020-12-21,2020-12-24,First Class,BD-11635,Brian Derr,Consumer,United States,Bowling Green,Kentucky,42104,South,TEC-AC-10003116,71,4,0,27.69,Cassandra Brandow
+CA-2020-110198,2020-05-01,2020-05-02,First Class,AG-10900,Arthur Gainer,Consumer,United States,Coral Springs,Florida,33065,South,FUR-BO-10001798,314.352,3,0.2,-15.7176,Cassandra Brandow
+CA-2020-110198,2020-05-01,2020-05-02,First Class,AG-10900,Arthur Gainer,Consumer,United States,Coral Springs,Florida,33065,South,OFF-LA-10004409,4.608,2,0.2,1.4976,Cassandra Brandow
+CA-2020-110212,2020-05-01,2020-05-05,Standard Class,SJ-20125,Sanjit Jacobs,Home Office,United States,Texarkana,Arkansas,71854,South,TEC-AC-10002331,48.9,5,0,18.093,Cassandra Brandow
+CA-2020-110310,2020-10-27,2020-11-02,Standard Class,NB-18655,Nona Balk,Corporate,United States,Tallahassee,Florida,32303,South,OFF-PA-10001685,56.784,7,0.2,20.5842,Cassandra Brandow
+CA-2020-110310,2020-10-27,2020-11-02,Standard Class,NB-18655,Nona Balk,Corporate,United States,Tallahassee,Florida,32303,South,OFF-BI-10001097,5.607,3,0.7,-3.9249,Cassandra Brandow
+CA-2020-110310,2020-10-27,2020-11-02,Standard Class,NB-18655,Nona Balk,Corporate,United States,Tallahassee,Florida,32303,South,OFF-AR-10001662,6.576,3,0.2,0.5754,Cassandra Brandow
+CA-2020-110926,2020-11-19,2020-11-23,Standard Class,DD-13570,Dorothy Dickinson,Consumer,United States,Alexandria,Virginia,22304,South,OFF-FA-10000624,25.06,7,0,12.53,Cassandra Brandow
+CA-2020-112774,2020-09-11,2020-09-12,First Class,RC-19960,Ryan Crowe,Consumer,United States,Jacksonville,Florida,32216,South,FUR-FU-10003039,34.504,1,0.2,6.0382,Cassandra Brandow
+CA-2020-113481,2020-01-02,2020-01-04,First Class,AS-10045,Aaron Smayling,Corporate,United States,Jacksonville,North Carolina,28540,South,TEC-MA-10002178,695.7,2,0.5,-27.828,Cassandra Brandow
+CA-2020-113481,2020-01-02,2020-01-04,First Class,AS-10045,Aaron Smayling,Corporate,United States,Jacksonville,North Carolina,28540,South,OFF-BI-10003694,15.66,5,0.7,-12.528,Cassandra Brandow
+CA-2020-113481,2020-01-02,2020-01-04,First Class,AS-10045,Aaron Smayling,Corporate,United States,Jacksonville,North Carolina,28540,South,OFF-BI-10000474,28.854,6,0.7,-21.1596,Cassandra Brandow
+CA-2020-113558,2020-10-21,2020-10-26,Standard Class,PH-18790,Patricia Hirasaki,Home Office,United States,Lakeland,Florida,33801,South,FUR-CH-10003379,683.952,3,0.2,42.747,Cassandra Brandow
+CA-2020-113558,2020-10-21,2020-10-26,Standard Class,PH-18790,Patricia Hirasaki,Home Office,United States,Lakeland,Florida,33801,South,FUR-FU-10001756,45.696,3,0.2,5.1408,Cassandra Brandow
+CA-2020-113705,2020-03-27,2020-03-29,Second Class,LC-16870,Lena Cacioppo,Consumer,United States,Richmond,Virginia,23223,South,OFF-LA-10000476,8.26,2,0,3.7996,Cassandra Brandow
+CA-2020-113705,2020-03-27,2020-03-29,Second Class,LC-16870,Lena Cacioppo,Consumer,United States,Richmond,Virginia,23223,South,OFF-BI-10001679,17.76,2,0,8.88,Cassandra Brandow
+CA-2020-113705,2020-03-27,2020-03-29,Second Class,LC-16870,Lena Cacioppo,Consumer,United States,Richmond,Virginia,23223,South,OFF-ST-10001128,332.94,3,0,9.9882,Cassandra Brandow
+CA-2020-113705,2020-03-27,2020-03-29,Second Class,LC-16870,Lena Cacioppo,Consumer,United States,Richmond,Virginia,23223,South,FUR-TA-10002533,292.1,2,0,58.42,Cassandra Brandow
+CA-2020-113705,2020-03-27,2020-03-29,Second Class,LC-16870,Lena Cacioppo,Consumer,United States,Richmond,Virginia,23223,South,TEC-PH-10004006,206.1,5,0,55.647,Cassandra Brandow
+CA-2020-113705,2020-03-27,2020-03-29,Second Class,LC-16870,Lena Cacioppo,Consumer,United States,Richmond,Virginia,23223,South,OFF-PA-10002615,17.64,4,0,8.1144,Cassandra Brandow
+CA-2020-114055,2020-12-25,2020-12-29,Second Class,MH-18115,Mick Hernandez,Home Office,United States,Huntsville,Alabama,35810,South,OFF-PA-10004381,96.08,2,0,46.1184,Cassandra Brandow
+CA-2020-114055,2020-12-25,2020-12-29,Second Class,MH-18115,Mick Hernandez,Home Office,United States,Huntsville,Alabama,35810,South,OFF-FA-10003059,3.62,2,0,1.1946,Cassandra Brandow
+CA-2020-114055,2020-12-25,2020-12-29,Second Class,MH-18115,Mick Hernandez,Home Office,United States,Huntsville,Alabama,35810,South,OFF-PA-10000994,629.1,6,0,301.968,Cassandra Brandow
+CA-2020-114055,2020-12-25,2020-12-29,Second Class,MH-18115,Mick Hernandez,Home Office,United States,Huntsville,Alabama,35810,South,TEC-PH-10002890,90.48,2,0,23.5248,Cassandra Brandow
+CA-2020-114412,2020-04-15,2020-04-20,Standard Class,AA-10480,Andrew Allen,Consumer,United States,Concord,North Carolina,28027,South,OFF-PA-10002365,15.552,3,0.2,5.4432,Cassandra Brandow
+CA-2020-114636,2020-08-25,2020-08-29,Standard Class,GA-14725,Guy Armstrong,Consumer,United States,Charlotte,North Carolina,28205,South,OFF-PA-10001790,192.16,5,0.2,67.256,Cassandra Brandow
+CA-2020-115070,2020-04-10,2020-04-14,Second Class,MG-18205,Mitch Gastineau,Corporate,United States,Jacksonville,Florida,32216,South,FUR-FU-10003829,12.32,5,0.2,1.848,Cassandra Brandow
+CA-2020-115070,2020-04-10,2020-04-14,Second Class,MG-18205,Mitch Gastineau,Corporate,United States,Jacksonville,Florida,32216,South,OFF-BI-10003712,4.419,3,0.7,-3.0933,Cassandra Brandow
+CA-2020-115448,2020-11-11,2020-11-14,First Class,MH-18025,Michelle Huthwaite,Consumer,United States,Knoxville,Tennessee,37918,South,FUR-FU-10004090,88.92,5,0.2,14.4495,Cassandra Brandow
+CA-2020-115882,2020-09-14,2020-09-17,First Class,DB-13555,Dorothy Badders,Corporate,United States,Raleigh,North Carolina,27604,South,OFF-AP-10002534,942.784,4,0.2,94.2784,Cassandra Brandow
+CA-2020-115882,2020-09-14,2020-09-17,First Class,DB-13555,Dorothy Badders,Corporate,United States,Raleigh,North Carolina,27604,South,OFF-PA-10001125,74.352,3,0.2,23.235,Cassandra Brandow
+CA-2020-116113,2020-10-02,2020-10-06,Second Class,JW-15220,Jane Waco,Corporate,United States,Montgomery,Alabama,36116,South,FUR-FU-10002963,10.16,2,0,3.4544,Cassandra Brandow
+CA-2020-116855,2020-12-17,2020-12-21,Standard Class,AI-10855,Arianne Irving,Consumer,United States,Chesapeake,Virginia,23320,South,FUR-CH-10003846,504.9,5,0,80.784,Cassandra Brandow
+CA-2020-116939,2020-09-25,2020-09-29,Standard Class,AG-10900,Arthur Gainer,Consumer,United States,Richmond,Virginia,23223,South,OFF-ST-10001476,177.55,5,0,47.9385,Cassandra Brandow
+CA-2020-117079,2020-10-23,2020-10-27,Standard Class,JR-15700,Jocasta Rupert,Consumer,United States,Jacksonville,Florida,32216,South,TEC-PH-10004586,863.88,3,0.2,107.985,Cassandra Brandow
+CA-2020-117198,2020-08-31,2020-09-05,Standard Class,BG-11035,Barry Gonzalez,Consumer,United States,Monroe,Louisiana,71203,South,TEC-AC-10003033,659.9,2,0,217.767,Cassandra Brandow
+CA-2020-117695,2020-08-05,2020-08-08,First Class,PW-19030,Pauline Webber,Corporate,United States,Richmond,Kentucky,40475,South,OFF-PA-10002713,13.76,2,0,6.3296,Cassandra Brandow
+CA-2020-118402,2020-09-29,2020-10-04,Standard Class,JO-15280,Jas O'Carroll,Consumer,United States,Memphis,Tennessee,38109,South,OFF-ST-10001418,243.92,5,0.2,-54.882,Cassandra Brandow
+CA-2020-119004,2020-11-23,2020-11-28,Standard Class,JM-15250,Janet Martin,Consumer,United States,Charlotte,North Carolina,28205,South,TEC-AC-10003499,74.112,8,0.2,17.6016,Cassandra Brandow
+CA-2020-119004,2020-11-23,2020-11-28,Standard Class,JM-15250,Janet Martin,Consumer,United States,Charlotte,North Carolina,28205,South,TEC-PH-10002844,27.992,1,0.2,2.0994,Cassandra Brandow
+CA-2020-119004,2020-11-23,2020-11-28,Standard Class,JM-15250,Janet Martin,Consumer,United States,Charlotte,North Carolina,28205,South,OFF-AR-10000390,3.304,1,0.2,1.0738,Cassandra Brandow
+CA-2020-119284,2020-06-15,2020-06-20,Standard Class,TS-21205,Thomas Seio,Corporate,United States,Nashville,Tennessee,37211,South,TEC-PH-10001051,239.976,3,0.2,26.9973,Cassandra Brandow
+CA-2020-119284,2020-06-15,2020-06-20,Standard Class,TS-21205,Thomas Seio,Corporate,United States,Nashville,Tennessee,37211,South,FUR-FU-10004351,31.168,4,0.2,9.3504,Cassandra Brandow
+CA-2020-119284,2020-06-15,2020-06-20,Standard Class,TS-21205,Thomas Seio,Corporate,United States,Nashville,Tennessee,37211,South,FUR-TA-10004152,120.96,2,0.4,-28.224,Cassandra Brandow
+CA-2020-119284,2020-06-15,2020-06-20,Standard Class,TS-21205,Thomas Seio,Corporate,United States,Nashville,Tennessee,37211,South,TEC-PH-10000560,2239.936,8,0.2,223.9936,Cassandra Brandow
+CA-2020-119284,2020-06-15,2020-06-20,Standard Class,TS-21205,Thomas Seio,Corporate,United States,Nashville,Tennessee,37211,South,OFF-AP-10004249,76.608,8,0.2,6.7032,Cassandra Brandow
+CA-2020-119284,2020-06-15,2020-06-20,Standard Class,TS-21205,Thomas Seio,Corporate,United States,Nashville,Tennessee,37211,South,OFF-ST-10001490,142.776,1,0.2,17.847,Cassandra Brandow
+CA-2020-119284,2020-06-15,2020-06-20,Standard Class,TS-21205,Thomas Seio,Corporate,United States,Nashville,Tennessee,37211,South,OFF-PA-10000312,91.36,5,0.2,29.692,Cassandra Brandow
+CA-2020-119305,2020-11-30,2020-12-04,Standard Class,SW-20275,Scott Williamson,Consumer,United States,Jackson,Mississippi,39212,South,OFF-ST-10000604,173.8,5,0,43.45,Cassandra Brandow
+CA-2020-119669,2020-01-24,2020-01-30,Standard Class,TP-21130,Theone Pippenger,Consumer,United States,Smyrna,Georgia,30080,South,OFF-FA-10000053,5.67,3,0,0.1134,Cassandra Brandow
+CA-2020-120705,2020-09-05,2020-09-11,Standard Class,MG-17875,Michael Grace,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-ST-10001522,147.184,2,0.2,-29.4368,Cassandra Brandow
+CA-2020-120894,2020-04-28,2020-05-02,Standard Class,JL-15130,Jack Lebron,Consumer,United States,Wilmington,North Carolina,28403,South,OFF-AP-10000252,28.08,3,0.2,5.265,Cassandra Brandow
+CA-2020-121314,2020-09-23,2020-09-26,First Class,BE-11410,Bobby Elias,Consumer,United States,Miami,Florida,33178,South,OFF-PA-10003395,251.64,3,0.2,88.074,Cassandra Brandow
+CA-2020-121419,2020-04-02,2020-04-04,First Class,TC-21475,Tony Chapman,Home Office,United States,Columbus,Georgia,31907,South,FUR-TA-10004534,411.8,2,0,70.006,Cassandra Brandow
+CA-2020-121419,2020-04-02,2020-04-04,First Class,TC-21475,Tony Chapman,Home Office,United States,Columbus,Georgia,31907,South,TEC-AC-10000892,360,4,0,129.6,Cassandra Brandow
+CA-2020-121804,2020-03-03,2020-03-08,Standard Class,LP-17095,Liz Preis,Consumer,United States,Murray,Kentucky,42071,South,OFF-AP-10004859,72.8,5,0,19.656,Cassandra Brandow
+CA-2020-121818,2020-11-20,2020-11-21,First Class,JH-15430,Jennifer Halladay,Consumer,United States,Burlington,North Carolina,27217,South,OFF-AR-10000203,23.968,7,0.2,2.6964,Cassandra Brandow
+CA-2020-121818,2020-11-20,2020-11-21,First Class,JH-15430,Jennifer Halladay,Consumer,United States,Burlington,North Carolina,27217,South,OFF-AR-10004790,28.728,3,0.2,1.7955,Cassandra Brandow
+CA-2020-122056,2020-06-13,2020-06-17,Standard Class,PG-18895,Paul Gonzalez,Consumer,United States,Springfield,Virginia,22153,South,OFF-AR-10004260,181.86,7,0,50.9208,Cassandra Brandow
+CA-2020-122154,2020-04-09,2020-04-11,First Class,SA-20830,Sue Ann Reed,Consumer,United States,Jacksonville,Florida,32216,South,OFF-LA-10000121,15.12,3,0.2,4.914,Cassandra Brandow
+CA-2020-122154,2020-04-09,2020-04-11,First Class,SA-20830,Sue Ann Reed,Consumer,United States,Jacksonville,Florida,32216,South,OFF-BI-10002026,17.43,1,0.7,-13.363,Cassandra Brandow
+CA-2020-122154,2020-04-09,2020-04-11,First Class,SA-20830,Sue Ann Reed,Consumer,United States,Jacksonville,Florida,32216,South,OFF-PA-10000994,251.64,3,0.2,88.074,Cassandra Brandow
+CA-2020-122693,2020-02-19,2020-02-21,Second Class,NH-18610,Nicole Hansen,Corporate,United States,Roswell,Georgia,30076,South,OFF-AP-10002518,1245.86,7,0,361.2994,Cassandra Brandow
+CA-2020-122707,2020-04-16,2020-04-18,First Class,EB-13750,Edward Becker,Corporate,United States,Hoover,Alabama,35244,South,OFF-SU-10000157,477.24,4,0,9.5448,Cassandra Brandow
+CA-2020-122707,2020-04-16,2020-04-18,First Class,EB-13750,Edward Becker,Corporate,United States,Hoover,Alabama,35244,South,TEC-AC-10004227,25.98,2,0,1.5588,Cassandra Brandow
+CA-2020-122987,2020-08-16,2020-08-16,Same Day,SJ-20215,Sarah Jordon,Consumer,United States,Columbia,Tennessee,38401,South,OFF-BI-10002824,13.428,3,0.7,-11.19,Cassandra Brandow
+CA-2020-122987,2020-08-16,2020-08-16,Same Day,SJ-20215,Sarah Jordon,Consumer,United States,Columbia,Tennessee,38401,South,OFF-ST-10004950,67.136,4,0.2,-0.8392,Cassandra Brandow
+CA-2020-122994,2020-02-06,2020-02-09,First Class,MV-17485,Mark Van Huff,Consumer,United States,Arlington,Virginia,22204,South,FUR-BO-10004015,359.97,3,0,79.1934,Cassandra Brandow
+CA-2020-123239,2020-07-27,2020-07-31,Second Class,MG-18145,Mike Gockenbach,Consumer,United States,Jacksonville,Florida,32216,South,FUR-FU-10001602,91.032,3,0.2,-2.2758,Cassandra Brandow
+CA-2020-123351,2020-09-21,2020-09-25,Standard Class,KT-16480,Kean Thornton,Consumer,United States,Columbus,Georgia,31907,South,OFF-AP-10001242,80.48,1,0,24.144,Cassandra Brandow
+CA-2020-123687,2020-05-26,2020-05-29,First Class,KC-16675,Kimberly Carter,Corporate,United States,Louisville,Kentucky,40214,South,OFF-AP-10002670,208.44,3,0,62.532,Cassandra Brandow
+CA-2020-123687,2020-05-26,2020-05-29,First Class,KC-16675,Kimberly Carter,Corporate,United States,Louisville,Kentucky,40214,South,OFF-SU-10004498,25.76,2,0,0.7728,Cassandra Brandow
+CA-2020-124296,2020-12-24,2020-12-28,Standard Class,CS-12355,Christine Sundaresam,Consumer,United States,Lafayette,Louisiana,70506,South,TEC-MA-10003183,479.97,3,0,239.985,Cassandra Brandow
+CA-2020-124296,2020-12-24,2020-12-28,Standard Class,CS-12355,Christine Sundaresam,Consumer,United States,Lafayette,Louisiana,70506,South,FUR-CH-10002439,232.88,4,0,60.5488,Cassandra Brandow
+CA-2020-124597,2020-04-30,2020-05-05,Standard Class,AS-10630,Ann Steele,Home Office,United States,Boynton Beach,Florida,33437,South,OFF-LA-10003190,4.608,2,0.2,1.6704,Cassandra Brandow
+CA-2020-124597,2020-04-30,2020-05-05,Standard Class,AS-10630,Ann Steele,Home Office,United States,Boynton Beach,Florida,33437,South,OFF-AR-10002280,15.528,3,0.2,4.8525,Cassandra Brandow
+CA-2020-124597,2020-04-30,2020-05-05,Standard Class,AS-10630,Ann Steele,Home Office,United States,Boynton Beach,Florida,33437,South,OFF-LA-10001569,11.952,3,0.2,3.8844,Cassandra Brandow
+CA-2020-124765,2020-11-25,2020-11-30,Standard Class,HZ-14950,Henia Zydlo,Consumer,United States,Fort Lauderdale,Florida,33311,South,FUR-BO-10003965,723.92,5,0.2,-81.441,Cassandra Brandow
+CA-2020-124828,2020-07-03,2020-07-04,First Class,YS-21880,Yana Sorensen,Corporate,United States,Burlington,North Carolina,27217,South,OFF-AR-10003514,9.552,3,0.2,1.5522,Cassandra Brandow
+CA-2020-124898,2020-09-11,2020-09-15,Standard Class,DB-12910,Daniel Byrd,Home Office,United States,Columbus,Georgia,31907,South,OFF-PA-10003656,184.66,7,0,84.9436,Cassandra Brandow
+CA-2020-125472,2020-05-30,2020-05-31,First Class,BD-11725,Bruce Degenhardt,Consumer,United States,Lafayette,Louisiana,70506,South,FUR-BO-10000330,241.96,2,0,33.8744,Cassandra Brandow
+CA-2020-125472,2020-05-30,2020-05-31,First Class,BD-11725,Bruce Degenhardt,Consumer,United States,Lafayette,Louisiana,70506,South,OFF-BI-10000591,3.89,1,0,1.8672,Cassandra Brandow
+CA-2020-125472,2020-05-30,2020-05-31,First Class,BD-11725,Bruce Degenhardt,Consumer,United States,Lafayette,Louisiana,70506,South,FUR-FU-10001731,8.01,3,0,3.0438,Cassandra Brandow
+CA-2020-125745,2020-06-30,2020-07-04,Standard Class,DV-13045,Darrin Van Huff,Corporate,United States,Memphis,Tennessee,38109,South,FUR-FU-10001591,19.52,2,0.2,5.368,Cassandra Brandow
+CA-2020-125752,2020-07-31,2020-08-04,Standard Class,EH-14125,Eugene Hildebrand,Home Office,United States,Fort Lauderdale,Florida,33311,South,TEC-AC-10003590,41.424,2,0.2,8.2848,Cassandra Brandow
+CA-2020-126046,2020-11-03,2020-11-07,Standard Class,JC-16105,Julie Creighton,Corporate,United States,Atlanta,Georgia,30318,South,OFF-LA-10004484,12.39,3,0,5.6994,Cassandra Brandow
+CA-2020-126354,2020-02-03,2020-02-08,Standard Class,SC-20380,Shahid Collister,Consumer,United States,Pembroke Pines,Florida,33024,South,OFF-BI-10000301,3.882,2,0.7,-2.588,Cassandra Brandow
+CA-2020-126354,2020-02-03,2020-02-08,Standard Class,SC-20380,Shahid Collister,Consumer,United States,Pembroke Pines,Florida,33024,South,OFF-PA-10004381,115.296,3,0.2,40.3536,Cassandra Brandow
+CA-2020-126382,2020-06-03,2020-06-07,Standard Class,HK-14890,Heather Kirkland,Corporate,United States,Franklin,Tennessee,37064,South,FUR-FU-10002960,35.168,7,0.2,9.6712,Cassandra Brandow
+CA-2020-126774,2020-04-15,2020-04-17,First Class,SH-20395,Shahid Hopkins,Consumer,United States,Arlington,Virginia,22204,South,OFF-AR-10002804,4.89,1,0,2.0049,Cassandra Brandow
+CA-2020-126914,2020-06-15,2020-06-19,Standard Class,JE-15715,Joe Elijah,Consumer,United States,Monroe,North Carolina,28110,South,FUR-CH-10000847,698.352,3,0.2,52.3764,Cassandra Brandow
+CA-2020-126914,2020-06-15,2020-06-19,Standard Class,JE-15715,Joe Elijah,Consumer,United States,Monroe,North Carolina,28110,South,FUR-BO-10000468,77.728,2,0.2,-3.8864,Cassandra Brandow
+CA-2020-127306,2020-01-14,2020-01-18,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Johnson City,Tennessee,37604,South,OFF-EN-10001219,18.336,3,0.2,6.6468,Cassandra Brandow
+CA-2020-127306,2020-01-14,2020-01-18,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Johnson City,Tennessee,37604,South,OFF-PA-10000019,36.288,7,0.2,12.7008,Cassandra Brandow
+CA-2020-127306,2020-01-14,2020-01-18,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Johnson City,Tennessee,37604,South,TEC-PH-10001924,111.984,2,0.2,6.999,Cassandra Brandow
+CA-2020-127306,2020-01-14,2020-01-18,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Johnson City,Tennessee,37604,South,OFF-BI-10002003,5.97,5,0.7,-4.577,Cassandra Brandow
+CA-2020-127306,2020-01-14,2020-01-18,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Johnson City,Tennessee,37604,South,OFF-BI-10003727,2.508,2,0.7,-1.8392,Cassandra Brandow
+CA-2020-127516,2020-12-28,2021-01-03,Standard Class,EH-14005,Erica Hernandez,Home Office,United States,Nashville,Tennessee,37211,South,OFF-ST-10000736,64.784,1,0.2,-12.9568,Cassandra Brandow
+CA-2020-127726,2020-09-11,2020-09-13,Second Class,SS-20410,Shahid Shariari,Consumer,United States,Georgetown,Kentucky,40324,South,OFF-AP-10002578,195.68,4,0,50.8768,Cassandra Brandow
+CA-2020-127726,2020-09-11,2020-09-13,Second Class,SS-20410,Shahid Shariari,Consumer,United States,Georgetown,Kentucky,40324,South,OFF-FA-10000992,14.2,4,0,6.674,Cassandra Brandow
+CA-2020-127803,2020-05-19,2020-05-23,Standard Class,ND-18460,Neil Ducich,Corporate,United States,Huntsville,Alabama,35810,South,OFF-BI-10001787,26.16,4,0,12.8184,Cassandra Brandow
+CA-2020-128300,2020-11-24,2020-11-26,Second Class,RS-19765,Roland Schwarz,Corporate,United States,Summerville,South Carolina,29483,South,TEC-PH-10002807,79.1,2,0,39.55,Cassandra Brandow
+CA-2020-128300,2020-11-24,2020-11-26,Second Class,RS-19765,Roland Schwarz,Corporate,United States,Summerville,South Carolina,29483,South,OFF-BI-10001597,327.84,8,0,157.3632,Cassandra Brandow
+CA-2020-128363,2020-08-13,2020-08-18,Standard Class,DC-12850,Dan Campbell,Consumer,United States,Memphis,Tennessee,38109,South,OFF-AP-10001563,272.048,7,0.2,30.6054,Cassandra Brandow
+CA-2020-128363,2020-08-13,2020-08-18,Standard Class,DC-12850,Dan Campbell,Consumer,United States,Memphis,Tennessee,38109,South,OFF-BI-10001359,1614.582,6,0.7,-1237.8462,Cassandra Brandow
+CA-2020-128363,2020-08-13,2020-08-18,Standard Class,DC-12850,Dan Campbell,Consumer,United States,Memphis,Tennessee,38109,South,OFF-FA-10003495,24.32,5,0.2,9.12,Cassandra Brandow
+CA-2020-128363,2020-08-13,2020-08-18,Standard Class,DC-12850,Dan Campbell,Consumer,United States,Memphis,Tennessee,38109,South,TEC-AC-10003709,1.584,2,0.2,0.4752,Cassandra Brandow
+CA-2020-128363,2020-08-13,2020-08-18,Standard Class,DC-12850,Dan Campbell,Consumer,United States,Memphis,Tennessee,38109,South,FUR-FU-10003268,31.984,1,0.2,0,Cassandra Brandow
+CA-2020-128363,2020-08-13,2020-08-18,Standard Class,DC-12850,Dan Campbell,Consumer,United States,Memphis,Tennessee,38109,South,OFF-EN-10003845,14.76,5,0.2,4.797,Cassandra Brandow
+CA-2020-128363,2020-08-13,2020-08-18,Standard Class,DC-12850,Dan Campbell,Consumer,United States,Memphis,Tennessee,38109,South,FUR-CH-10002073,423.648,2,0.2,47.6604,Cassandra Brandow
+CA-2020-128475,2020-08-26,2020-09-01,Standard Class,SC-20680,Steve Carroll,Home Office,United States,Columbus,Georgia,31907,South,TEC-AC-10000158,71.98,2,0,15.1158,Cassandra Brandow
+CA-2020-128629,2020-07-10,2020-07-14,Second Class,BP-11155,Becky Pak,Consumer,United States,Columbus,Georgia,31907,South,FUR-FU-10000771,18.84,3,0,7.9128,Cassandra Brandow
+CA-2020-128699,2020-12-03,2020-12-05,Second Class,ND-18370,Natalie DeCherney,Consumer,United States,Jacksonville,Florida,32216,South,TEC-AC-10001990,47.992,1,0.2,7.1988,Cassandra Brandow
+CA-2020-128755,2020-05-04,2020-05-08,Standard Class,MK-18160,Mike Kennedy,Consumer,United States,Newport News,Virginia,23602,South,OFF-PA-10000726,9.11,1,0,4.0995,Cassandra Brandow
+CA-2020-128755,2020-05-04,2020-05-08,Standard Class,MK-18160,Mike Kennedy,Consumer,United States,Newport News,Virginia,23602,South,OFF-ST-10003306,571.44,4,0,165.7176,Cassandra Brandow
+CA-2020-128755,2020-05-04,2020-05-08,Standard Class,MK-18160,Mike Kennedy,Consumer,United States,Newport News,Virginia,23602,South,OFF-PA-10004983,32.4,5,0,15.552,Cassandra Brandow
+CA-2020-128755,2020-05-04,2020-05-08,Standard Class,MK-18160,Mike Kennedy,Consumer,United States,Newport News,Virginia,23602,South,OFF-ST-10001291,16.91,1,0,4.5657,Cassandra Brandow
+CA-2020-128769,2020-09-07,2020-09-12,Standard Class,DM-12955,Dario Medina,Corporate,United States,Nashville,Tennessee,37211,South,OFF-AP-10001271,81.568,2,0.2,7.1372,Cassandra Brandow
+CA-2020-129021,2020-08-23,2020-08-26,Second Class,PO-18850,Patrick O'Brill,Consumer,United States,Tallahassee,Florida,32303,South,TEC-PH-10001459,4367.896,13,0.2,327.5922,Cassandra Brandow
+CA-2020-129021,2020-08-23,2020-08-26,Second Class,PO-18850,Patrick O'Brill,Consumer,United States,Tallahassee,Florida,32303,South,OFF-PA-10000241,49.568,2,0.2,15.49,Cassandra Brandow
+CA-2020-129021,2020-08-23,2020-08-26,Second Class,PO-18850,Patrick O'Brill,Consumer,United States,Tallahassee,Florida,32303,South,OFF-AP-10003040,161.376,6,0.2,12.1032,Cassandra Brandow
+CA-2020-129021,2020-08-23,2020-08-26,Second Class,PO-18850,Patrick O'Brill,Consumer,United States,Tallahassee,Florida,32303,South,FUR-FU-10001852,2.784,2,0.2,0.4176,Cassandra Brandow
+CA-2020-129021,2020-08-23,2020-08-26,Second Class,PO-18850,Patrick O'Brill,Consumer,United States,Tallahassee,Florida,32303,South,OFF-PA-10000141,8.72,5,0.2,2.943,Cassandra Brandow
+CA-2020-129028,2020-04-01,2020-04-03,First Class,GB-14530,George Bell,Corporate,United States,Florence,South Carolina,29501,South,FUR-FU-10004006,127.95,3,0,21.7515,Cassandra Brandow
+CA-2020-129462,2020-06-16,2020-06-21,Second Class,JE-15745,Joel Eaton,Consumer,United States,Florence,Kentucky,41042,South,FUR-CH-10000665,301.96,2,0,90.588,Cassandra Brandow
+CA-2020-129462,2020-06-16,2020-06-21,Second Class,JE-15745,Joel Eaton,Consumer,United States,Florence,Kentucky,41042,South,OFF-AP-10003884,180.66,3,0,50.5848,Cassandra Brandow
+CA-2020-129462,2020-06-16,2020-06-21,Second Class,JE-15745,Joel Eaton,Consumer,United States,Florence,Kentucky,41042,South,TEC-PH-10001557,191.98,2,0,51.8346,Cassandra Brandow
+CA-2020-129462,2020-06-16,2020-06-21,Second Class,JE-15745,Joel Eaton,Consumer,United States,Florence,Kentucky,41042,South,TEC-PH-10002085,65.99,1,0,17.1574,Cassandra Brandow
+CA-2020-129490,2020-09-26,2020-09-30,Standard Class,SJ-20125,Sanjit Jacobs,Home Office,United States,Miramar,Florida,33023,South,FUR-CH-10003298,419.136,4,0.2,-57.6312,Cassandra Brandow
+CA-2020-129910,2020-03-30,2020-04-03,Standard Class,ME-17320,Maria Etezadi,Home Office,United States,Columbus,Georgia,31907,South,OFF-ST-10003282,59.76,1,0,16.7328,Cassandra Brandow
+CA-2020-130309,2020-12-17,2020-12-21,Standard Class,GB-14575,Giulietta Baptist,Consumer,United States,Arlington,Virginia,22204,South,OFF-ST-10003208,544.38,3,0,157.8702,Cassandra Brandow
+CA-2020-130834,2020-11-03,2020-11-06,Second Class,JM-16195,Justin MacKendrick,Consumer,United States,Wilmington,North Carolina,28403,South,OFF-PA-10003673,16.272,3,0.2,5.2884,Cassandra Brandow
+CA-2020-130904,2020-04-11,2020-04-16,Standard Class,HM-14980,Henry MacAllister,Consumer,United States,Burlington,North Carolina,27217,South,OFF-AR-10000422,1.752,1,0.2,0.1533,Cassandra Brandow
+CA-2020-130904,2020-04-11,2020-04-16,Standard Class,HM-14980,Henry MacAllister,Consumer,United States,Burlington,North Carolina,27217,South,OFF-AR-10000127,20.992,8,0.2,2.3616,Cassandra Brandow
+CA-2020-132185,2020-11-27,2020-12-02,Standard Class,DB-13615,Doug Bickford,Consumer,United States,Asheville,North Carolina,28806,South,OFF-AR-10000422,8.76,5,0.2,0.7665,Cassandra Brandow
+CA-2020-132185,2020-11-27,2020-12-02,Standard Class,DB-13615,Doug Bickford,Consumer,United States,Asheville,North Carolina,28806,South,OFF-AP-10001205,43.584,1,0.2,4.3584,Cassandra Brandow
+CA-2020-132213,2020-04-25,2020-04-26,First Class,PN-18775,Parhena Norris,Home Office,United States,Nashville,Tennessee,37211,South,OFF-AR-10004078,42.048,9,0.2,5.256,Cassandra Brandow
+CA-2020-132213,2020-04-25,2020-04-26,First Class,PN-18775,Parhena Norris,Home Office,United States,Nashville,Tennessee,37211,South,OFF-AR-10001958,67.92,5,0.2,6.792,Cassandra Brandow
+CA-2020-133095,2020-06-04,2020-06-04,Same Day,EH-14005,Erica Hernandez,Home Office,United States,Jonesboro,Arkansas,72401,South,OFF-BI-10002353,108.08,7,0,54.04,Cassandra Brandow
+CA-2020-133095,2020-06-04,2020-06-04,Same Day,EH-14005,Erica Hernandez,Home Office,United States,Jonesboro,Arkansas,72401,South,OFF-BI-10004141,9.54,3,0,4.3884,Cassandra Brandow
+CA-2020-133235,2020-08-01,2020-08-04,First Class,LH-16750,Larry Hughes,Consumer,United States,Charlotte,North Carolina,28205,South,TEC-PH-10002660,271.96,5,0.2,16.9975,Cassandra Brandow
+CA-2020-133263,2020-03-31,2020-04-02,Second Class,JE-15610,Jim Epp,Corporate,United States,Atlanta,Georgia,30318,South,OFF-BI-10001153,34.54,1,0,17.27,Cassandra Brandow
+CA-2020-133263,2020-03-31,2020-04-02,Second Class,JE-15610,Jim Epp,Corporate,United States,Atlanta,Georgia,30318,South,TEC-CO-10001449,2999.95,5,0,1439.976,Cassandra Brandow
+CA-2020-133263,2020-03-31,2020-04-02,Second Class,JE-15610,Jim Epp,Corporate,United States,Atlanta,Georgia,30318,South,OFF-BI-10000474,64.12,4,0,30.7776,Cassandra Brandow
+CA-2020-133501,2020-08-27,2020-09-01,Standard Class,DK-12895,Dana Kaydos,Consumer,United States,Franklin,Tennessee,37064,South,OFF-PA-10004888,5.184,1,0.2,1.8144,Cassandra Brandow
+CA-2020-133641,2020-05-14,2020-05-21,Standard Class,EJ-14155,Eva Jacobs,Consumer,United States,Gulfport,Mississippi,39503,South,OFF-EN-10004955,48.69,9,0,23.8581,Cassandra Brandow
+CA-2020-133928,2020-06-11,2020-06-17,Standard Class,ZC-21910,Zuschuss Carroll,Consumer,United States,Hickory,North Carolina,28601,South,OFF-BI-10001525,4.572,4,0.7,-3.81,Cassandra Brandow
+CA-2020-134096,2020-09-24,2020-09-29,Standard Class,PP-18955,Paul Prost,Home Office,United States,Hollywood,Florida,33021,South,TEC-PH-10000526,383.96,5,0.2,38.396,Cassandra Brandow
+CA-2020-134096,2020-09-24,2020-09-29,Standard Class,PP-18955,Paul Prost,Home Office,United States,Hollywood,Florida,33021,South,OFF-BI-10004002,15.57,3,0.7,-11.418,Cassandra Brandow
+CA-2020-134495,2020-04-01,2020-04-04,Second Class,BF-11020,Barry Französisch,Corporate,United States,Jacksonville,Florida,32216,South,TEC-PH-10004897,23.976,3,0.2,-5.6943,Cassandra Brandow
+CA-2020-134495,2020-04-01,2020-04-04,Second Class,BF-11020,Barry Französisch,Corporate,United States,Jacksonville,Florida,32216,South,OFF-LA-10000262,6.264,3,0.2,2.0358,Cassandra Brandow
+CA-2020-134495,2020-04-01,2020-04-04,Second Class,BF-11020,Barry Französisch,Corporate,United States,Jacksonville,Florida,32216,South,OFF-AP-10002222,20.808,3,0.2,1.8207,Cassandra Brandow
+CA-2020-134495,2020-04-01,2020-04-04,Second Class,BF-11020,Barry Französisch,Corporate,United States,Jacksonville,Florida,32216,South,FUR-CH-10003774,218.352,3,0.2,-19.1058,Cassandra Brandow
+CA-2020-134649,2020-01-26,2020-01-31,Second Class,CA-11965,Carol Adams,Corporate,United States,Hoover,Alabama,35244,South,OFF-AR-10001547,15.47,7,0,4.1769,Cassandra Brandow
+CA-2020-134649,2020-01-26,2020-01-31,Second Class,CA-11965,Carol Adams,Corporate,United States,Hoover,Alabama,35244,South,OFF-BI-10001890,7.16,2,0,3.4368,Cassandra Brandow
+CA-2020-134810,2020-05-09,2020-05-10,First Class,MC-17605,Matt Connell,Corporate,United States,Jacksonville,North Carolina,28540,South,OFF-EN-10002504,65.232,3,0.2,22.0158,Cassandra Brandow
+CA-2020-134810,2020-05-09,2020-05-10,First Class,MC-17605,Matt Connell,Corporate,United States,Jacksonville,North Carolina,28540,South,FUR-CH-10001270,207,3,0.2,25.875,Cassandra Brandow
+CA-2020-135587,2020-12-07,2020-12-12,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Hattiesburg,Mississippi,39401,South,OFF-AP-10004540,320.64,4,0,89.7792,Cassandra Brandow
+CA-2020-135587,2020-12-07,2020-12-12,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Hattiesburg,Mississippi,39401,South,TEC-AC-10001266,52,4,0,23.4,Cassandra Brandow
+CA-2020-136826,2020-06-16,2020-06-20,Standard Class,CB-12535,Claudia Bergmann,Corporate,United States,Chapel Hill,North Carolina,27514,South,OFF-AR-10003602,14.016,3,0.2,4.7304,Cassandra Brandow
+CA-2020-137631,2020-04-28,2020-05-02,Standard Class,JL-15235,Janet Lee,Consumer,United States,Kissimmee,Florida,34741,South,TEC-PH-10002624,751.984,2,0.2,84.5982,Cassandra Brandow
+CA-2020-138779,2020-01-14,2020-01-15,First Class,RB-19570,Rob Beeghly,Consumer,United States,Jacksonville,North Carolina,28540,South,OFF-EN-10002504,21.744,1,0.2,7.3386,Cassandra Brandow
+CA-2020-138779,2020-01-14,2020-01-15,First Class,RB-19570,Rob Beeghly,Consumer,United States,Jacksonville,North Carolina,28540,South,TEC-PH-10003655,7.92,5,0.2,0.693,Cassandra Brandow
+CA-2020-138975,2020-05-19,2020-05-23,Standard Class,SC-20380,Shahid Collister,Consumer,United States,Atlanta,Georgia,30318,South,TEC-AC-10003441,67.8,4,0,4.068,Cassandra Brandow
+CA-2020-138975,2020-05-19,2020-05-23,Standard Class,SC-20380,Shahid Collister,Consumer,United States,Atlanta,Georgia,30318,South,TEC-PH-10004389,377.97,3,0,98.2722,Cassandra Brandow
+CA-2020-138975,2020-05-19,2020-05-23,Standard Class,SC-20380,Shahid Collister,Consumer,United States,Atlanta,Georgia,30318,South,FUR-BO-10004695,1628.82,9,0,374.6286,Cassandra Brandow
+CA-2020-138975,2020-05-19,2020-05-23,Standard Class,SC-20380,Shahid Collister,Consumer,United States,Atlanta,Georgia,30318,South,OFF-PA-10000100,286.93,7,0,140.5957,Cassandra Brandow
+CA-2020-139353,2020-10-28,2020-10-30,Second Class,JM-15250,Janet Martin,Consumer,United States,Fayetteville,North Carolina,28314,South,FUR-FU-10001876,77.952,3,0.2,15.5904,Cassandra Brandow
+CA-2020-139353,2020-10-28,2020-10-30,Second Class,JM-15250,Janet Martin,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-ST-10001522,147.184,2,0.2,-29.4368,Cassandra Brandow
+CA-2020-139353,2020-10-28,2020-10-30,Second Class,JM-15250,Janet Martin,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-PA-10000300,47.952,3,0.2,16.1838,Cassandra Brandow
+CA-2020-139493,2020-09-13,2020-09-19,Standard Class,SG-20605,Speros Goranitis,Consumer,United States,Asheville,North Carolina,28806,South,OFF-AR-10003158,15.92,5,0.2,2.786,Cassandra Brandow
+CA-2020-139619,2020-09-19,2020-09-23,Standard Class,ES-14080,Erin Smith,Corporate,United States,Melbourne,Florida,32935,South,OFF-ST-10003282,95.616,2,0.2,9.5616,Cassandra Brandow
+CA-2020-139787,2020-09-19,2020-09-23,Standard Class,JP-16135,Julie Prescott,Home Office,United States,Columbus,Georgia,31907,South,OFF-AR-10002445,35.4,5,0,13.452,Cassandra Brandow
+CA-2020-139948,2020-07-17,2020-07-22,Standard Class,SW-20455,Shaun Weien,Consumer,United States,Tampa,Florida,33614,South,FUR-FU-10002597,7.904,2,0.2,2.1736,Cassandra Brandow
+CA-2020-140088,2020-05-28,2020-05-30,Second Class,PO-18865,Patrick O'Donnell,Consumer,United States,Columbia,South Carolina,29203,South,FUR-CH-10000863,301.96,2,0,33.2156,Cassandra Brandow
+CA-2020-140627,2020-12-23,2020-12-27,Standard Class,DK-12985,Darren Koutras,Consumer,United States,Hendersonville,Tennessee,37075,South,FUR-FU-10000087,72.704,4,0.2,19.0848,Cassandra Brandow
+CA-2020-140627,2020-12-23,2020-12-27,Standard Class,DK-12985,Darren Koutras,Consumer,United States,Hendersonville,Tennessee,37075,South,OFF-AR-10000422,12.264,7,0.2,1.0731,Cassandra Brandow
+CA-2020-140627,2020-12-23,2020-12-27,Standard Class,DK-12985,Darren Koutras,Consumer,United States,Hendersonville,Tennessee,37075,South,OFF-ST-10004123,218.352,3,0.2,-54.588,Cassandra Brandow
+CA-2020-140872,2020-06-03,2020-06-10,Standard Class,NR-18550,Nick Radford,Consumer,United States,Pembroke Pines,Florida,33024,South,OFF-BI-10002432,4.554,3,0.7,-3.4914,Cassandra Brandow
+CA-2020-140872,2020-06-03,2020-06-10,Standard Class,NR-18550,Nick Radford,Consumer,United States,Pembroke Pines,Florida,33024,South,OFF-AP-10003622,5.2,2,0.2,0.585,Cassandra Brandow
+CA-2020-140872,2020-06-03,2020-06-10,Standard Class,NR-18550,Nick Radford,Consumer,United States,Pembroke Pines,Florida,33024,South,TEC-AC-10003832,205.992,1,0.2,-2.5749,Cassandra Brandow
+CA-2020-140872,2020-06-03,2020-06-10,Standard Class,NR-18550,Nick Radford,Consumer,United States,Pembroke Pines,Florida,33024,South,OFF-PA-10000809,15.552,3,0.2,5.4432,Cassandra Brandow
+CA-2020-140872,2020-06-03,2020-06-10,Standard Class,NR-18550,Nick Radford,Consumer,United States,Pembroke Pines,Florida,33024,South,TEC-PH-10000441,503.96,5,0.2,50.396,Cassandra Brandow
+CA-2020-140872,2020-06-03,2020-06-10,Standard Class,NR-18550,Nick Radford,Consumer,United States,Pembroke Pines,Florida,33024,South,OFF-AP-10002287,24.472,7,0.2,1.8354,Cassandra Brandow
+CA-2020-140872,2020-06-03,2020-06-10,Standard Class,NR-18550,Nick Radford,Consumer,United States,Pembroke Pines,Florida,33024,South,FUR-BO-10002824,241.568,2,0.2,0,Cassandra Brandow
+CA-2020-140872,2020-06-03,2020-06-10,Standard Class,NR-18550,Nick Radford,Consumer,United States,Pembroke Pines,Florida,33024,South,TEC-AC-10002942,110.4,2,0.2,-4.14,Cassandra Brandow
+CA-2020-141446,2020-09-16,2020-09-18,Second Class,CL-12700,Craig Leslie,Home Office,United States,Florence,Kentucky,41042,South,TEC-AC-10002305,18,1,0,3.24,Cassandra Brandow
+CA-2020-141614,2020-06-05,2020-06-09,Standard Class,NS-18640,Noel Staavos,Corporate,United States,Orlando,Florida,32839,South,OFF-PA-10002787,20.736,4,0.2,7.2576,Cassandra Brandow
+CA-2020-142090,2020-11-30,2020-12-07,Standard Class,SC-20380,Shahid Collister,Consumer,United States,Burlington,North Carolina,27217,South,TEC-AC-10002001,383.976,3,0.2,81.5949,Cassandra Brandow
+CA-2020-142090,2020-11-30,2020-12-07,Standard Class,SC-20380,Shahid Collister,Consumer,United States,Burlington,North Carolina,27217,South,FUR-TA-10001889,1781.682,7,0.4,-653.2834,Cassandra Brandow
+CA-2020-142671,2020-11-10,2020-11-14,Second Class,DR-12940,Daniel Raglin,Home Office,United States,Hollywood,Florida,33021,South,OFF-BI-10004099,11.52,5,0.7,-7.68,Cassandra Brandow
+CA-2020-143567,2020-11-02,2020-11-05,Second Class,TB-21175,Thomas Boland,Corporate,United States,Henderson,Kentucky,42420,South,OFF-EN-10004846,5.32,2,0,2.6068,Cassandra Brandow
+CA-2020-143567,2020-11-02,2020-11-05,Second Class,TB-21175,Thomas Boland,Corporate,United States,Henderson,Kentucky,42420,South,FUR-CH-10000454,975.92,4,0,292.776,Cassandra Brandow
+CA-2020-143567,2020-11-02,2020-11-05,Second Class,TB-21175,Thomas Boland,Corporate,United States,Henderson,Kentucky,42420,South,TEC-AC-10004145,2249.91,9,0,517.4793,Cassandra Brandow
+CA-2020-143567,2020-11-02,2020-11-05,Second Class,TB-21175,Thomas Boland,Corporate,United States,Henderson,Kentucky,42420,South,OFF-ST-10001580,59.92,4,0,16.7776,Cassandra Brandow
+CA-2020-143756,2020-12-02,2020-12-05,First Class,ME-17725,Max Engle,Consumer,United States,Salem,Virginia,24153,South,FUR-CH-10001854,701.96,2,0,168.4704,Cassandra Brandow
+CA-2020-143861,2020-06-12,2020-06-19,Standard Class,LC-16885,Lena Creighton,Consumer,United States,Saint Petersburg,Florida,33710,South,FUR-FU-10001546,17.088,2,0.2,1.068,Cassandra Brandow
+CA-2020-144365,2020-10-24,2020-10-30,Standard Class,CS-11950,Carlos Soltero,Consumer,United States,Jackson,Mississippi,39212,South,OFF-FA-10000735,11.68,4,0,5.256,Cassandra Brandow
+CA-2020-144456,2020-09-08,2020-09-09,First Class,FC-14245,Frank Carlisle,Home Office,United States,Hialeah,Florida,33012,South,OFF-ST-10001321,61.68,5,0.2,5.397,Cassandra Brandow
+CA-2020-144456,2020-09-08,2020-09-09,First Class,FC-14245,Frank Carlisle,Home Office,United States,Hialeah,Florida,33012,South,TEC-PH-10001750,158.376,3,0.2,13.8579,Cassandra Brandow
+CA-2020-144498,2020-05-06,2020-05-06,Same Day,MB-18085,Mick Brown,Consumer,United States,Charlotte,North Carolina,28205,South,OFF-BI-10003982,68.541,11,0.7,-52.5481,Cassandra Brandow
+CA-2020-144498,2020-05-06,2020-05-06,Same Day,MB-18085,Mick Brown,Consumer,United States,Charlotte,North Carolina,28205,South,TEC-PH-10004977,627.168,4,0.2,70.5564,Cassandra Brandow
+CA-2020-144498,2020-05-06,2020-05-06,Same Day,MB-18085,Mick Brown,Consumer,United States,Charlotte,North Carolina,28205,South,OFF-LA-10003510,122.12,5,0.2,39.689,Cassandra Brandow
+CA-2020-144694,2020-09-24,2020-09-26,Second Class,BD-11605,Brian Dahlen,Consumer,United States,Miami,Florida,33180,South,TEC-AC-10002857,17.88,3,0.2,2.4585,Cassandra Brandow
+CA-2020-144694,2020-09-24,2020-09-26,Second Class,BD-11605,Brian Dahlen,Consumer,United States,Miami,Florida,33180,South,OFF-LA-10003930,235.944,3,0.2,85.5297,Cassandra Brandow
+CA-2020-145275,2020-04-02,2020-04-06,Standard Class,AH-10465,Amy Hunt,Consumer,United States,Decatur,Alabama,35601,South,OFF-LA-10001569,14.94,3,0,6.8724,Cassandra Brandow
+CA-2020-145310,2020-12-22,2020-12-24,Second Class,JP-15520,Jeremy Pistek,Consumer,United States,Port Orange,Florida,32127,South,OFF-EN-10002621,7.824,1,0.2,2.934,Cassandra Brandow
+CA-2020-145702,2020-05-19,2020-05-24,Second Class,AH-10075,Adam Hart,Corporate,United States,Knoxville,Tennessee,37918,South,FUR-CH-10001482,314.352,3,0.2,-35.3646,Cassandra Brandow
+CA-2020-145702,2020-05-19,2020-05-24,Second Class,AH-10075,Adam Hart,Corporate,United States,Knoxville,Tennessee,37918,South,OFF-PA-10001526,27.888,7,0.2,10.1094,Cassandra Brandow
+CA-2020-145737,2020-09-15,2020-09-20,Standard Class,AB-10165,Alan Barnes,Consumer,United States,Lebanon,Tennessee,37087,South,OFF-PA-10001033,163.96,5,0.2,59.4355,Cassandra Brandow
+CA-2020-146136,2020-09-03,2020-09-07,Standard Class,AP-10915,Arthur Prichep,Consumer,United States,Palm Coast,Florida,32137,South,OFF-EN-10001219,24.448,4,0.2,8.8624,Cassandra Brandow
+CA-2020-146192,2020-04-22,2020-04-26,Standard Class,BD-11725,Bruce Degenhardt,Consumer,United States,Columbus,Georgia,31907,South,OFF-ST-10003716,675.06,3,0,87.7578,Cassandra Brandow
+CA-2020-146458,2020-11-19,2020-11-22,Second Class,RB-19435,Richard Bierner,Consumer,United States,Springfield,Virginia,22153,South,OFF-AR-10001177,22.96,7,0,6.6584,Cassandra Brandow
+CA-2020-146535,2020-11-24,2020-11-30,Standard Class,FM-14290,Frank Merwin,Home Office,United States,Richmond,Kentucky,40475,South,OFF-BI-10000546,2.88,1,0,1.4112,Cassandra Brandow
+CA-2020-146535,2020-11-24,2020-11-30,Standard Class,FM-14290,Frank Merwin,Home Office,United States,Richmond,Kentucky,40475,South,OFF-ST-10001526,1443.96,12,0,375.4296,Cassandra Brandow
+CA-2020-146983,2020-09-02,2020-09-06,Standard Class,AH-10210,Alan Hwang,Consumer,United States,Henderson,Kentucky,42420,South,OFF-BI-10003650,1577.94,3,0,757.4112,Cassandra Brandow
+CA-2020-147228,2020-09-09,2020-09-14,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Columbia,Tennessee,38401,South,OFF-SU-10001225,8.832,3,0.2,-1.9872,Cassandra Brandow
+CA-2020-147228,2020-09-09,2020-09-14,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Columbia,Tennessee,38401,South,OFF-PA-10000357,177.536,4,0.2,62.1376,Cassandra Brandow
+CA-2020-147228,2020-09-09,2020-09-14,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Columbia,Tennessee,38401,South,OFF-ST-10000046,258.48,2,0.2,-3.231,Cassandra Brandow
+CA-2020-147228,2020-09-09,2020-09-14,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Columbia,Tennessee,38401,South,FUR-FU-10000023,14.136,3,0.2,4.2408,Cassandra Brandow
+CA-2020-147333,2020-12-14,2020-12-20,Standard Class,KL-16555,Kelly Lampkin,Corporate,United States,Fayetteville,Arkansas,72701,South,TEC-AC-10004469,159.8,4,0,70.312,Cassandra Brandow
+CA-2020-147333,2020-12-14,2020-12-20,Standard Class,KL-16555,Kelly Lampkin,Corporate,United States,Fayetteville,Arkansas,72701,South,TEC-AC-10003038,44.75,5,0,8.5025,Cassandra Brandow
+CA-2020-147361,2020-09-09,2020-09-15,Standard Class,SB-20290,Sean Braxton,Corporate,United States,Florence,South Carolina,29501,South,OFF-ST-10001809,628.81,7,0,12.5762,Cassandra Brandow
+CA-2020-147361,2020-09-09,2020-09-15,Standard Class,SB-20290,Sean Braxton,Corporate,United States,Florence,South Carolina,29501,South,OFF-ST-10002214,56.45,5,0,14.677,Cassandra Brandow
+CA-2020-147760,2020-11-04,2020-11-05,First Class,KL-16555,Kelly Lampkin,Corporate,United States,Greensboro,North Carolina,27405,South,FUR-TA-10004575,523.764,3,0.4,-192.0468,Cassandra Brandow
+CA-2020-147760,2020-11-04,2020-11-05,First Class,KL-16555,Kelly Lampkin,Corporate,United States,Greensboro,North Carolina,27405,South,TEC-PH-10002483,1359.96,5,0.2,118.9965,Cassandra Brandow
+CA-2020-148166,2020-10-21,2020-10-26,Standard Class,NK-18490,Neil Knudson,Home Office,United States,Deltona,Florida,32725,South,OFF-AR-10004956,17.856,4,0.2,2.0088,Cassandra Brandow
+CA-2020-148404,2020-10-07,2020-10-11,Standard Class,Dp-13240,Dean percer,Home Office,United States,Charlotte,North Carolina,28205,South,OFF-ST-10003208,580.672,4,0.2,65.3256,Cassandra Brandow
+CA-2020-148404,2020-10-07,2020-10-11,Standard Class,Dp-13240,Dean percer,Home Office,United States,Charlotte,North Carolina,28205,South,OFF-FA-10003112,18.936,3,0.2,5.9175,Cassandra Brandow
+CA-2020-148404,2020-10-07,2020-10-11,Standard Class,Dp-13240,Dean percer,Home Office,United States,Charlotte,North Carolina,28205,South,TEC-PH-10004447,222.384,2,0.2,16.6788,Cassandra Brandow
+CA-2020-148404,2020-10-07,2020-10-11,Standard Class,Dp-13240,Dean percer,Home Office,United States,Charlotte,North Carolina,28205,South,OFF-BI-10002854,50.454,6,0.7,-33.636,Cassandra Brandow
+CA-2020-148404,2020-10-07,2020-10-11,Standard Class,Dp-13240,Dean percer,Home Office,United States,Charlotte,North Carolina,28205,South,FUR-TA-10001039,154.764,3,0.4,-36.1116,Cassandra Brandow
+CA-2020-148474,2020-06-12,2020-06-19,Standard Class,ME-17320,Maria Etezadi,Home Office,United States,Columbus,Georgia,31907,South,OFF-BI-10000977,91.2,3,0,41.952,Cassandra Brandow
+CA-2020-148474,2020-06-12,2020-06-19,Standard Class,ME-17320,Maria Etezadi,Home Office,United States,Columbus,Georgia,31907,South,FUR-TA-10002530,452.94,3,0,67.941,Cassandra Brandow
+CA-2020-148810,2020-06-26,2020-07-01,Standard Class,DR-12880,Dan Reichenbach,Corporate,United States,Miami,Florida,33180,South,OFF-LA-10004689,13.872,6,0.2,4.6818,Cassandra Brandow
+CA-2020-148810,2020-06-26,2020-07-01,Standard Class,DR-12880,Dan Reichenbach,Corporate,United States,Miami,Florida,33180,South,FUR-CH-10001545,273.552,3,0.2,-13.6776,Cassandra Brandow
+CA-2020-148922,2020-12-10,2020-12-15,Second Class,SU-20665,Stephanie Ulpright,Home Office,United States,Jackson,Mississippi,39212,South,TEC-AC-10001838,599.97,3,0,257.9871,Cassandra Brandow
+CA-2020-148922,2020-12-10,2020-12-15,Second Class,SU-20665,Stephanie Ulpright,Home Office,United States,Jackson,Mississippi,39212,South,TEC-PH-10000148,38.97,3,0,0.7794,Cassandra Brandow
+CA-2020-148922,2020-12-10,2020-12-15,Second Class,SU-20665,Stephanie Ulpright,Home Office,United States,Jackson,Mississippi,39212,South,OFF-BI-10003476,45.84,8,0,22.0032,Cassandra Brandow
+CA-2020-148999,2020-01-30,2020-02-04,Standard Class,EB-13870,Emily Burns,Consumer,United States,Miami,Florida,33142,South,FUR-CH-10002044,419.136,4,0.2,-68.1096,Cassandra Brandow
+CA-2020-149146,2020-10-12,2020-10-12,Same Day,SM-20320,Sean Miller,Home Office,United States,Monroe,North Carolina,28110,South,OFF-PA-10003919,7.968,2,0.2,2.6892,Cassandra Brandow
+CA-2020-149853,2020-10-03,2020-10-09,Standard Class,PO-18850,Patrick O'Brill,Consumer,United States,Hialeah,Florida,33012,South,OFF-PA-10000556,15.552,3,0.2,5.4432,Cassandra Brandow
+CA-2020-149853,2020-10-03,2020-10-09,Standard Class,PO-18850,Patrick O'Brill,Consumer,United States,Hialeah,Florida,33012,South,OFF-AP-10000804,17.92,5,0.2,1.12,Cassandra Brandow
+CA-2020-150910,2020-12-22,2020-12-28,Standard Class,JL-15130,Jack Lebron,Consumer,United States,Jackson,Tennessee,38301,South,FUR-TA-10002903,934.956,6,0.4,-249.3216,Cassandra Brandow
+CA-2020-150910,2020-12-22,2020-12-28,Standard Class,JL-15130,Jack Lebron,Consumer,United States,Jackson,Tennessee,38301,South,TEC-AC-10001013,46.864,2,0.2,7.6154,Cassandra Brandow
+CA-2020-150910,2020-12-22,2020-12-28,Standard Class,JL-15130,Jack Lebron,Consumer,United States,Jackson,Tennessee,38301,South,OFF-ST-10000918,26.16,3,0.2,1.962,Cassandra Brandow
+CA-2020-150910,2020-12-22,2020-12-28,Standard Class,JL-15130,Jack Lebron,Consumer,United States,Jackson,Tennessee,38301,South,OFF-AR-10001419,23.128,7,0.2,2.891,Cassandra Brandow
+CA-2020-150910,2020-12-22,2020-12-28,Standard Class,JL-15130,Jack Lebron,Consumer,United States,Jackson,Tennessee,38301,South,OFF-AP-10003266,59.24,5,0.2,16.291,Cassandra Brandow
+CA-2020-150931,2020-01-06,2020-01-13,Standard Class,DP-13390,Dennis Pardue,Home Office,United States,Tuscaloosa,Alabama,35401,South,OFF-BI-10004728,33.74,7,0,15.5204,Cassandra Brandow
+CA-2020-151211,2020-08-17,2020-08-23,Standard Class,AH-10120,Adrian Hane,Home Office,United States,Louisville,Kentucky,40214,South,OFF-BI-10002735,102.93,3,0,48.3771,Cassandra Brandow
+CA-2020-151211,2020-08-17,2020-08-23,Standard Class,AH-10120,Adrian Hane,Home Office,United States,Louisville,Kentucky,40214,South,TEC-AC-10004510,98.16,6,0,9.816,Cassandra Brandow
+CA-2020-151218,2020-06-20,2020-06-23,First Class,PJ-19015,Pauline Johnson,Consumer,United States,Miami,Florida,33180,South,OFF-ST-10004835,4.464,1,0.2,0.3348,Cassandra Brandow
+CA-2020-151855,2020-05-27,2020-06-03,Standard Class,BW-11110,Bart Watters,Corporate,United States,Greensboro,North Carolina,27405,South,TEC-AC-10002380,27.192,3,0.2,0.3399,Cassandra Brandow
+CA-2020-151855,2020-05-27,2020-06-03,Standard Class,BW-11110,Bart Watters,Corporate,United States,Greensboro,North Carolina,27405,South,OFF-BI-10004209,12.06,5,0.7,-10.05,Cassandra Brandow
+CA-2020-152786,2020-03-12,2020-03-17,Standard Class,GA-14725,Guy Armstrong,Consumer,United States,Rogers,Arkansas,72756,South,OFF-BI-10000829,40.41,9,0,18.5886,Cassandra Brandow
+CA-2020-152968,2020-05-26,2020-05-30,Standard Class,BM-11785,Bryan Mills,Consumer,United States,Harrisonburg,Virginia,22801,South,TEC-AC-10000521,23.08,2,0,6.924,Cassandra Brandow
+CA-2020-153339,2020-11-03,2020-11-05,Second Class,DJ-13510,Don Jones,Corporate,United States,Murfreesboro,Tennessee,37130,South,FUR-FU-10001967,15.992,1,0.2,0.9995,Cassandra Brandow
+CA-2020-153654,2020-11-24,2020-11-26,Second Class,MD-17860,Michael Dominguez,Corporate,United States,Asheville,North Carolina,28806,South,OFF-BI-10004465,19.008,8,0.7,-12.672,Cassandra Brandow
+CA-2020-154088,2020-11-12,2020-11-17,Standard Class,LB-16735,Larry Blacks,Consumer,United States,Tallahassee,Florida,32303,South,OFF-PA-10003651,26.72,5,0.2,9.352,Cassandra Brandow
+CA-2020-154123,2020-11-20,2020-11-25,Standard Class,SC-20050,Sample Company A,Home Office,United States,Henderson,Kentucky,42420,South,FUR-FU-10000629,27.58,2,0,11.5836,Cassandra Brandow
+CA-2020-154816,2020-11-06,2020-11-10,Standard Class,VB-21745,Victoria Brennan,Corporate,United States,Richmond,Kentucky,40475,South,OFF-PA-10003845,5.78,1,0,2.8322,Cassandra Brandow
+CA-2020-155089,2020-12-02,2020-12-06,Standard Class,DB-12910,Daniel Byrd,Home Office,United States,Tampa,Florida,33614,South,OFF-BI-10002429,45.66,5,0.7,-33.484,Cassandra Brandow
+CA-2020-155159,2020-11-25,2020-11-29,Second Class,DL-13315,Delfina Latchford,Consumer,United States,Atlanta,Georgia,30318,South,OFF-PA-10003724,48.87,9,0,23.9463,Cassandra Brandow
+CA-2020-155292,2020-10-30,2020-11-01,First Class,RD-19810,Ross DeVincentis,Home Office,United States,Richmond,Kentucky,40475,South,OFF-ST-10004963,105.98,7,0,4.2392,Cassandra Brandow
+CA-2020-155292,2020-10-30,2020-11-01,First Class,RD-19810,Ross DeVincentis,Home Office,United States,Richmond,Kentucky,40475,South,OFF-SU-10002573,35.06,2,0,10.518,Cassandra Brandow
+CA-2020-155292,2020-10-30,2020-11-01,First Class,RD-19810,Ross DeVincentis,Home Office,United States,Richmond,Kentucky,40475,South,FUR-CH-10000553,33.94,1,0,9.1638,Cassandra Brandow
+CA-2020-155292,2020-10-30,2020-11-01,First Class,RD-19810,Ross DeVincentis,Home Office,United States,Richmond,Kentucky,40475,South,OFF-LA-10001982,30,8,0,14.4,Cassandra Brandow
+CA-2020-155698,2020-03-08,2020-03-11,First Class,VB-21745,Victoria Brennan,Corporate,United States,Columbus,Georgia,31907,South,OFF-AP-10001124,647.84,8,0,168.4384,Cassandra Brandow
+CA-2020-155698,2020-03-08,2020-03-11,First Class,VB-21745,Victoria Brennan,Corporate,United States,Columbus,Georgia,31907,South,OFF-LA-10001158,20.7,2,0,9.936,Cassandra Brandow
+CA-2020-155705,2020-08-21,2020-08-23,Second Class,NF-18385,Natalie Fritzler,Consumer,United States,Jackson,Mississippi,39212,South,FUR-CH-10000015,866.4,4,0,225.264,Cassandra Brandow
+CA-2020-155824,2020-03-10,2020-03-15,Standard Class,KS-16300,Karen Seio,Corporate,United States,Raleigh,North Carolina,27604,South,OFF-AP-10000390,48.784,1,0.2,3.6588,Cassandra Brandow
+CA-2020-155824,2020-03-10,2020-03-15,Standard Class,KS-16300,Karen Seio,Corporate,United States,Raleigh,North Carolina,27604,South,OFF-BI-10000014,13.092,4,0.7,-10.0372,Cassandra Brandow
+CA-2020-156272,2020-03-21,2020-03-27,Standard Class,PW-19030,Pauline Webber,Corporate,United States,Pompano Beach,Florida,33068,South,OFF-AP-10001242,64.384,1,0.2,8.048,Cassandra Brandow
+CA-2020-156769,2020-05-06,2020-05-09,First Class,GZ-14470,Gary Zandusky,Consumer,United States,Arlington,Virginia,22204,South,OFF-AR-10003179,54.66,6,0,18.0378,Cassandra Brandow
+CA-2020-157854,2020-04-08,2020-04-15,Standard Class,DM-13345,Denise Monton,Corporate,United States,Roswell,Georgia,30076,South,FUR-FU-10003832,56.28,6,0,15.7584,Cassandra Brandow
+CA-2020-157854,2020-04-08,2020-04-15,Standard Class,DM-13345,Denise Monton,Corporate,United States,Roswell,Georgia,30076,South,OFF-BI-10001359,2690.97,3,0,1264.7559,Cassandra Brandow
+CA-2020-157931,2020-09-17,2020-09-22,Second Class,MO-17800,Meg O'Connel,Home Office,United States,Roswell,Georgia,30076,South,FUR-CH-10000785,723.92,4,0,188.2192,Cassandra Brandow
+CA-2020-157931,2020-09-17,2020-09-22,Second Class,MO-17800,Meg O'Connel,Home Office,United States,Roswell,Georgia,30076,South,OFF-PA-10000474,106.32,3,0,49.9704,Cassandra Brandow
+CA-2020-158386,2020-10-16,2020-10-21,Standard Class,BO-11425,Bobby Odegard,Consumer,United States,Richmond,Kentucky,40475,South,OFF-BI-10003719,124.75,5,0,57.385,Cassandra Brandow
+CA-2020-158407,2020-06-04,2020-06-10,Standard Class,LW-16990,Lindsay Williams,Corporate,United States,Monroe,North Carolina,28110,South,FUR-FU-10001967,31.984,2,0.2,1.999,Cassandra Brandow
+CA-2020-158407,2020-06-04,2020-06-10,Standard Class,LW-16990,Lindsay Williams,Corporate,United States,Monroe,North Carolina,28110,South,TEC-PH-10001819,71.984,2,0.2,25.1944,Cassandra Brandow
+CA-2020-158561,2020-11-11,2020-11-16,Second Class,BB-11545,Brenda Bowman,Corporate,United States,Fort Lauderdale,Florida,33311,South,OFF-AP-10002651,1158.12,5,0.2,130.2885,Cassandra Brandow
+CA-2020-158729,2020-12-19,2020-12-21,First Class,AC-10450,Amy Cox,Consumer,United States,Lafayette,Louisiana,70506,South,OFF-SU-10002881,1665.62,2,0,33.3124,Cassandra Brandow
+CA-2020-158743,2020-10-20,2020-10-27,Standard Class,IG-15085,Ivan Gibson,Consumer,United States,Little Rock,Arkansas,72209,South,OFF-AR-10002257,13.36,4,0,4.1416,Cassandra Brandow
+CA-2020-158743,2020-10-20,2020-10-27,Standard Class,IG-15085,Ivan Gibson,Consumer,United States,Little Rock,Arkansas,72209,South,OFF-PA-10001019,39.96,2,0,18.7812,Cassandra Brandow
+CA-2020-158743,2020-10-20,2020-10-27,Standard Class,IG-15085,Ivan Gibson,Consumer,United States,Little Rock,Arkansas,72209,South,OFF-BI-10003364,145.85,5,0,70.008,Cassandra Brandow
+CA-2020-158883,2020-06-02,2020-06-03,Same Day,CS-11860,Cari Schnelling,Consumer,United States,Jacksonville,North Carolina,28540,South,OFF-PA-10004733,25.344,4,0.2,9.1872,Cassandra Brandow
+CA-2020-158967,2020-12-10,2020-12-12,First Class,BT-11680,Brian Thompson,Consumer,United States,Fort Lauderdale,Florida,33311,South,FUR-FU-10001940,19.104,3,0.2,5.7312,Cassandra Brandow
+CA-2020-159100,2020-10-16,2020-10-21,Standard Class,VP-21760,Victoria Pisteka,Corporate,United States,Columbia,Tennessee,38401,South,TEC-AC-10003499,18.528,2,0.2,4.4004,Cassandra Brandow
+CA-2020-159100,2020-10-16,2020-10-21,Standard Class,VP-21760,Victoria Pisteka,Corporate,United States,Columbia,Tennessee,38401,South,FUR-TA-10001950,1875.258,7,0.4,-968.8833,Cassandra Brandow
+CA-2020-159135,2020-11-04,2020-11-08,Standard Class,KM-16375,Katherine Murray,Home Office,United States,Springdale,Arkansas,72762,South,OFF-AR-10000657,4.3,2,0,1.419,Cassandra Brandow
+CA-2020-159464,2020-05-18,2020-05-19,First Class,TB-21355,Todd Boyes,Corporate,United States,Sandy Springs,Georgia,30328,South,OFF-AP-10001492,17.24,2,0,4.4824,Cassandra Brandow
+CA-2020-159464,2020-05-18,2020-05-19,First Class,TB-21355,Todd Boyes,Corporate,United States,Sandy Springs,Georgia,30328,South,FUR-BO-10003546,302.94,3,0,75.735,Cassandra Brandow
+CA-2020-159464,2020-05-18,2020-05-19,First Class,TB-21355,Todd Boyes,Corporate,United States,Sandy Springs,Georgia,30328,South,TEC-PH-10002185,34.75,5,0,15.6375,Cassandra Brandow
+CA-2020-159464,2020-05-18,2020-05-19,First Class,TB-21355,Todd Boyes,Corporate,United States,Sandy Springs,Georgia,30328,South,OFF-BI-10000315,113.94,6,0,54.6912,Cassandra Brandow
+CA-2020-159464,2020-05-18,2020-05-19,First Class,TB-21355,Todd Boyes,Corporate,United States,Sandy Springs,Georgia,30328,South,TEC-PH-10002350,55.98,2,0,15.6744,Cassandra Brandow
+CA-2020-159667,2020-11-09,2020-11-13,Standard Class,PM-19135,Peter McVee,Home Office,United States,Jacksonville,Florida,32216,South,TEC-AC-10002567,191.976,3,0.2,38.3952,Cassandra Brandow
+CA-2020-159667,2020-11-09,2020-11-13,Standard Class,PM-19135,Peter McVee,Home Office,United States,Jacksonville,Florida,32216,South,TEC-PH-10004094,499.168,4,0.2,31.198,Cassandra Brandow
+CA-2020-159954,2020-09-10,2020-09-14,Standard Class,SS-20410,Shahid Shariari,Consumer,United States,Atlanta,Georgia,30318,South,OFF-BI-10004876,2.78,1,0,1.3622,Cassandra Brandow
+CA-2020-160017,2020-09-28,2020-10-02,Standard Class,SP-20860,Sung Pak,Corporate,United States,Jacksonville,Florida,32216,South,OFF-PA-10001800,10.368,2,0.2,3.6288,Cassandra Brandow
+CA-2020-160423,2020-01-21,2020-01-26,Standard Class,PS-19045,Penelope Sewall,Home Office,United States,Charlotte,North Carolina,28205,South,OFF-ST-10004340,348.208,7,0.2,30.4682,Cassandra Brandow
+CA-2020-160423,2020-01-21,2020-01-26,Standard Class,PS-19045,Penelope Sewall,Home Office,United States,Charlotte,North Carolina,28205,South,OFF-BI-10004001,35.784,7,0.7,-28.6272,Cassandra Brandow
+CA-2020-160458,2020-05-27,2020-05-29,Second Class,EH-13945,Eric Hoffmann,Consumer,United States,Memphis,Tennessee,38109,South,OFF-PA-10001166,25.92,5,0.2,9.072,Cassandra Brandow
+CA-2020-160724,2020-05-05,2020-05-10,Standard Class,YS-21880,Yana Sorensen,Corporate,United States,Columbus,Georgia,31907,South,OFF-BI-10004965,34.5,3,0,15.525,Cassandra Brandow
+CA-2020-160899,2020-08-11,2020-08-13,Second Class,DR-12940,Daniel Raglin,Home Office,United States,Lake Charles,Louisiana,70601,South,OFF-BI-10000632,477.51,11,0,219.6546,Cassandra Brandow
+CA-2020-161046,2020-03-05,2020-03-05,Same Day,CB-12535,Claudia Bergmann,Corporate,United States,Southaven,Mississippi,38671,South,OFF-EN-10003862,42.68,4,0,19.6328,Cassandra Brandow
+CA-2020-161046,2020-03-05,2020-03-05,Same Day,CB-12535,Claudia Bergmann,Corporate,United States,Southaven,Mississippi,38671,South,TEC-AC-10004571,299.97,3,0,125.9874,Cassandra Brandow
+CA-2020-161046,2020-03-05,2020-03-05,Same Day,CB-12535,Claudia Bergmann,Corporate,United States,Southaven,Mississippi,38671,South,OFF-AP-10000891,262.24,2,0,78.672,Cassandra Brandow
+CA-2020-161046,2020-03-05,2020-03-05,Same Day,CB-12535,Claudia Bergmann,Corporate,United States,Southaven,Mississippi,38671,South,OFF-BI-10002026,234.36,6,0,112.4928,Cassandra Brandow
+CA-2020-161053,2020-09-22,2020-09-23,First Class,JE-15745,Joel Eaton,Consumer,United States,Fayetteville,Arkansas,72701,South,OFF-BI-10004318,691.96,4,0,318.3016,Cassandra Brandow
+CA-2020-161053,2020-09-22,2020-09-23,First Class,JE-15745,Joel Eaton,Consumer,United States,Fayetteville,Arkansas,72701,South,TEC-AC-10004633,34.95,5,0,15.378,Cassandra Brandow
+CA-2020-161088,2020-05-25,2020-05-29,Standard Class,MH-18115,Mick Hernandez,Home Office,United States,Columbus,Georgia,31907,South,OFF-BI-10002824,29.84,2,0,13.428,Cassandra Brandow
+CA-2020-161130,2020-11-03,2020-11-08,Standard Class,BF-11275,Beth Fritzler,Corporate,United States,Miami,Florida,33178,South,TEC-PH-10002549,361.376,2,0.2,27.1032,Cassandra Brandow
+CA-2020-161200,2020-08-06,2020-08-10,Second Class,SV-20365,Seth Vernon,Consumer,United States,Lafayette,Louisiana,70506,South,FUR-BO-10000468,145.74,3,0,23.3184,Cassandra Brandow
+CA-2020-161200,2020-08-06,2020-08-10,Second Class,SV-20365,Seth Vernon,Consumer,United States,Lafayette,Louisiana,70506,South,FUR-FU-10001706,15.4,5,0,7.392,Cassandra Brandow
+CA-2020-161592,2020-04-06,2020-04-10,Standard Class,CS-12175,Charles Sheldon,Corporate,United States,Chattanooga,Tennessee,37421,South,OFF-BI-10003669,8.1,5,0.7,-5.94,Cassandra Brandow
+CA-2020-161851,2020-04-15,2020-04-17,First Class,BP-11095,Bart Pistole,Corporate,United States,Miami,Florida,33180,South,OFF-BI-10004654,15.57,3,0.7,-11.937,Cassandra Brandow
+CA-2020-161970,2020-09-22,2020-09-27,Standard Class,PB-19105,Peter Bühler,Consumer,United States,Smyrna,Georgia,30080,South,OFF-PA-10004255,12.96,2,0,6.2208,Cassandra Brandow
+CA-2020-161970,2020-09-22,2020-09-27,Standard Class,PB-19105,Peter Bühler,Consumer,United States,Smyrna,Georgia,30080,South,OFF-AR-10003896,17.94,3,0,6.4584,Cassandra Brandow
+CA-2020-162033,2020-03-26,2020-04-02,Standard Class,EM-14200,Evan Minnotte,Home Office,United States,Virginia Beach,Virginia,23464,South,TEC-AC-10003116,53.25,3,0,20.7675,Cassandra Brandow
+CA-2020-162033,2020-03-26,2020-04-02,Standard Class,EM-14200,Evan Minnotte,Home Office,United States,Virginia Beach,Virginia,23464,South,OFF-FA-10003021,3.76,2,0,1.316,Cassandra Brandow
+CA-2020-162173,2020-10-26,2020-11-01,Standard Class,OT-18730,Olvera Toch,Consumer,United States,Virginia Beach,Virginia,23464,South,FUR-TA-10001520,356.85,5,0,60.6645,Cassandra Brandow
+CA-2020-162173,2020-10-26,2020-11-01,Standard Class,OT-18730,Olvera Toch,Consumer,United States,Virginia Beach,Virginia,23464,South,OFF-EN-10002831,251.58,7,0,113.211,Cassandra Brandow
+CA-2020-162635,2020-10-09,2020-10-10,First Class,EB-14170,Evan Bailliet,Consumer,United States,Wilmington,North Carolina,28403,South,OFF-PA-10002659,10.816,4,0.2,3.5152,Cassandra Brandow
+CA-2020-163321,2020-08-07,2020-08-11,Second Class,FM-14380,Fred McMath,Consumer,United States,Jacksonville,North Carolina,28540,South,TEC-AC-10004571,79.992,1,0.2,21.9978,Cassandra Brandow
+CA-2020-163335,2020-09-24,2020-09-27,First Class,AG-10675,Anna Gayman,Consumer,United States,Columbus,Georgia,31907,South,OFF-ST-10000885,40.29,3,0,10.0725,Cassandra Brandow
+CA-2020-163335,2020-09-24,2020-09-27,First Class,AG-10675,Anna Gayman,Consumer,United States,Columbus,Georgia,31907,South,OFF-BI-10002827,38.71,7,0,17.8066,Cassandra Brandow
+CA-2020-163510,2020-12-25,2020-12-28,Second Class,JW-15955,Joni Wasserman,Consumer,United States,Louisville,Kentucky,40214,South,OFF-ST-10000563,95.94,3,0,9.594,Cassandra Brandow
+CA-2020-163510,2020-12-25,2020-12-28,Second Class,JW-15955,Joni Wasserman,Consumer,United States,Louisville,Kentucky,40214,South,FUR-CH-10001146,304.45,5,0,76.1125,Cassandra Brandow
+CA-2020-163629,2020-11-17,2020-11-21,Standard Class,RA-19885,Ruben Ausman,Corporate,United States,Athens,Georgia,30605,South,TEC-AC-10001539,79.99,1,0,28.7964,Cassandra Brandow
+CA-2020-163629,2020-11-17,2020-11-21,Standard Class,RA-19885,Ruben Ausman,Corporate,United States,Athens,Georgia,30605,South,TEC-PH-10004006,206.1,5,0,55.647,Cassandra Brandow
+CA-2020-164756,2020-09-18,2020-09-22,Standard Class,SS-20140,Saphhira Shifley,Corporate,United States,Columbus,Georgia,31907,South,TEC-PH-10001552,95.68,8,0,26.7904,Cassandra Brandow
+CA-2020-164756,2020-09-18,2020-09-22,Standard Class,SS-20140,Saphhira Shifley,Corporate,United States,Columbus,Georgia,31907,South,OFF-PA-10000673,50.96,7,0,24.4608,Cassandra Brandow
+CA-2020-164756,2020-09-18,2020-09-22,Standard Class,SS-20140,Saphhira Shifley,Corporate,United States,Columbus,Georgia,31907,South,OFF-AR-10000380,113.94,3,0,34.182,Cassandra Brandow
+CA-2020-164756,2020-09-18,2020-09-22,Standard Class,SS-20140,Saphhira Shifley,Corporate,United States,Columbus,Georgia,31907,South,OFF-PA-10003848,25.92,4,0,12.4416,Cassandra Brandow
+CA-2020-164756,2020-09-18,2020-09-22,Standard Class,SS-20140,Saphhira Shifley,Corporate,United States,Columbus,Georgia,31907,South,FUR-FU-10002963,20.32,4,0,6.9088,Cassandra Brandow
+CA-2020-164756,2020-09-18,2020-09-22,Standard Class,SS-20140,Saphhira Shifley,Corporate,United States,Columbus,Georgia,31907,South,TEC-PH-10002447,411.98,2,0,119.4742,Cassandra Brandow
+CA-2020-164756,2020-09-18,2020-09-22,Standard Class,SS-20140,Saphhira Shifley,Corporate,United States,Columbus,Georgia,31907,South,OFF-SU-10004261,34.48,2,0,9.9992,Cassandra Brandow
+CA-2020-164756,2020-09-18,2020-09-22,Standard Class,SS-20140,Saphhira Shifley,Corporate,United States,Columbus,Georgia,31907,South,OFF-PA-10003228,244.55,5,0,114.9385,Cassandra Brandow
+CA-2020-164917,2020-12-02,2020-12-07,Standard Class,MK-17905,Michael Kennedy,Corporate,United States,Miami,Florida,33180,South,OFF-AR-10004344,47.96,5,0.2,4.1965,Cassandra Brandow
+CA-2020-165029,2020-11-26,2020-11-30,Standard Class,AH-10075,Adam Hart,Corporate,United States,Atlanta,Georgia,30318,South,OFF-AR-10003504,12.84,3,0,3.7236,Cassandra Brandow
+CA-2020-165204,2020-11-13,2020-11-16,Second Class,MN-17935,Michael Nguyen,Consumer,United States,Memphis,Tennessee,38109,South,OFF-PA-10003424,8.904,3,0.2,3.339,Cassandra Brandow
+CA-2020-165204,2020-11-13,2020-11-16,Second Class,MN-17935,Michael Nguyen,Consumer,United States,Memphis,Tennessee,38109,South,OFF-ST-10003716,720.064,4,0.2,-63.0056,Cassandra Brandow
+CA-2020-165687,2020-11-17,2020-11-23,Standard Class,CS-12355,Christine Sundaresam,Consumer,United States,Salem,Virginia,24153,South,OFF-AP-10004036,35.04,2,0,12.264,Cassandra Brandow
+CA-2020-165715,2020-12-02,2020-12-08,Standard Class,BG-11035,Barry Gonzalez,Consumer,United States,Greensboro,North Carolina,27405,South,OFF-AR-10003903,32.776,1,0.2,2.4582,Cassandra Brandow
+CA-2020-165904,2020-04-07,2020-04-11,Standard Class,HR-14770,Hallie Redmond,Home Office,United States,Jacksonville,Florida,32216,South,OFF-AR-10003156,16.256,2,0.2,1.2192,Cassandra Brandow
+CA-2020-165904,2020-04-07,2020-04-11,Standard Class,HR-14770,Hallie Redmond,Home Office,United States,Jacksonville,Florida,32216,South,TEC-PH-10000576,219.184,2,0.2,19.1786,Cassandra Brandow
+CA-2020-167871,2020-11-18,2020-11-23,Standard Class,AF-10870,Art Ferguson,Consumer,United States,Homestead,Florida,33030,South,OFF-PA-10001977,44.384,1,0.2,15.5344,Cassandra Brandow
+CA-2020-167871,2020-11-18,2020-11-23,Standard Class,AF-10870,Art Ferguson,Consumer,United States,Homestead,Florida,33030,South,OFF-SU-10001225,2.944,1,0.2,-0.6624,Cassandra Brandow
+CA-2020-167941,2020-11-06,2020-11-09,Second Class,JF-15565,Jill Fjeld,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-AP-10002118,499.584,3,0.2,43.7136,Cassandra Brandow
+CA-2020-167941,2020-11-06,2020-11-09,Second Class,JF-15565,Jill Fjeld,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-PA-10001800,31.104,6,0.2,10.8864,Cassandra Brandow
+CA-2020-167941,2020-11-06,2020-11-09,Second Class,JF-15565,Jill Fjeld,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-BI-10002827,13.272,8,0.7,-10.6176,Cassandra Brandow
+CA-2020-167941,2020-11-06,2020-11-09,Second Class,JF-15565,Jill Fjeld,Consumer,United States,Fayetteville,North Carolina,28314,South,FUR-FU-10004671,28.272,2,0.2,6.3612,Cassandra Brandow
+CA-2020-167941,2020-11-06,2020-11-09,Second Class,JF-15565,Jill Fjeld,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-ST-10000736,259.136,4,0.2,-51.8272,Cassandra Brandow
+CA-2020-168102,2020-04-24,2020-04-30,Standard Class,CP-12340,Christine Phan,Corporate,United States,Jacksonville,Florida,32216,South,OFF-ST-10001370,113.568,2,0.2,-21.294,Cassandra Brandow
+CA-2020-168389,2020-12-11,2020-12-17,Standard Class,DV-13045,Darrin Van Huff,Corporate,United States,Jacksonville,Florida,32216,South,FUR-TA-10004289,721.875,6,0.45,-420,Cassandra Brandow
+CA-2020-168389,2020-12-11,2020-12-17,Standard Class,DV-13045,Darrin Van Huff,Corporate,United States,Jacksonville,Florida,32216,South,TEC-PH-10003555,73.568,4,0.2,-16.5528,Cassandra Brandow
+CA-2020-168389,2020-12-11,2020-12-17,Standard Class,DV-13045,Darrin Van Huff,Corporate,United States,Jacksonville,Florida,32216,South,OFF-AR-10001958,13.584,1,0.2,1.3584,Cassandra Brandow
+CA-2020-168389,2020-12-11,2020-12-17,Standard Class,DV-13045,Darrin Van Huff,Corporate,United States,Jacksonville,Florida,32216,South,FUR-CH-10000225,64.784,1,0.2,-12.147,Cassandra Brandow
+CA-2020-169005,2020-11-02,2020-11-06,Standard Class,BG-11035,Barry Gonzalez,Consumer,United States,Springfield,Virginia,22153,South,OFF-AR-10000246,5.56,2,0,1.4456,Cassandra Brandow
+CA-2020-169012,2020-07-10,2020-07-14,Standard Class,BF-11275,Beth Fritzler,Corporate,United States,Columbus,Georgia,31907,South,OFF-AP-10003278,41.91,3,0,10.8966,Cassandra Brandow
+US-2020-100930,2020-04-07,2020-04-12,Standard Class,CS-12400,Christopher Schild,Home Office,United States,Tampa,Florida,33614,South,FUR-TA-10001705,233.86,2,0.45,-102.048,Cassandra Brandow
+US-2020-100930,2020-04-07,2020-04-12,Standard Class,CS-12400,Christopher Schild,Home Office,United States,Tampa,Florida,33614,South,FUR-TA-10003473,620.6145,3,0.45,-248.2458,Cassandra Brandow
+US-2020-100930,2020-04-07,2020-04-12,Standard Class,CS-12400,Christopher Schild,Home Office,United States,Tampa,Florida,33614,South,OFF-BI-10001679,5.328,2,0.7,-3.552,Cassandra Brandow
+US-2020-100930,2020-04-07,2020-04-12,Standard Class,CS-12400,Christopher Schild,Home Office,United States,Tampa,Florida,33614,South,FUR-FU-10004017,258.072,3,0.2,0,Cassandra Brandow
+US-2020-100930,2020-04-07,2020-04-12,Standard Class,CS-12400,Christopher Schild,Home Office,United States,Tampa,Florida,33614,South,TEC-AC-10003832,617.976,3,0.2,-7.7247,Cassandra Brandow
+US-2020-102904,2020-11-13,2020-11-20,Standard Class,CB-12025,Cassandra Brandow,Consumer,United States,Decatur,Alabama,35601,South,TEC-AC-10000927,239.92,8,0,23.992,Cassandra Brandow
+US-2020-105935,2020-01-26,2020-01-31,Standard Class,BD-11500,Bradley Drucker,Consumer,United States,Columbus,Georgia,31907,South,FUR-FU-10002157,62.72,4,0,24.4608,Cassandra Brandow
+US-2020-105935,2020-01-26,2020-01-31,Standard Class,BD-11500,Bradley Drucker,Consumer,United States,Columbus,Georgia,31907,South,TEC-PH-10001459,2939.93,7,0,764.3818,Cassandra Brandow
+US-2020-108063,2020-12-02,2020-12-05,First Class,AS-10090,Adam Shillingsburg,Consumer,United States,Charlottesville,Virginia,22901,South,OFF-AR-10001446,34.65,3,0,10.395,Cassandra Brandow
+US-2020-108315,2020-04-30,2020-05-04,Standard Class,MH-18115,Mick Hernandez,Home Office,United States,Sanford,Florida,32771,South,OFF-BI-10000822,4.842,3,0.7,-3.5508,Cassandra Brandow
+US-2020-108315,2020-04-30,2020-05-04,Standard Class,MH-18115,Mick Hernandez,Home Office,United States,Sanford,Florida,32771,South,FUR-FU-10000747,220.704,6,0.2,-8.2764,Cassandra Brandow
+US-2020-109610,2020-11-25,2020-11-30,Second Class,BS-11590,Brendan Sweed,Corporate,United States,Louisville,Kentucky,40214,South,FUR-CH-10001854,701.96,2,0,168.4704,Cassandra Brandow
+US-2020-114356,2020-08-20,2020-08-26,Standard Class,TT-21460,Tonja Turnell,Home Office,United States,Charlotte,North Carolina,28205,South,TEC-PH-10003171,35.96,1,0.2,3.596,Cassandra Brandow
+US-2020-115252,2020-10-20,2020-10-25,Standard Class,MY-18295,Muhammed Yedwab,Corporate,United States,Durham,North Carolina,27707,South,TEC-PH-10004071,15.984,2,0.2,1.3986,Cassandra Brandow
+US-2020-115252,2020-10-20,2020-10-25,Standard Class,MY-18295,Muhammed Yedwab,Corporate,United States,Durham,North Carolina,27707,South,OFF-PA-10001667,14.352,3,0.2,4.485,Cassandra Brandow
+US-2020-117450,2020-09-04,2020-09-08,Standard Class,DO-13645,Doug O'Connell,Consumer,United States,Boynton Beach,Florida,33437,South,FUR-CH-10003817,97.184,2,0.2,6.074,Cassandra Brandow
+US-2020-117450,2020-09-04,2020-09-08,Standard Class,DO-13645,Doug O'Connell,Consumer,United States,Boynton Beach,Florida,33437,South,OFF-PA-10000289,10.368,2,0.2,3.6288,Cassandra Brandow
+US-2020-120390,2020-10-19,2020-10-26,Standard Class,TH-21550,Tracy Hopkins,Home Office,United States,Burlington,North Carolina,27217,South,OFF-BI-10004995,1633.188,4,0.7,-1306.5504,Cassandra Brandow
+US-2020-120607,2020-05-19,2020-05-19,Same Day,JC-15775,John Castell,Consumer,United States,Atlanta,Georgia,30318,South,OFF-PA-10003129,195.64,4,0,91.9508,Cassandra Brandow
+US-2020-126060,2020-04-14,2020-04-18,Standard Class,DW-13585,Dorothy Wardle,Corporate,United States,Fayetteville,North Carolina,28314,South,FUR-BO-10003433,198.272,8,0.2,-32.2192,Cassandra Brandow
+US-2020-126179,2020-07-03,2020-07-07,Standard Class,CS-12460,Chuck Sachs,Consumer,United States,Columbus,Georgia,31907,South,FUR-FU-10002554,23.99,1,0,5.5177,Cassandra Brandow
+US-2020-126179,2020-07-03,2020-07-07,Standard Class,CS-12460,Chuck Sachs,Consumer,United States,Columbus,Georgia,31907,South,TEC-PH-10001557,287.97,3,0,77.7519,Cassandra Brandow
+US-2020-128118,2020-11-24,2020-12-01,Standard Class,MY-17380,Maribeth Yedwab,Corporate,United States,Memphis,Tennessee,38109,South,OFF-BI-10000216,11.673,3,0.7,-7.782,Cassandra Brandow
+US-2020-128118,2020-11-24,2020-12-01,Standard Class,MY-17380,Maribeth Yedwab,Corporate,United States,Memphis,Tennessee,38109,South,OFF-EN-10003448,64.848,7,0.2,24.318,Cassandra Brandow
+US-2020-128951,2020-07-15,2020-07-17,First Class,RS-19420,Ricardo Sperren,Corporate,United States,Suffolk,Virginia,23434,South,OFF-AP-10002191,179.94,3,0,50.3832,Cassandra Brandow
+US-2020-128951,2020-07-15,2020-07-17,First Class,RS-19420,Ricardo Sperren,Corporate,United States,Suffolk,Virginia,23434,South,FUR-TA-10004575,872.94,3,0,157.1292,Cassandra Brandow
+US-2020-128951,2020-07-15,2020-07-17,First Class,RS-19420,Ricardo Sperren,Corporate,United States,Suffolk,Virginia,23434,South,OFF-PA-10003177,12.96,2,0,6.2208,Cassandra Brandow
+US-2020-129224,2020-03-17,2020-03-23,Standard Class,AS-10630,Ann Steele,Home Office,United States,Knoxville,Tennessee,37918,South,OFF-LA-10003190,4.608,2,0.2,1.6704,Cassandra Brandow
+US-2020-132031,2020-04-23,2020-04-27,Standard Class,PN-18775,Parhena Norris,Home Office,United States,Clarksville,Tennessee,37042,South,FUR-BO-10001972,387.136,4,0.2,-14.5176,Cassandra Brandow
+US-2020-132031,2020-04-23,2020-04-27,Standard Class,PN-18775,Parhena Norris,Home Office,United States,Clarksville,Tennessee,37042,South,TEC-AC-10002473,45.408,2,0.2,11.9196,Cassandra Brandow
+US-2020-132031,2020-04-23,2020-04-27,Standard Class,PN-18775,Parhena Norris,Home Office,United States,Clarksville,Tennessee,37042,South,FUR-FU-10000193,77.952,3,0.2,-11.6928,Cassandra Brandow
+US-2020-132031,2020-04-23,2020-04-27,Standard Class,PN-18775,Parhena Norris,Home Office,United States,Clarksville,Tennessee,37042,South,OFF-LA-10000081,3,1,0.2,1.05,Cassandra Brandow
+US-2020-132297,2020-05-27,2020-06-02,Standard Class,DW-13480,Dianna Wilson,Home Office,United States,Louisville,Kentucky,40214,South,OFF-BI-10003364,58.34,2,0,28.0032,Cassandra Brandow
+US-2020-132297,2020-05-27,2020-06-02,Standard Class,DW-13480,Dianna Wilson,Home Office,United States,Louisville,Kentucky,40214,South,TEC-PH-10002834,539.97,3,0,134.9925,Cassandra Brandow
+US-2020-132675,2020-09-24,2020-09-28,Standard Class,KF-16285,Karen Ferguson,Home Office,United States,Sandy Springs,Georgia,30328,South,OFF-ST-10004950,15.51,1,0,3.8775,Cassandra Brandow
+US-2020-132675,2020-09-24,2020-09-28,Standard Class,KF-16285,Karen Ferguson,Home Office,United States,Sandy Springs,Georgia,30328,South,TEC-PH-10003171,89.9,2,0,25.172,Cassandra Brandow
+US-2020-132675,2020-09-24,2020-09-28,Standard Class,KF-16285,Karen Ferguson,Home Office,United States,Sandy Springs,Georgia,30328,South,OFF-AR-10000614,14.28,4,0,3.7128,Cassandra Brandow
+US-2020-132675,2020-09-24,2020-09-28,Standard Class,KF-16285,Karen Ferguson,Home Office,United States,Sandy Springs,Georgia,30328,South,OFF-AR-10000034,12.72,3,0,4.9608,Cassandra Brandow
+US-2020-132675,2020-09-24,2020-09-28,Standard Class,KF-16285,Karen Ferguson,Home Office,United States,Sandy Springs,Georgia,30328,South,OFF-LA-10003766,15.75,5,0,7.56,Cassandra Brandow
+US-2020-133781,2020-06-22,2020-06-23,First Class,DC-12850,Dan Campbell,Consumer,United States,Miami,Florida,33178,South,OFF-EN-10004483,37.608,3,0.2,12.6927,Cassandra Brandow
+US-2020-134642,2020-02-25,2020-03-01,Standard Class,SW-20245,Scot Wooten,Consumer,United States,Greenville,North Carolina,27834,South,FUR-CH-10002880,196.784,2,0.2,-22.1382,Cassandra Brandow
+US-2020-134642,2020-02-25,2020-03-01,Standard Class,SW-20245,Scot Wooten,Consumer,United States,Greenville,North Carolina,27834,South,FUR-BO-10004709,231.92,5,0.2,5.798,Cassandra Brandow
+US-2020-135062,2020-08-31,2020-09-04,Second Class,RL-19615,Rob Lucas,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-PA-10000100,229.544,7,0.2,83.2097,Cassandra Brandow
+US-2020-135503,2020-12-10,2020-12-15,Standard Class,JE-16165,Justin Ellison,Corporate,United States,North Charleston,South Carolina,29406,South,FUR-FU-10002364,14.76,2,0,4.2804,Cassandra Brandow
+US-2020-135986,2020-06-20,2020-06-27,Standard Class,PG-18895,Paul Gonzalez,Consumer,United States,Richmond,Virginia,23223,South,OFF-PA-10001534,32.4,5,0,15.552,Cassandra Brandow
+US-2020-135986,2020-06-20,2020-06-27,Standard Class,PG-18895,Paul Gonzalez,Consumer,United States,Richmond,Virginia,23223,South,TEC-PH-10003691,503.96,4,0,125.99,Cassandra Brandow
+US-2020-136189,2020-12-07,2020-12-11,Standard Class,DC-13285,Debra Catini,Consumer,United States,Richmond,Virginia,23223,South,FUR-FU-10000175,82.38,6,0,25.5378,Cassandra Brandow
+US-2020-146822,2020-06-09,2020-06-14,Standard Class,AG-10675,Anna Gayman,Consumer,United States,Salem,Virginia,24153,South,OFF-PA-10000249,49.12,4,0,23.0864,Cassandra Brandow
+US-2020-146878,2020-09-21,2020-09-27,Standard Class,DL-12865,Dan Lawera,Consumer,United States,Miami,Florida,33142,South,OFF-BI-10002794,12.294,1,0.7,-8.6058,Cassandra Brandow
+US-2020-148768,2020-11-30,2020-12-02,Second Class,PN-18775,Parhena Norris,Home Office,United States,Miami,Florida,33180,South,TEC-PH-10002564,71.976,3,0.2,8.997,Cassandra Brandow
+US-2020-148831,2020-10-13,2020-10-15,First Class,AH-10210,Alan Hwang,Consumer,United States,Louisville,Kentucky,40214,South,OFF-ST-10002974,348.56,8,0,104.568,Cassandra Brandow
+US-2020-149510,2020-12-03,2020-12-10,Standard Class,MC-17575,Matt Collins,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-AP-10002350,45.216,3,0.2,4.5216,Cassandra Brandow
+US-2020-149510,2020-12-03,2020-12-10,Standard Class,MC-17575,Matt Collins,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-BI-10004233,28.782,6,0.7,-21.1068,Cassandra Brandow
+US-2020-149510,2020-12-03,2020-12-10,Standard Class,MC-17575,Matt Collins,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-PA-10001892,24.448,4,0.2,8.8624,Cassandra Brandow
+US-2020-152492,2020-07-06,2020-07-06,Same Day,AH-10585,Angele Hood,Consumer,United States,Miami,Florida,33142,South,FUR-CH-10000155,239.24,1,0.2,23.924,Cassandra Brandow
+US-2020-152842,2020-07-16,2020-07-23,Standard Class,NF-18385,Natalie Fritzler,Consumer,United States,Charlotte,North Carolina,28205,South,FUR-CH-10004218,242.352,3,0.2,15.147,Cassandra Brandow
+US-2020-152898,2020-09-11,2020-09-15,Standard Class,CB-12025,Cassandra Brandow,Consumer,United States,Richmond,Virginia,23223,South,OFF-AP-10000027,67.9,5,0,20.37,Cassandra Brandow
+US-2020-153633,2020-11-13,2020-11-18,Second Class,TC-21295,Toby Carlisle,Consumer,United States,Jupiter,Florida,33458,South,OFF-AR-10002335,2.064,1,0.2,0.1548,Cassandra Brandow
+US-2020-156083,2020-11-04,2020-11-11,Standard Class,JL-15175,James Lanier,Home Office,United States,Columbia,Tennessee,38401,South,OFF-PA-10001560,9.664,2,0.2,3.2616,Cassandra Brandow
+US-2020-158526,2020-12-29,2021-01-01,Second Class,KH-16360,Katherine Hughes,Consumer,United States,Louisville,Kentucky,40214,South,FUR-CH-10002602,1207.84,8,0,314.0384,Cassandra Brandow
+US-2020-158526,2020-12-29,2021-01-01,Second Class,KH-16360,Katherine Hughes,Consumer,United States,Louisville,Kentucky,40214,South,OFF-BI-10002414,12.53,1,0,5.8891,Cassandra Brandow
+US-2020-158526,2020-12-29,2021-01-01,Second Class,KH-16360,Katherine Hughes,Consumer,United States,Louisville,Kentucky,40214,South,OFF-AR-10003696,34.58,1,0,10.0282,Cassandra Brandow
+US-2020-158526,2020-12-29,2021-01-01,Second Class,KH-16360,Katherine Hughes,Consumer,United States,Louisville,Kentucky,40214,South,FUR-CH-10004495,300.98,1,0,87.2842,Cassandra Brandow
+US-2020-158526,2020-12-29,2021-01-01,Second Class,KH-16360,Katherine Hughes,Consumer,United States,Louisville,Kentucky,40214,South,FUR-CH-10001270,258.75,3,0,77.625,Cassandra Brandow
+US-2020-159205,2020-03-31,2020-04-02,Second Class,DB-12910,Daniel Byrd,Home Office,United States,Henderson,Kentucky,42420,South,FUR-FU-10001591,61,5,0,25.62,Cassandra Brandow
+US-2020-159205,2020-03-31,2020-04-02,Second Class,DB-12910,Daniel Byrd,Home Office,United States,Henderson,Kentucky,42420,South,TEC-PH-10000526,671.93,7,0,188.1404,Cassandra Brandow
+US-2020-162208,2020-08-27,2020-08-30,First Class,SP-20620,Stefania Perrino,Corporate,United States,Tampa,Florida,33614,South,OFF-EN-10004030,2.896,1,0.2,0.9774,Cassandra Brandow
+US-2020-162558,2020-10-02,2020-10-05,First Class,Dp-13240,Dean percer,Home Office,United States,Knoxville,Tennessee,37918,South,FUR-FU-10002364,11.808,2,0.2,1.3284,Cassandra Brandow
+US-2020-162558,2020-10-02,2020-10-05,First Class,Dp-13240,Dean percer,Home Office,United States,Knoxville,Tennessee,37918,South,FUR-FU-10004864,9.656,1,0.2,1.5691,Cassandra Brandow
+US-2020-162558,2020-10-02,2020-10-05,First Class,Dp-13240,Dean percer,Home Office,United States,Knoxville,Tennessee,37918,South,OFF-PA-10003172,20.736,4,0.2,7.2576,Cassandra Brandow
+US-2020-162558,2020-10-02,2020-10-05,First Class,Dp-13240,Dean percer,Home Office,United States,Knoxville,Tennessee,37918,South,OFF-BI-10000977,27.36,3,0.7,-21.888,Cassandra Brandow
+US-2020-162558,2020-10-02,2020-10-05,First Class,Dp-13240,Dean percer,Home Office,United States,Knoxville,Tennessee,37918,South,FUR-TA-10000198,2314.116,7,0.4,-1002.7836,Cassandra Brandow
+US-2020-162558,2020-10-02,2020-10-05,First Class,Dp-13240,Dean percer,Home Office,United States,Knoxville,Tennessee,37918,South,OFF-BI-10003984,34.236,4,0.7,-26.2476,Cassandra Brandow
+US-2020-162558,2020-10-02,2020-10-05,First Class,Dp-13240,Dean percer,Home Office,United States,Knoxville,Tennessee,37918,South,FUR-FU-10003691,19.76,2,0.2,5.928,Cassandra Brandow
+CA-2020-102204,2020-05-01,2020-05-06,Standard Class,CJ-12010,Caroline Jumper,Consumer,United States,Jacksonville,Florida,32216,South,OFF-SU-10001212,3.328,2,0.2,0.416,Cassandra Brandow
+CA-2020-102204,2020-05-01,2020-05-06,Standard Class,CJ-12010,Caroline Jumper,Consumer,United States,Jacksonville,Florida,32216,South,FUR-TA-10001889,933.262,4,0.45,-458.1468,Cassandra Brandow
+CA-2020-102204,2020-05-01,2020-05-06,Standard Class,CJ-12010,Caroline Jumper,Consumer,United States,Jacksonville,Florida,32216,South,FUR-CH-10002024,2803.92,5,0.2,0,Cassandra Brandow
+CA-2020-102309,2020-09-23,2020-09-25,Second Class,DO-13645,Doug O'Connell,Consumer,United States,Pine Bluff,Arkansas,71603,South,TEC-AC-10001114,199.95,5,0,63.984,Cassandra Brandow
+CA-2020-102309,2020-09-23,2020-09-25,Second Class,DO-13645,Doug O'Connell,Consumer,United States,Pine Bluff,Arkansas,71603,South,OFF-PA-10002005,12.96,2,0,6.2208,Cassandra Brandow
+CA-2020-102554,2020-06-11,2020-06-15,Standard Class,KN-16705,Kristina Nunn,Home Office,United States,Auburn,Alabama,36830,South,OFF-AR-10001919,3.76,2,0,1.0904,Cassandra Brandow
+CA-2020-102610,2020-11-04,2020-11-08,Standard Class,CA-12265,Christina Anderson,Consumer,United States,Chattanooga,Tennessee,37421,South,TEC-AC-10000303,95.976,3,0.2,15.5961,Cassandra Brandow
+CA-2020-102610,2020-11-04,2020-11-08,Standard Class,CA-12265,Christina Anderson,Consumer,United States,Chattanooga,Tennessee,37421,South,TEC-PH-10000127,143.928,9,0.2,-32.3838,Cassandra Brandow
+CA-2020-102610,2020-11-04,2020-11-08,Standard Class,CA-12265,Christina Anderson,Consumer,United States,Chattanooga,Tennessee,37421,South,OFF-BI-10004364,3.564,2,0.7,-2.97,Cassandra Brandow
+CA-2020-102610,2020-11-04,2020-11-08,Standard Class,CA-12265,Christina Anderson,Consumer,United States,Chattanooga,Tennessee,37421,South,OFF-LA-10002195,4.928,2,0.2,1.7248,Cassandra Brandow
+CA-2020-102736,2020-09-05,2020-09-09,Standard Class,LP-17095,Liz Preis,Consumer,United States,Knoxville,Tennessee,37918,South,TEC-AC-10004568,89.568,4,0.2,-1.1196,Cassandra Brandow
+CA-2020-102736,2020-09-05,2020-09-09,Standard Class,LP-17095,Liz Preis,Consumer,United States,Knoxville,Tennessee,37918,South,OFF-AR-10001897,71.96,5,0.2,7.196,Cassandra Brandow
+CA-2020-102736,2020-09-05,2020-09-09,Standard Class,LP-17095,Liz Preis,Consumer,United States,Knoxville,Tennessee,37918,South,OFF-PA-10001800,15.552,3,0.2,5.4432,Cassandra Brandow
+CA-2020-110212,2020-05-01,2020-05-05,Standard Class,SJ-20125,Sanjit Jacobs,Home Office,United States,Texarkana,Arkansas,71854,South,TEC-AC-10002331,48.9,5,0,18.093,Cassandra Brandow
+CA-2020-168102,2020-04-24,2020-04-30,Standard Class,CP-12340,Christine Phan,Corporate,United States,Jacksonville,Florida,32216,South,OFF-ST-10001370,113.568,2,0.2,-21.294,Cassandra Brandow
+US-2020-102904,2020-11-13,2020-11-20,Standard Class,CB-12025,Cassandra Brandow,Consumer,United States,Decatur,Alabama,35601,South,TEC-AC-10000927,239.92,8,0,23.992,Cassandra Brandow
+US-2020-162670,2020-12-23,2020-12-28,Second Class,MF-18250,Monica Federle,Corporate,United States,Little Rock,Arkansas,72209,South,OFF-ST-10001328,62.04,4,0,17.3712,Cassandra Brandow
+US-2020-162670,2020-12-23,2020-12-28,Second Class,MF-18250,Monica Federle,Corporate,United States,Little Rock,Arkansas,72209,South,TEC-PH-10003601,494.97,3,0,148.491,Cassandra Brandow
+US-2020-162670,2020-12-23,2020-12-28,Second Class,MF-18250,Monica Federle,Corporate,United States,Little Rock,Arkansas,72209,South,OFF-ST-10001522,367.96,4,0,14.7184,Cassandra Brandow
+US-2020-162670,2020-12-23,2020-12-28,Second Class,MF-18250,Monica Federle,Corporate,United States,Little Rock,Arkansas,72209,South,OFF-PA-10001994,44.96,2,0,20.6816,Cassandra Brandow
+US-2020-162670,2020-12-23,2020-12-28,Second Class,MF-18250,Monica Federle,Corporate,United States,Little Rock,Arkansas,72209,South,OFF-EN-10001453,182.94,3,0,85.9818,Cassandra Brandow
+US-2020-163195,2020-02-17,2020-02-21,Second Class,LL-16840,Lauren Leatherbury,Consumer,United States,Lafayette,Louisiana,70506,South,TEC-PH-10003875,29.16,3,0,8.4564,Cassandra Brandow
+US-2020-166233,2020-07-03,2020-07-09,Standard Class,MO-17950,Michael Oakman,Consumer,United States,Jacksonville,North Carolina,28540,South,TEC-AC-10002167,24,2,0.2,-2.7,Cassandra Brandow
+US-2020-166611,2020-03-28,2020-04-02,Standard Class,CK-12760,Cyma Kinney,Corporate,United States,Jacksonville,Florida,32216,South,OFF-BI-10001191,68.742,9,0.7,-48.1194,Cassandra Brandow
+US-2020-167920,2020-12-09,2020-12-12,Second Class,JL-15835,John Lee,Consumer,United States,Richmond,Kentucky,40475,South,OFF-BI-10004236,29.36,2,0,13.5056,Cassandra Brandow
+US-2020-167920,2020-12-09,2020-12-12,Second Class,JL-15835,John Lee,Consumer,United States,Richmond,Kentucky,40475,South,OFF-AP-10000159,214.9,5,0,62.321,Cassandra Brandow
+US-2020-167920,2020-12-09,2020-12-12,Second Class,JL-15835,John Lee,Consumer,United States,Richmond,Kentucky,40475,South,OFF-BI-10003274,15.92,4,0,7.4824,Cassandra Brandow
+US-2020-167920,2020-12-09,2020-12-12,Second Class,JL-15835,John Lee,Consumer,United States,Richmond,Kentucky,40475,South,TEC-AC-10001013,146.45,5,0,48.3285,Cassandra Brandow
+US-2020-167920,2020-12-09,2020-12-12,Second Class,JL-15835,John Lee,Consumer,United States,Richmond,Kentucky,40475,South,OFF-ST-10004963,15.14,1,0,0.6056,Cassandra Brandow
+US-2020-167920,2020-12-09,2020-12-12,Second Class,JL-15835,John Lee,Consumer,United States,Richmond,Kentucky,40475,South,OFF-LA-10004409,5.76,2,0,2.6496,Cassandra Brandow
+US-2020-167920,2020-12-09,2020-12-12,Second Class,JL-15835,John Lee,Consumer,United States,Richmond,Kentucky,40475,South,TEC-CO-10001046,1399.98,2,0,629.991,Cassandra Brandow
+US-2020-168116,2020-11-04,2020-11-04,Same Day,GT-14635,Grant Thornton,Corporate,United States,Burlington,North Carolina,27217,South,TEC-MA-10004125,7999.98,4,0.5,-3839.9904,Cassandra Brandow
+US-2020-168116,2020-11-04,2020-11-04,Same Day,GT-14635,Grant Thornton,Corporate,United States,Burlington,North Carolina,27217,South,OFF-AP-10002457,167.44,2,0.2,14.651,Cassandra Brandow
+US-2020-168690,2020-01-07,2020-01-13,Standard Class,TS-21085,Thais Sissman,Consumer,United States,Ormond Beach,Florida,32174,South,OFF-BI-10000145,2.808,3,0.7,-1.9656,Cassandra Brandow

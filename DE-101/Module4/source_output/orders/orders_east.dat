@@ -1,0 +1,921 @@
+Order_ID	Order_Date	Ship_Date	Ship_Mode	Customer_ID	Customer_Name	Segment	Country/Region	City	State	Postal_Code	Region	Product_ID	Sales	Quantity	Discount	Profit	Person
+CA-2020-100055	2020-05-28	2020-06-01	Standard Class	MD-17860	Michael Dominguez	Corporate	United States	Laurel	Maryland	20707	East	FUR-FU-10001473	27.46	2	0	9.8856	Chuck Magee
+CA-2020-100055	2020-05-28	2020-06-01	Standard Class	MD-17860	Michael Dominguez	Corporate	United States	Laurel	Maryland	20707	East	OFF-AP-10001469	125.13	3	0	36.2877	Chuck Magee
+CA-2020-100097	2020-11-26	2020-11-29	Second Class	MN-17935	Michael Nguyen	Consumer	United States	New York City	New York	10009	East	TEC-PH-10002310	979.95	5	0	264.5865	Chuck Magee
+CA-2020-100097	2020-11-26	2020-11-29	Second Class	MN-17935	Michael Nguyen	Consumer	United States	New York City	New York	10009	East	FUR-FU-10003623	135.3	5	0	37.884	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	FUR-CH-10003846	272.646	3	0.1	18.1764	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	TEC-AC-10002647	212.8	2	0	95.76	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	OFF-PA-10000807	38.52	9	0	18.1044	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	TEC-AC-10001465	72.64	2	0	21.792	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	OFF-ST-10000615	45.4	4	0	12.712	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	OFF-PA-10002713	13.76	2	0	6.3296	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	FUR-CH-10003061	80.991	1	0.1	8.0991	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	OFF-BI-10000343	11.784	3	0.2	3.9771	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	OFF-FA-10000304	4.36	2	0	1.7876	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	FUR-CH-10004086	2888.127	11	0.1	609.7157	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	TEC-PH-10002885	1299.66	2	0	350.9082	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	FUR-CH-10001215	2254.41	5	0.1	375.735	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	TEC-PH-10000215	104.85	3	0	28.3095	Chuck Magee
+CA-2020-100111	2020-09-20	2020-09-26	Standard Class	SV-20365	Seth Vernon	Consumer	United States	New York City	New York	10035	East	TEC-AC-10001998	59.97	3	0	20.3898	Chuck Magee
+CA-2020-100160	2020-09-07	2020-09-11	Standard Class	CB-12025	Cassandra Brandow	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-LA-10002475	29.24	5	0.2	9.8685	Chuck Magee
+CA-2020-100160	2020-09-07	2020-09-11	Standard Class	CB-12025	Cassandra Brandow	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-PA-10003072	15.552	3	0.2	5.4432	Chuck Magee
+CA-2020-100160	2020-09-07	2020-09-11	Standard Class	CB-12025	Cassandra Brandow	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-EN-10001509	4.896	3	0.2	1.6524	Chuck Magee
+CA-2020-100230	2020-12-11	2020-12-15	Standard Class	AA-10375	Allen Armold	Consumer	United States	New York City	New York	10035	East	OFF-BI-10002498	14.952	1	0.2	5.0463	Chuck Magee
+CA-2020-100230	2020-12-11	2020-12-15	Standard Class	AA-10375	Allen Armold	Consumer	United States	New York City	New York	10035	East	OFF-PA-10002245	17.94	3	0	8.073	Chuck Magee
+CA-2020-100230	2020-12-11	2020-12-15	Standard Class	AA-10375	Allen Armold	Consumer	United States	New York City	New York	10035	East	TEC-PH-10004522	116.98	2	0	29.245	Chuck Magee
+CA-2020-100433	2020-08-11	2020-08-16	Standard Class	SJ-20125	Sanjit Jacobs	Home Office	United States	New York City	New York	10009	East	OFF-PA-10003441	25.92	4	0	12.4416	Chuck Magee
+CA-2020-100524	2020-03-31	2020-04-02	Second Class	CM-12115	Chad McGuire	Consumer	United States	New York City	New York	10011	East	FUR-FU-10004018	29.78	2	0	8.0406	Chuck Magee
+CA-2020-100524	2020-03-31	2020-04-02	Second Class	CM-12115	Chad McGuire	Consumer	United States	New York City	New York	10011	East	TEC-PH-10002549	677.58	3	0	176.1708	Chuck Magee
+CA-2020-100524	2020-03-31	2020-04-02	Second Class	CM-12115	Chad McGuire	Consumer	United States	New York City	New York	10011	East	OFF-PA-10004911	75.04	8	0	36.0192	Chuck Magee
+CA-2020-100636	2020-06-26	2020-06-30	Standard Class	DO-13435	Denny Ordway	Consumer	United States	New York City	New York	10035	East	OFF-ST-10004123	272.94	3	0	0	Chuck Magee
+CA-2020-100811	2020-11-21	2020-11-24	First Class	CC-12475	Cindy Chapman	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-PA-10001204	8.448	2	0.2	2.64	Chuck Magee
+CA-2020-100811	2020-11-21	2020-11-24	First Class	CC-12475	Cindy Chapman	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-ST-10002444	39.296	4	0.2	3.9296	Chuck Magee
+CA-2020-101049	2020-06-21	2020-06-25	Second Class	AS-10240	Alan Shonely	Consumer	United States	Cleveland	Ohio	44105	East	FUR-FU-10004415	17.92	5	0.2	2.464	Chuck Magee
+CA-2020-101049	2020-06-21	2020-06-25	Second Class	AS-10240	Alan Shonely	Consumer	United States	Cleveland	Ohio	44105	East	OFF-BI-10001510	41.256	6	0.7	-34.38	Chuck Magee
+CA-2020-101434	2020-06-20	2020-06-27	Standard Class	TR-21325	Toby Ritter	Consumer	United States	Belleville	New Jersey	7109	East	TEC-AC-10002402	239.97	3	0	71.991	Chuck Magee
+CA-2020-101434	2020-06-20	2020-06-27	Standard Class	TR-21325	Toby Ritter	Consumer	United States	Belleville	New Jersey	7109	East	OFF-LA-10003223	9.82	2	0	4.8118	Chuck Magee
+CA-2020-101798	2020-12-11	2020-12-15	Standard Class	MV-18190	Mike Vittorini	Consumer	United States	New York City	New York	10009	East	OFF-BI-10000050	23.36	4	0.2	7.884	Chuck Magee
+CA-2020-101798	2020-12-11	2020-12-15	Standard Class	MV-18190	Mike Vittorini	Consumer	United States	New York City	New York	10009	East	TEC-AC-10001998	39.98	2	0	13.5932	Chuck Magee
+CA-2020-101959	2020-02-28	2020-03-06	Standard Class	DB-13660	Duane Benoit	Consumer	United States	Middletown	Connecticut	6457	East	OFF-BI-10001757	9.84	2	0	4.7232	Chuck Magee
+CA-2020-101959	2020-02-28	2020-03-06	Standard Class	DB-13660	Duane Benoit	Consumer	United States	Middletown	Connecticut	6457	East	OFF-PA-10002137	7.78	1	0	3.501	Chuck Magee
+CA-2020-102197	2020-12-20	2020-12-26	Standard Class	DK-13150	David Kendrick	Corporate	United States	New York City	New York	10009	East	OFF-PA-10001970	279.9	5	0	137.151	Chuck Magee
+CA-2020-102197	2020-12-20	2020-12-26	Standard Class	DK-13150	David Kendrick	Corporate	United States	New York City	New York	10009	East	OFF-BI-10001524	50.352	3	0.2	17.6232	Chuck Magee
+CA-2020-102197	2020-12-20	2020-12-26	Standard Class	DK-13150	David Kendrick	Corporate	United States	New York City	New York	10009	East	OFF-PA-10004156	34.02	3	0	16.6698	Chuck Magee
+CA-2020-102771	2020-03-31	2020-04-05	Standard Class	DO-13435	Denny Ordway	Consumer	United States	New York City	New York	10035	East	TEC-PH-10001536	84.95	5	0	22.087	Chuck Magee
+CA-2020-102925	2020-11-05	2020-11-10	Second Class	CD-12280	Christina DeMoss	Consumer	United States	New York City	New York	10024	East	OFF-BI-10002735	164.688	6	0.2	55.5822	Chuck Magee
+CA-2020-102925	2020-11-05	2020-11-10	Second Class	CD-12280	Christina DeMoss	Consumer	United States	New York City	New York	10024	East	FUR-TA-10003469	166.5	2	0.4	-66.6	Chuck Magee
+CA-2020-102925	2020-11-05	2020-11-10	Second Class	CD-12280	Christina DeMoss	Consumer	United States	New York City	New York	10024	East	OFF-PA-10001870	12.96	2	0	6.2208	Chuck Magee
+CA-2020-102925	2020-11-05	2020-11-10	Second Class	CD-12280	Christina DeMoss	Consumer	United States	New York City	New York	10024	East	OFF-PA-10004071	110.96	2	0	53.2608	Chuck Magee
+CA-2020-102925	2020-11-05	2020-11-10	Second Class	CD-12280	Christina DeMoss	Consumer	United States	New York City	New York	10024	East	TEC-PH-10001448	99.98	2	0	3.9992	Chuck Magee
+CA-2020-102925	2020-11-05	2020-11-10	Second Class	CD-12280	Christina DeMoss	Consumer	United States	New York City	New York	10024	East	OFF-BI-10002706	11.424	1	0.2	3.7128	Chuck Magee
+CA-2020-102925	2020-11-05	2020-11-10	Second Class	CD-12280	Christina DeMoss	Consumer	United States	New York City	New York	10024	East	FUR-CH-10004875	128.124	2	0.1	24.2012	Chuck Magee
+CA-2020-102925	2020-11-05	2020-11-10	Second Class	CD-12280	Christina DeMoss	Consumer	United States	New York City	New York	10024	East	FUR-FU-10004245	101.4	5	0	38.532	Chuck Magee
+CA-2020-102967	2020-09-22	2020-09-26	Standard Class	MG-17890	Michael Granlund	Home Office	United States	Concord	New Hampshire	3301	East	OFF-ST-10001590	67.4	5	0	17.524	Chuck Magee
+CA-2020-103156	2020-11-23	2020-11-24	First Class	TD-20995	Tamara Dahlen	Consumer	United States	Philadelphia	Pennsylvania	19120	East	FUR-FU-10000320	24.048	9	0.2	7.2144	Chuck Magee
+CA-2020-103352	2020-11-27	2020-11-30	Second Class	RP-19390	Resi Pölking	Consumer	United States	New York City	New York	10011	East	OFF-AR-10001573	6.99	3	0	2.0271	Chuck Magee
+CA-2020-103352	2020-11-27	2020-11-30	Second Class	RP-19390	Resi Pölking	Consumer	United States	New York City	New York	10011	East	OFF-BI-10001196	107.424	6	0.2	36.2556	Chuck Magee
+CA-2020-103443	2020-12-17	2020-12-23	Standard Class	AT-10735	Annie Thurman	Consumer	United States	New York City	New York	10009	East	OFF-ST-10002276	166.72	2	0	41.68	Chuck Magee
+CA-2020-103443	2020-12-17	2020-12-23	Standard Class	AT-10735	Annie Thurman	Consumer	United States	New York City	New York	10009	East	OFF-BI-10001617	24.816	3	0.2	8.3754	Chuck Magee
+CA-2020-103443	2020-12-17	2020-12-23	Standard Class	AT-10735	Annie Thurman	Consumer	United States	New York City	New York	10009	East	FUR-FU-10000308	124.36	2	0	27.3592	Chuck Magee
+CA-2020-103506	2020-07-23	2020-07-27	Standard Class	LR-17035	Lisa Ryan	Corporate	United States	Long Beach	New York	11561	East	OFF-LA-10001158	41.4	4	0	19.872	Chuck Magee
+CA-2020-104010	2020-04-23	2020-04-25	First Class	TD-20995	Tamara Dahlen	Consumer	United States	New York City	New York	10011	East	OFF-SU-10001218	54.9	5	0	15.372	Chuck Magee
+CA-2020-104024	2020-08-29	2020-09-03	Second Class	MD-17860	Michael Dominguez	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-AR-10001972	9.408	7	0.2	0.7056	Chuck Magee
+CA-2020-104066	2020-12-05	2020-12-10	Standard Class	QJ-19255	Quincy Jones	Corporate	United States	Burlington	Vermont		East	TEC-AC-10001013	205.03	7	0	67.6599	Chuck Magee
+CA-2020-104136	2020-11-01	2020-11-04	Second Class	SF-20065	Sandra Flanagan	Consumer	United States	Everett	Massachusetts	2149	East	OFF-PA-10004243	189.7	10	0	91.056	Chuck Magee
+CA-2020-104136	2020-11-01	2020-11-04	Second Class	SF-20065	Sandra Flanagan	Consumer	United States	Everett	Massachusetts	2149	East	OFF-PA-10001033	40.99	1	0	20.0851	Chuck Magee
+CA-2020-104381	2020-12-16	2020-12-23	Standard Class	RD-19810	Ross DeVincentis	Home Office	United States	Rochester	New York	14609	East	OFF-BI-10001628	33.376	4	0.2	10.43	Chuck Magee
+CA-2020-104577	2020-05-12	2020-05-17	Standard Class	CK-12205	Chloris Kastensmidt	Consumer	United States	Everett	Massachusetts	2149	East	OFF-PA-10000659	87.6	5	0	42.048	Chuck Magee
+CA-2020-104640	2020-11-10	2020-11-16	Standard Class	FH-14275	Frank Hawley	Corporate	United States	New York City	New York	10024	East	OFF-BI-10003925	931.176	3	0.2	314.2719	Chuck Magee
+CA-2020-104640	2020-11-10	2020-11-16	Standard Class	FH-14275	Frank Hawley	Corporate	United States	New York City	New York	10024	East	TEC-PH-10002200	430.88	2	0	124.9552	Chuck Magee
+CA-2020-104822	2020-10-20	2020-10-20	Same Day	RB-19465	Rick Bensley	Home Office	United States	New York City	New York	10024	East	OFF-LA-10002034	24.55	5	0	12.0295	Chuck Magee
+CA-2020-104885	2020-03-02	2020-03-08	Standard Class	DB-13555	Dorothy Badders	Corporate	United States	Newark	Delaware	19711	East	OFF-AR-10001615	59.52	3	0	15.4752	Chuck Magee
+CA-2020-104885	2020-03-02	2020-03-08	Standard Class	DB-13555	Dorothy Badders	Corporate	United States	Newark	Delaware	19711	East	OFF-EN-10003286	57.96	7	0	27.2412	Chuck Magee
+CA-2020-104885	2020-03-02	2020-03-08	Standard Class	DB-13555	Dorothy Badders	Corporate	United States	Newark	Delaware	19711	East	FUR-BO-10003660	441.96	2	0	101.6508	Chuck Magee
+CA-2020-104885	2020-03-02	2020-03-08	Standard Class	DB-13555	Dorothy Badders	Corporate	United States	Newark	Delaware	19711	East	OFF-PA-10002764	68.04	6	0	33.3396	Chuck Magee
+CA-2020-104906	2020-02-13	2020-02-17	Standard Class	JP-15460	Jennifer Patt	Corporate	United States	New York City	New York	10009	East	OFF-PA-10001184	17.94	3	0	8.7906	Chuck Magee
+CA-2020-104913	2020-11-18	2020-11-22	Standard Class	DK-13090	Dave Kipp	Consumer	United States	Long Beach	New York	11561	East	TEC-PH-10000923	74.95	5	0	36.7255	Chuck Magee
+CA-2020-105053	2020-07-07	2020-07-09	Second Class	CS-12355	Christine Sundaresam	Consumer	United States	Long Beach	New York	11561	East	OFF-BI-10001634	17.472	3	0.2	6.3336	Chuck Magee
+CA-2020-105074	2020-06-24	2020-06-29	Standard Class	MB-17305	Maria Bertelson	Consumer	United States	Akron	Ohio	44312	East	OFF-PA-10002666	21.744	3	0.2	6.795	Chuck Magee
+CA-2020-105193	2020-03-25	2020-03-31	Standard Class	JL-15835	John Lee	Consumer	United States	New York City	New York	10024	East	OFF-AR-10001547	11.05	5	0	2.9835	Chuck Magee
+CA-2020-105235	2020-12-05	2020-12-11	Standard Class	SM-20950	Suzanne McNair	Corporate	United States	New York City	New York	10011	East	FUR-FU-10001487	20.94	3	0	6.0726	Chuck Magee
+CA-2020-105235	2020-12-05	2020-12-11	Standard Class	SM-20950	Suzanne McNair	Corporate	United States	New York City	New York	10011	East	FUR-FU-10000521	58.68	2	0	18.1908	Chuck Magee
+CA-2020-105235	2020-12-05	2020-12-11	Standard Class	SM-20950	Suzanne McNair	Corporate	United States	New York City	New York	10011	East	OFF-AP-10001271	254.9	5	0	68.823	Chuck Magee
+CA-2020-105333	2020-11-30	2020-12-04	Standard Class	VP-21730	Victor Preis	Home Office	United States	New York City	New York	10011	East	OFF-ST-10002182	83.56	4	0	1.6712	Chuck Magee
+CA-2020-105333	2020-11-30	2020-12-04	Standard Class	VP-21730	Victor Preis	Home Office	United States	New York City	New York	10011	East	TEC-PH-10001468	546.06	3	0	163.818	Chuck Magee
+CA-2020-105333	2020-11-30	2020-12-04	Standard Class	VP-21730	Victor Preis	Home Office	United States	New York City	New York	10011	East	OFF-ST-10001809	269.49	3	0	5.3898	Chuck Magee
+CA-2020-105480	2020-12-20	2020-12-26	Standard Class	DK-13225	Dean Katz	Corporate	United States	Rochester	New York	14609	East	OFF-PA-10002787	6.48	1	0	3.1104	Chuck Magee
+CA-2020-105480	2020-12-20	2020-12-26	Standard Class	DK-13225	Dean Katz	Corporate	United States	Rochester	New York	14609	East	OFF-BI-10003291	6.984	1	0.2	2.3571	Chuck Magee
+CA-2020-105886	2020-12-18	2020-12-23	Standard Class	DB-13660	Duane Benoit	Consumer	United States	Oceanside	New York	11572	East	FUR-FU-10001037	18.96	2	0	8.532	Chuck Magee
+CA-2020-106047	2020-07-12	2020-07-18	Standard Class	CS-11860	Cari Schnelling	Consumer	United States	Fairfield	Ohio	45014	East	OFF-PA-10000791	3.816	1	0.2	1.1925	Chuck Magee
+CA-2020-106355	2020-04-02	2020-04-05	First Class	AT-10435	Alyssa Tate	Home Office	United States	Meriden	Connecticut	6450	East	OFF-AR-10000246	11.12	4	0	2.8912	Chuck Magee
+CA-2020-106747	2020-07-03	2020-07-04	First Class	TS-21505	Tony Sayre	Consumer	United States	Concord	New Hampshire	3301	East	FUR-FU-10004188	102.3	1	0	26.598	Chuck Magee
+CA-2020-106831	2020-06-01	2020-06-03	First Class	FH-14350	Fred Harton	Consumer	United States	Dublin	Ohio	43017	East	OFF-BI-10003429	3.798	2	0.7	-2.6586	Chuck Magee
+CA-2020-106831	2020-06-01	2020-06-03	First Class	FH-14350	Fred Harton	Consumer	United States	Dublin	Ohio	43017	East	OFF-PA-10000682	27.744	6	0.2	10.0572	Chuck Magee
+CA-2020-106831	2020-06-01	2020-06-03	First Class	FH-14350	Fred Harton	Consumer	United States	Dublin	Ohio	43017	East	TEC-PH-10001700	158.376	4	0.4	-34.3148	Chuck Magee
+CA-2020-106852	2020-06-20	2020-06-27	Standard Class	ST-20530	Shui Tom	Consumer	United States	Parma	Ohio	44134	East	OFF-PA-10001639	31.104	6	0.2	10.8864	Chuck Magee
+CA-2020-106852	2020-06-20	2020-06-27	Standard Class	ST-20530	Shui Tom	Consumer	United States	Parma	Ohio	44134	East	OFF-AR-10003829	5.248	2	0.2	0.5904	Chuck Magee
+CA-2020-106943	2020-11-14	2020-11-19	Standard Class	FO-14305	Frank Olsen	Consumer	United States	New York City	New York	10035	East	OFF-BI-10003669	8.64	2	0.2	3.024	Chuck Magee
+CA-2020-107132	2020-06-26	2020-06-30	Standard Class	SC-20260	Scott Cohen	Corporate	United States	New York City	New York	10009	East	OFF-BI-10001071	102.368	2	0.2	37.1084	Chuck Magee
+CA-2020-107132	2020-06-26	2020-06-30	Standard Class	SC-20260	Scott Cohen	Corporate	United States	New York City	New York	10009	East	OFF-SU-10002503	28.4	5	0	8.236	Chuck Magee
+CA-2020-107132	2020-06-26	2020-06-30	Standard Class	SC-20260	Scott Cohen	Corporate	United States	New York City	New York	10009	East	OFF-ST-10001490	713.88	4	0	214.164	Chuck Magee
+CA-2020-107132	2020-06-26	2020-06-30	Standard Class	SC-20260	Scott Cohen	Corporate	United States	New York City	New York	10009	East	OFF-PA-10003790	68.52	3	0	31.5192	Chuck Magee
+CA-2020-107503	2020-01-01	2020-01-06	Standard Class	GA-14725	Guy Armstrong	Consumer	United States	Lorain	Ohio	44052	East	FUR-FU-10003878	48.896	4	0.2	8.5568	Chuck Magee
+CA-2020-107552	2020-05-05	2020-05-05	Same Day	AI-10855	Arianne Irving	Consumer	United States	New York City	New York	10035	East	OFF-PA-10002947	6.68	1	0	3.2064	Chuck Magee
+CA-2020-107713	2020-03-13	2020-03-17	Standard Class	JB-16000	Joy Bell-	Consumer	United States	Columbia	Maryland	21044	East	OFF-BI-10002026	174.3	3	0	81.921	Chuck Magee
+CA-2020-107720	2020-11-06	2020-11-13	Standard Class	VM-21685	Valerie Mitchum	Home Office	United States	Westfield	New Jersey	7090	East	OFF-ST-10001414	46.26	3	0	12.0276	Chuck Magee
+CA-2020-107832	2020-11-23	2020-11-26	Second Class	FH-14275	Frank Hawley	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-BI-10001658	7.476	1	0.7	-5.9808	Chuck Magee
+CA-2020-107874	2020-11-21	2020-11-25	Standard Class	SW-20275	Scott Williamson	Consumer	United States	New York City	New York	10035	East	FUR-FU-10003535	27.42	1	0	11.2422	Chuck Magee
+CA-2020-108441	2020-06-12	2020-06-18	Standard Class	SB-20170	Sarah Bern	Consumer	United States	New York City	New York	10035	East	OFF-PA-10000697	19.04	4	0	9.3296	Chuck Magee
+CA-2020-108441	2020-06-12	2020-06-18	Standard Class	SB-20170	Sarah Bern	Consumer	United States	New York City	New York	10035	East	OFF-BI-10000848	13.128	3	0.2	4.2666	Chuck Magee
+CA-2020-108441	2020-06-12	2020-06-18	Standard Class	SB-20170	Sarah Bern	Consumer	United States	New York City	New York	10035	East	OFF-AR-10004691	64.14	3	0	16.6764	Chuck Magee
+CA-2020-108441	2020-06-12	2020-06-18	Standard Class	SB-20170	Sarah Bern	Consumer	United States	New York City	New York	10035	East	FUR-CH-10000595	858.24	4	0.1	143.04	Chuck Magee
+CA-2020-108553	2020-04-23	2020-04-29	Standard Class	SK-19990	Sally Knutson	Consumer	United States	New York City	New York	10024	East	OFF-AP-10000026	121.94	2	0	35.3626	Chuck Magee
+CA-2020-108553	2020-04-23	2020-04-29	Standard Class	SK-19990	Sally Knutson	Consumer	United States	New York City	New York	10024	East	OFF-SU-10002573	122.71	7	0	36.813	Chuck Magee
+CA-2020-108749	2020-09-12	2020-09-15	First Class	DJ-13510	Don Jones	Corporate	United States	Woonsocket	Rhode Island	2895	East	OFF-PA-10003797	45.36	7	0	21.7728	Chuck Magee
+CA-2020-108749	2020-09-12	2020-09-15	First Class	DJ-13510	Don Jones	Corporate	United States	Woonsocket	Rhode Island	2895	East	OFF-BI-10003707	45.78	3	0	22.89	Chuck Magee
+CA-2020-108756	2020-12-25	2020-12-29	Standard Class	PO-18865	Patrick O'Donnell	Consumer	United States	East Orange	New Jersey	7017	East	TEC-AC-10003237	31.8	3	0	13.674	Chuck Magee
+CA-2020-108791	2020-07-27	2020-07-31	Standard Class	TM-21490	Tony Molinari	Consumer	United States	Yonkers	New York	10701	East	FUR-FU-10004018	14.89	1	0	4.0203	Chuck Magee
+CA-2020-108791	2020-07-27	2020-07-31	Standard Class	TM-21490	Tony Molinari	Consumer	United States	Yonkers	New York	10701	East	TEC-PH-10002660	543.92	8	0	135.98	Chuck Magee
+CA-2020-108910	2020-09-24	2020-09-29	Standard Class	KC-16540	Kelly Collister	Consumer	United States	Newark	Ohio	43055	East	FUR-FU-10002253	103.056	3	0.2	24.4758	Chuck Magee
+CA-2020-108931	2020-09-14	2020-09-19	Standard Class	HZ-14950	Henia Zydlo	Consumer	United States	New York City	New York	10024	East	OFF-PA-10002741	8.56	2	0	3.852	Chuck Magee
+CA-2020-108931	2020-09-14	2020-09-19	Standard Class	HZ-14950	Henia Zydlo	Consumer	United States	New York City	New York	10024	East	OFF-PA-10003845	11.56	2	0	5.6644	Chuck Magee
+CA-2020-109085	2020-02-17	2020-02-20	First Class	CK-12325	Christine Kargatis	Home Office	United States	Troy	Ohio	45373	East	FUR-TA-10001086	455.97	5	0.4	-106.393	Chuck Magee
+CA-2020-109085	2020-02-17	2020-02-20	First Class	CK-12325	Christine Kargatis	Home Office	United States	Troy	Ohio	45373	East	OFF-BI-10001525	5.715	5	0.7	-4.7625	Chuck Magee
+CA-2020-109085	2020-02-17	2020-02-20	First Class	CK-12325	Christine Kargatis	Home Office	United States	Troy	Ohio	45373	East	TEC-PH-10000526	57.594	1	0.4	-11.5188	Chuck Magee
+CA-2020-109085	2020-02-17	2020-02-20	First Class	CK-12325	Christine Kargatis	Home Office	United States	Troy	Ohio	45373	East	FUR-FU-10004973	30.144	2	0.2	8.2896	Chuck Magee
+CA-2020-109085	2020-02-17	2020-02-20	First Class	CK-12325	Christine Kargatis	Home Office	United States	Troy	Ohio	45373	East	FUR-CH-10003981	899.43	5	0.3	-12.849	Chuck Magee
+CA-2020-109099	2020-10-06	2020-10-11	Standard Class	MM-18280	Muhammed MacIntyre	Corporate	United States	New York City	New York	10009	East	OFF-PA-10001033	40.99	1	0	20.0851	Chuck Magee
+CA-2020-109211	2020-04-04	2020-04-10	Standard Class	PS-19045	Penelope Sewall	Home Office	United States	New York City	New York	10011	East	OFF-EN-10001532	16.98	1	0	8.49	Chuck Magee
+CA-2020-109750	2020-07-22	2020-07-28	Standard Class	FH-14365	Fred Hopkins	Corporate	United States	New York City	New York	10009	East	TEC-PH-10000702	29.97	3	0	14.0859	Chuck Magee
+CA-2020-109757	2020-09-04	2020-09-09	Second Class	MD-17350	Maribeth Dona	Consumer	United States	Akron	Ohio	44312	East	OFF-AR-10002335	8.256	4	0.2	0.6192	Chuck Magee
+CA-2020-109757	2020-09-04	2020-09-09	Second Class	MD-17350	Maribeth Dona	Consumer	United States	Akron	Ohio	44312	East	OFF-BI-10004001	25.56	5	0.7	-20.448	Chuck Magee
+CA-2020-109757	2020-09-04	2020-09-09	Second Class	MD-17350	Maribeth Dona	Consumer	United States	Akron	Ohio	44312	East	OFF-BI-10001634	4.368	2	0.7	-3.0576	Chuck Magee
+CA-2020-109757	2020-09-04	2020-09-09	Second Class	MD-17350	Maribeth Dona	Consumer	United States	Akron	Ohio	44312	East	OFF-PA-10000007	11.52	4	0.2	3.744	Chuck Magee
+CA-2020-110429	2020-11-03	2020-11-08	Standard Class	DM-13015	Darrin Martin	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-BI-10000216	11.673	3	0.7	-7.782	Chuck Magee
+CA-2020-110625	2020-12-23	2020-12-30	Standard Class	JB-16045	Julia Barnett	Home Office	United States	Danbury	Connecticut	6810	East	FUR-FU-10001473	27.46	2	0	9.8856	Chuck Magee
+CA-2020-110884	2020-03-07	2020-03-12	Standard Class	SH-20395	Shahid Hopkins	Consumer	United States	New York City	New York	10035	East	OFF-BI-10003669	25.92	6	0.2	9.072	Chuck Magee
+CA-2020-110884	2020-03-07	2020-03-12	Standard Class	SH-20395	Shahid Hopkins	Consumer	United States	New York City	New York	10035	East	OFF-LA-10003510	91.59	3	0	42.1314	Chuck Magee
+CA-2020-111269	2020-06-16	2020-06-18	Second Class	CS-12355	Christine Sundaresam	Consumer	United States	Dublin	Ohio	43017	East	TEC-AC-10001606	479.952	6	0.2	107.9892	Chuck Magee
+CA-2020-111269	2020-06-16	2020-06-18	Second Class	CS-12355	Christine Sundaresam	Consumer	United States	Dublin	Ohio	43017	East	OFF-AR-10001427	23.92	5	0.2	1.794	Chuck Magee
+CA-2020-111374	2020-02-24	2020-02-28	Standard Class	CB-12415	Christy Brittain	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-BI-10004970	4.956	4	0.7	-3.7996	Chuck Magee
+CA-2020-111556	2020-11-20	2020-11-22	First Class	CD-11920	Carlos Daly	Consumer	United States	New York City	New York	10035	East	OFF-PA-10003651	46.76	7	0	22.4448	Chuck Magee
+CA-2020-111556	2020-11-20	2020-11-22	First Class	CD-11920	Carlos Daly	Consumer	United States	New York City	New York	10035	East	FUR-BO-10003159	183.968	2	0.2	-25.2956	Chuck Magee
+CA-2020-111556	2020-11-20	2020-11-22	First Class	CD-11920	Carlos Daly	Consumer	United States	New York City	New York	10035	East	TEC-PH-10001459	1259.97	3	0	327.5922	Chuck Magee
+CA-2020-111556	2020-11-20	2020-11-22	First Class	CD-11920	Carlos Daly	Consumer	United States	New York City	New York	10035	East	OFF-AR-10004602	68.97	3	0	19.3116	Chuck Magee
+CA-2020-111689	2020-11-30	2020-12-02	Second Class	HP-14815	Harold Pawlan	Home Office	United States	New York City	New York	10024	East	OFF-BI-10003984	68.472	3	0.2	23.1093	Chuck Magee
+CA-2020-111689	2020-11-30	2020-12-02	Second Class	HP-14815	Harold Pawlan	Home Office	United States	New York City	New York	10024	East	FUR-CH-10004287	1242.9	5	0.1	262.39	Chuck Magee
+CA-2020-112004	2020-09-25	2020-09-28	First Class	AH-10075	Adam Hart	Corporate	United States	Chester	Pennsylvania	19013	East	OFF-BI-10003476	8.595	5	0.7	-6.303	Chuck Magee
+CA-2020-112004	2020-09-25	2020-09-28	First Class	AH-10075	Adam Hart	Corporate	United States	Chester	Pennsylvania	19013	East	OFF-SU-10000157	190.896	2	0.2	-42.9516	Chuck Magee
+CA-2020-112172	2020-06-10	2020-06-14	Second Class	MM-18280	Muhammed MacIntyre	Corporate	United States	New York City	New York	10024	East	OFF-FA-10004395	14.13	3	0	0.7065	Chuck Magee
+CA-2020-112333	2020-04-08	2020-04-14	Standard Class	KF-16285	Karen Ferguson	Home Office	United States	Plainfield	New Jersey	7060	East	OFF-ST-10001780	2591.56	4	0	621.9744	Chuck Magee
+CA-2020-112333	2020-04-08	2020-04-14	Standard Class	KF-16285	Karen Ferguson	Home Office	United States	Plainfield	New Jersey	7060	East	OFF-AP-10001962	41.95	5	0	10.4875	Chuck Magee
+CA-2020-112487	2020-12-26	2020-12-30	Standard Class	TC-21535	Tracy Collins	Home Office	United States	Columbus	Ohio	43229	East	OFF-BI-10000494	3.132	2	0.7	-2.61	Chuck Magee
+CA-2020-112844	2020-11-13	2020-11-16	Second Class	SP-20620	Stefania Perrino	Corporate	United States	Buffalo	New York	14215	East	TEC-PH-10003988	43.6	4	0	12.208	Chuck Magee
+CA-2020-112844	2020-11-13	2020-11-16	Second Class	SP-20620	Stefania Perrino	Corporate	United States	Buffalo	New York	14215	East	FUR-FU-10004845	154.95	3	0	30.99	Chuck Magee
+CA-2020-112865	2020-05-18	2020-05-22	Standard Class	BH-11710	Brosina Hoffman	Consumer	United States	Philadelphia	Pennsylvania	19140	East	TEC-AC-10000387	36.048	3	0.2	-0.9012	Chuck Magee
+CA-2020-112956	2020-08-21	2020-08-27	Standard Class	TH-21550	Tracy Hopkins	Home Office	United States	Columbia	Maryland	21044	East	OFF-PA-10000357	277.4	5	0	133.152	Chuck Magee
+CA-2020-112956	2020-08-21	2020-08-27	Standard Class	TH-21550	Tracy Hopkins	Home Office	United States	Columbia	Maryland	21044	East	FUR-FU-10003976	25.16	2	0	8.5544	Chuck Magee
+CA-2020-112956	2020-08-21	2020-08-27	Standard Class	TH-21550	Tracy Hopkins	Home Office	United States	Columbia	Maryland	21044	East	FUR-FU-10004960	91.92	4	0	31.2528	Chuck Magee
+CA-2020-112984	2020-09-16	2020-09-18	Second Class	EH-14185	Evan Henry	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-PA-10003657	20.544	6	0.2	6.42	Chuck Magee
+CA-2020-113418	2020-10-01	2020-10-03	First Class	CM-12655	Corinna Mitchell	Home Office	United States	New York City	New York	10035	East	TEC-MA-10002428	1704.89	11	0	767.2005	Chuck Magee
+CA-2020-113453	2020-10-21	2020-10-28	Standard Class	CM-12160	Charles McCrossin	Consumer	United States	Philadelphia	Pennsylvania	19143	East	TEC-PH-10004165	329.988	2	0.4	-76.9972	Chuck Magee
+CA-2020-113453	2020-10-21	2020-10-28	Standard Class	CM-12160	Charles McCrossin	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-ST-10000352	71.376	3	0.2	-4.461	Chuck Magee
+CA-2020-113460	2020-11-07	2020-11-09	Second Class	KN-16390	Katherine Nockton	Corporate	United States	Clinton	Maryland	20735	East	FUR-CH-10000422	272.97	3	0	43.6752	Chuck Magee
+CA-2020-113572	2020-11-07	2020-11-11	Standard Class	FP-14320	Frank Preis	Consumer	United States	New York City	New York	10024	East	TEC-AC-10002370	7.88	4	0	2.5216	Chuck Magee
+CA-2020-113908	2020-06-03	2020-06-09	Standard Class	KN-16390	Katherine Nockton	Corporate	United States	New York City	New York	10011	East	FUR-TA-10001932	384.768	2	0.4	-115.4304	Chuck Magee
+CA-2020-113908	2020-06-03	2020-06-09	Standard Class	KN-16390	Katherine Nockton	Corporate	United States	New York City	New York	10011	East	TEC-MA-10003173	78.66	6	0	36.1836	Chuck Magee
+CA-2020-113908	2020-06-03	2020-06-09	Standard Class	KN-16390	Katherine Nockton	Corporate	United States	New York City	New York	10011	East	OFF-PA-10004156	45.36	4	0	22.2264	Chuck Magee
+CA-2020-114216	2020-09-02	2020-09-06	Standard Class	RK-19300	Ralph Kennedy	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-PA-10002195	12.192	3	0.2	4.1148	Chuck Magee
+CA-2020-114552	2020-09-02	2020-09-08	Standard Class	Dl-13600	Dorris liebe	Corporate	United States	Cleveland	Ohio	44105	East	FUR-FU-10002960	15.072	3	0.2	4.1448	Chuck Magee
+CA-2020-115105	2020-02-06	2020-02-11	Standard Class	BD-11770	Bryan Davis	Consumer	United States	New York City	New York	10024	East	FUR-BO-10001811	240.784	1	0.2	30.098	Chuck Magee
+CA-2020-115119	2020-10-26	2020-10-30	Standard Class	SC-20440	Shaun Chance	Corporate	United States	Lancaster	Pennsylvania	17602	East	TEC-PH-10001433	61.542	1	0.4	-13.3341	Chuck Magee
+CA-2020-115119	2020-10-26	2020-10-30	Standard Class	SC-20440	Shaun Chance	Corporate	United States	Lancaster	Pennsylvania	17602	East	OFF-BI-10003007	81.438	7	0.7	-65.1504	Chuck Magee
+CA-2020-115322	2020-05-11	2020-05-16	Second Class	ZC-21910	Zuschuss Carroll	Consumer	United States	New York City	New York	10024	East	OFF-AR-10004456	43.92	3	0	12.7368	Chuck Magee
+CA-2020-115546	2020-05-14	2020-05-18	Standard Class	AH-10465	Amy Hunt	Consumer	United States	New York City	New York	10035	East	TEC-PH-10002834	539.97	3	0	134.9925	Chuck Magee
+CA-2020-115546	2020-05-14	2020-05-18	Standard Class	AH-10465	Amy Hunt	Consumer	United States	New York City	New York	10035	East	OFF-ST-10002214	22.58	2	0	5.8708	Chuck Magee
+CA-2020-115602	2020-12-18	2020-12-24	Standard Class	DJ-13630	Doug Jacobs	Consumer	United States	New York City	New York	10009	East	OFF-AR-10002280	38.82	6	0	17.469	Chuck Magee
+CA-2020-115602	2020-12-18	2020-12-24	Standard Class	DJ-13630	Doug Jacobs	Consumer	United States	New York City	New York	10009	East	FUR-CH-10001708	1141.938	9	0.1	139.5702	Chuck Magee
+CA-2020-115602	2020-12-18	2020-12-24	Standard Class	DJ-13630	Doug Jacobs	Consumer	United States	New York City	New York	10009	East	OFF-AP-10000891	1704.56	13	0	511.368	Chuck Magee
+CA-2020-115602	2020-12-18	2020-12-24	Standard Class	DJ-13630	Doug Jacobs	Consumer	United States	New York City	New York	10009	East	OFF-AR-10000462	3.2	2	0	1.376	Chuck Magee
+CA-2020-115777	2020-08-19	2020-08-24	Standard Class	DO-13645	Doug O'Connell	Consumer	United States	Lawrence	Massachusetts	1841	East	OFF-PA-10000552	19.44	3	0	9.3312	Chuck Magee
+CA-2020-116127	2020-06-25	2020-06-27	Second Class	SB-20185	Sarah Brown	Consumer	United States	New York City	New York	10024	East	FUR-BO-10002213	400.784	1	0.2	-5.0098	Chuck Magee
+CA-2020-116225	2020-11-05	2020-11-09	Standard Class	SV-20935	Susan Vittorini	Consumer	United States	New York City	New York	10009	East	TEC-AC-10001432	390.75	5	0	171.93	Chuck Magee
+CA-2020-116519	2020-10-13	2020-10-15	First Class	CR-12730	Craig Reiter	Consumer	United States	New York City	New York	10009	East	OFF-AP-10000828	904.9	5	0	253.372	Chuck Magee
+CA-2020-116645	2020-11-30	2020-12-04	Standard Class	ME-17725	Max Engle	Consumer	United States	Newark	Delaware	19711	East	OFF-AR-10001044	155.94	6	0	45.2226	Chuck Magee
+CA-2020-117023	2020-08-07	2020-08-12	Standard Class	JW-15955	Joni Wasserman	Consumer	United States	Long Beach	New York	11561	East	OFF-AR-10003602	11.68	2	0	5.4896	Chuck Magee
+CA-2020-117023	2020-08-07	2020-08-12	Standard Class	JW-15955	Joni Wasserman	Consumer	United States	Long Beach	New York	11561	East	OFF-AR-10004062	104.8	10	0	26.2	Chuck Magee
+CA-2020-117128	2020-12-05	2020-12-08	Second Class	BF-11080	Bart Folk	Consumer	United States	New York City	New York	10024	East	OFF-PA-10000007	21.6	6	0	9.936	Chuck Magee
+CA-2020-117128	2020-12-05	2020-12-08	Second Class	BF-11080	Bart Folk	Consumer	United States	New York City	New York	10024	East	OFF-LA-10000248	11.07	3	0	5.2029	Chuck Magee
+CA-2020-117156	2020-03-21	2020-03-23	Second Class	TB-21055	Ted Butterfield	Consumer	United States	Reading	Pennsylvania	19601	East	OFF-EN-10003845	8.856	3	0.2	2.8782	Chuck Magee
+CA-2020-117240	2020-07-23	2020-07-28	Standard Class	CP-12340	Christine Phan	Corporate	United States	New York City	New York	10009	East	OFF-BI-10000848	13.128	3	0.2	4.2666	Chuck Magee
+CA-2020-117394	2020-09-04	2020-09-10	Standard Class	MM-17920	Michael Moore	Consumer	United States	Philadelphia	Pennsylvania	19120	East	TEC-AC-10000199	19.04	4	0.2	-1.428	Chuck Magee
+CA-2020-117422	2020-10-21	2020-10-25	Standard Class	FC-14245	Frank Carlisle	Home Office	United States	Lakewood	Ohio	44107	East	OFF-AP-10000938	161.568	2	0.2	16.1568	Chuck Magee
+CA-2020-117422	2020-10-21	2020-10-25	Standard Class	FC-14245	Frank Carlisle	Home Office	United States	Lakewood	Ohio	44107	East	OFF-PA-10002195	4.064	1	0.2	1.3716	Chuck Magee
+CA-2020-117422	2020-10-21	2020-10-25	Standard Class	FC-14245	Frank Carlisle	Home Office	United States	Lakewood	Ohio	44107	East	OFF-BI-10002799	6.216	4	0.7	-4.9728	Chuck Magee
+CA-2020-117436	2020-06-08	2020-06-14	Standard Class	LW-17125	Liz Willingham	Consumer	United States	Norwich	Connecticut	6360	East	OFF-BI-10004040	10.36	2	0	5.0764	Chuck Magee
+CA-2020-117667	2020-12-04	2020-12-09	Standard Class	MS-17980	Michael Stewart	Corporate	United States	Philadelphia	Pennsylvania	19134	East	FUR-CH-10004540	239.96	10	0.3	-10.284	Chuck Magee
+CA-2020-117667	2020-12-04	2020-12-09	Standard Class	MS-17980	Michael Stewart	Corporate	United States	Philadelphia	Pennsylvania	19134	East	FUR-FU-10004093	54.768	2	0.2	6.846	Chuck Magee
+CA-2020-117667	2020-12-04	2020-12-09	Standard Class	MS-17980	Michael Stewart	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-AR-10000716	13.392	3	0.2	3.1806	Chuck Magee
+CA-2020-117667	2020-12-04	2020-12-09	Standard Class	MS-17980	Michael Stewart	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-PA-10002709	23.92	5	0.2	8.671	Chuck Magee
+CA-2020-117667	2020-12-04	2020-12-09	Standard Class	MS-17980	Michael Stewart	Corporate	United States	Philadelphia	Pennsylvania	19134	East	TEC-AC-10000580	255.968	4	0.2	-28.7964	Chuck Magee
+CA-2020-117702	2020-11-28	2020-12-04	Standard Class	LS-16975	Lindsay Shagiari	Home Office	United States	Baltimore	Maryland	21215	East	OFF-AR-10004582	1.64	1	0	0.738	Chuck Magee
+CA-2020-117702	2020-11-28	2020-12-04	Standard Class	LS-16975	Lindsay Shagiari	Home Office	United States	Baltimore	Maryland	21215	East	FUR-FU-10000576	1049.2	5	0	272.792	Chuck Magee
+CA-2020-117702	2020-11-28	2020-12-04	Standard Class	LS-16975	Lindsay Shagiari	Home Office	United States	Baltimore	Maryland	21215	East	FUR-FU-10004270	20.9	5	0	7.524	Chuck Magee
+CA-2020-117821	2020-06-12	2020-06-16	Standard Class	HG-15025	Hunter Glantz	Consumer	United States	Marion	Ohio	43302	East	TEC-AC-10004469	63.92	2	0.2	19.176	Chuck Magee
+CA-2020-117863	2020-05-18	2020-05-23	Standard Class	TS-21340	Toby Swindell	Consumer	United States	New York City	New York	10024	East	FUR-FU-10002456	14.56	2	0	6.2608	Chuck Magee
+CA-2020-117863	2020-05-18	2020-05-23	Standard Class	TS-21340	Toby Swindell	Consumer	United States	New York City	New York	10024	East	OFF-BI-10000605	3.048	1	0.2	1.0287	Chuck Magee
+CA-2020-117870	2020-01-27	2020-01-30	Second Class	JH-15820	John Huston	Consumer	United States	Kent	Ohio	44240	East	OFF-AR-10004078	14.016	3	0.2	1.752	Chuck Magee
+CA-2020-117870	2020-01-27	2020-01-30	Second Class	JH-15820	John Huston	Consumer	United States	Kent	Ohio	44240	East	TEC-AC-10000927	71.976	3	0.2	-8.997	Chuck Magee
+CA-2020-117870	2020-01-27	2020-01-30	Second Class	JH-15820	John Huston	Consumer	United States	Kent	Ohio	44240	East	TEC-PH-10003931	107.982	3	0.4	-26.9955	Chuck Magee
+CA-2020-117933	2020-12-24	2020-12-29	Standard Class	RF-19840	Roy Französisch	Consumer	United States	New York City	New York	10024	East	OFF-AP-10004249	35.91	3	0	9.6957	Chuck Magee
+CA-2020-117947	2020-08-18	2020-08-23	Second Class	NG-18355	Nat Gilpin	Corporate	United States	New York City	New York	10011	East	FUR-FU-10003849	40.48	2	0	15.7872	Chuck Magee
+CA-2020-117947	2020-08-18	2020-08-23	Second Class	NG-18355	Nat Gilpin	Corporate	United States	New York City	New York	10011	East	FUR-FU-10000010	9.94	2	0	3.0814	Chuck Magee
+CA-2020-117947	2020-08-18	2020-08-23	Second Class	NG-18355	Nat Gilpin	Corporate	United States	New York City	New York	10011	East	OFF-BI-10002824	107.424	9	0.2	33.57	Chuck Magee
+CA-2020-117947	2020-08-18	2020-08-23	Second Class	NG-18355	Nat Gilpin	Corporate	United States	New York City	New York	10011	East	TEC-PH-10002538	37.91	1	0	10.9939	Chuck Magee
+CA-2020-117947	2020-08-18	2020-08-23	Second Class	NG-18355	Nat Gilpin	Corporate	United States	New York City	New York	10011	East	FUR-FU-10000521	88.02	3	0	27.2862	Chuck Magee
+CA-2020-118003	2020-12-04	2020-12-10	Standard Class	DO-13645	Doug O'Connell	Consumer	United States	Paterson	New Jersey	7501	East	FUR-FU-10002506	12.99	1	0	1.5588	Chuck Magee
+CA-2020-118003	2020-12-04	2020-12-10	Standard Class	DO-13645	Doug O'Connell	Consumer	United States	Paterson	New Jersey	7501	East	FUR-CH-10003817	182.22	3	0	45.555	Chuck Magee
+CA-2020-118003	2020-12-04	2020-12-10	Standard Class	DO-13645	Doug O'Connell	Consumer	United States	Paterson	New Jersey	7501	East	FUR-CH-10004860	302.94	3	0	18.1764	Chuck Magee
+CA-2020-118360	2020-04-01	2020-04-07	Standard Class	JC-15775	John Castell	Consumer	United States	New York City	New York	10011	East	OFF-PA-10000791	42.93	9	0	19.3185	Chuck Magee
+CA-2020-118367	2020-10-28	2020-11-02	Second Class	LO-17170	Lori Olson	Corporate	United States	New York City	New York	10035	East	OFF-EN-10004386	47.98	2	0	23.99	Chuck Magee
+CA-2020-118521	2020-02-16	2020-02-20	Standard Class	LF-17185	Luke Foster	Consumer	United States	New York City	New York	10035	East	OFF-PA-10003465	37.94	2	0	18.2112	Chuck Magee
+CA-2020-118577	2020-10-06	2020-10-11	Standard Class	XP-21865	Xylona Preis	Consumer	United States	Belleville	New Jersey	7109	East	OFF-PA-10001357	143.7	3	0	68.976	Chuck Magee
+CA-2020-118577	2020-10-06	2020-10-11	Standard Class	XP-21865	Xylona Preis	Consumer	United States	Belleville	New Jersey	7109	East	OFF-PA-10004888	6.48	1	0	3.1104	Chuck Magee
+CA-2020-118892	2020-08-17	2020-08-22	Second Class	TP-21415	Tom Prescott	Consumer	United States	Philadelphia	Pennsylvania	19134	East	FUR-CH-10002024	4416.174	9	0.3	-630.882	Chuck Magee
+CA-2020-119193	2020-12-22	2020-12-24	First Class	SK-19990	Sally Knutson	Consumer	United States	Toledo	Ohio	43615	East	OFF-BI-10000848	1.641	1	0.7	-1.3128	Chuck Magee
+CA-2020-119193	2020-12-22	2020-12-24	First Class	SK-19990	Sally Knutson	Consumer	United States	Toledo	Ohio	43615	East	TEC-PH-10003072	629.958	7	0.4	94.4937	Chuck Magee
+CA-2020-119389	2020-04-17	2020-04-19	First Class	BG-11740	Bruce Geld	Consumer	United States	Philadelphia	Pennsylvania	19120	East	FUR-FU-10001473	60.312	3	0.2	5.2773	Chuck Magee
+CA-2020-119578	2020-12-22	2020-12-27	Second Class	JG-15310	Jason Gross	Corporate	United States	Providence	Rhode Island	2908	East	OFF-SU-10003505	695.16	6	0	34.758	Chuck Magee
+CA-2020-119578	2020-12-22	2020-12-27	Second Class	JG-15310	Jason Gross	Corporate	United States	Providence	Rhode Island	2908	East	FUR-BO-10003660	220.98	1	0	50.8254	Chuck Magee
+CA-2020-120019	2020-02-16	2020-02-21	Standard Class	NG-18355	Nat Gilpin	Corporate	United States	Fairfield	Connecticut	6824	East	OFF-ST-10001932	579.51	3	0	81.1314	Chuck Magee
+CA-2020-120019	2020-02-16	2020-02-21	Standard Class	NG-18355	Nat Gilpin	Corporate	United States	Fairfield	Connecticut	6824	East	TEC-PH-10000923	14.99	1	0	7.3451	Chuck Magee
+CA-2020-120061	2020-11-02	2020-11-07	Second Class	SR-20425	Sharelle Roach	Home Office	United States	Springfield	Ohio	45503	East	FUR-CH-10001973	155.372	2	0.3	-35.5136	Chuck Magee
+CA-2020-120168	2020-05-25	2020-05-25	Same Day	TB-21625	Trudy Brown	Consumer	United States	New York City	New York	10009	East	OFF-BI-10004519	663.92	5	0.2	207.475	Chuck Magee
+CA-2020-120168	2020-05-25	2020-05-25	Same Day	TB-21625	Trudy Brown	Consumer	United States	New York City	New York	10009	East	TEC-AC-10002167	120	8	0	13.2	Chuck Magee
+CA-2020-120168	2020-05-25	2020-05-25	Same Day	TB-21625	Trudy Brown	Consumer	United States	New York City	New York	10009	East	OFF-FA-10000936	3.29	1	0	1.4805	Chuck Magee
+CA-2020-120168	2020-05-25	2020-05-25	Same Day	TB-21625	Trudy Brown	Consumer	United States	New York City	New York	10009	East	FUR-FU-10000732	18.84	3	0	6.0288	Chuck Magee
+CA-2020-120404	2020-11-20	2020-11-24	Second Class	KH-16330	Katharine Harms	Corporate	United States	New York City	New York	10035	East	TEC-AC-10003433	2.97	3	0	1.3365	Chuck Magee
+CA-2020-120404	2020-11-20	2020-11-24	Second Class	KH-16330	Katharine Harms	Corporate	United States	New York City	New York	10035	East	TEC-PH-10001363	569.99	1	0	170.997	Chuck Magee
+CA-2020-120404	2020-11-20	2020-11-24	Second Class	KH-16330	Katharine Harms	Corporate	United States	New York City	New York	10035	East	FUR-FU-10000820	50.97	3	0	9.1746	Chuck Magee
+CA-2020-120761	2020-09-04	2020-09-08	Standard Class	AB-10150	Aimee Bixby	Consumer	United States	Long Beach	New York	11561	East	TEC-AC-10000171	91.96	4	0	39.5428	Chuck Magee
+CA-2020-121083	2020-07-09	2020-07-15	Standard Class	JF-15190	Jamie Frazer	Consumer	United States	Manchester	Connecticut	6040	East	OFF-PA-10001497	274.8	5	0	134.652	Chuck Magee
+CA-2020-121083	2020-07-09	2020-07-15	Standard Class	JF-15190	Jamie Frazer	Consumer	United States	Manchester	Connecticut	6040	East	OFF-ST-10002554	195.64	4	0	3.9128	Chuck Magee
+CA-2020-121083	2020-07-09	2020-07-15	Standard Class	JF-15190	Jamie Frazer	Consumer	United States	Manchester	Connecticut	6040	East	TEC-PH-10001336	257.98	2	0	74.8142	Chuck Magee
+CA-2020-121083	2020-07-09	2020-07-15	Standard Class	JF-15190	Jamie Frazer	Consumer	United States	Manchester	Connecticut	6040	East	OFF-AR-10002987	119.04	6	0	48.8064	Chuck Magee
+CA-2020-121293	2020-07-25	2020-07-28	Second Class	JC-15775	John Castell	Consumer	United States	Philadelphia	Pennsylvania	19143	East	FUR-FU-10000732	20.096	4	0.2	3.0144	Chuck Magee
+CA-2020-121293	2020-07-25	2020-07-28	Second Class	JC-15775	John Castell	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-SU-10004884	37.752	3	0.2	4.2471	Chuck Magee
+CA-2020-121293	2020-07-25	2020-07-28	Second Class	JC-15775	John Castell	Consumer	United States	Philadelphia	Pennsylvania	19143	East	FUR-TA-10001771	138.588	1	0.4	-34.647	Chuck Magee
+CA-2020-121293	2020-07-25	2020-07-28	Second Class	JC-15775	John Castell	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-ST-10000060	259.92	5	0.2	-25.992	Chuck Magee
+CA-2020-121293	2020-07-25	2020-07-28	Second Class	JC-15775	John Castell	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-PA-10004100	20.736	4	0.2	7.2576	Chuck Magee
+CA-2020-121300	2020-09-29	2020-09-29	Same Day	MG-17680	Maureen Gastineau	Home Office	United States	Mentor	Ohio	44060	East	FUR-CH-10003774	63.686	1	0.3	-15.4666	Chuck Magee
+CA-2020-121300	2020-09-29	2020-09-29	Same Day	MG-17680	Maureen Gastineau	Home Office	United States	Mentor	Ohio	44060	East	TEC-AC-10004571	239.976	3	0.2	65.9934	Chuck Magee
+CA-2020-121300	2020-09-29	2020-09-29	Same Day	MG-17680	Maureen Gastineau	Home Office	United States	Mentor	Ohio	44060	East	FUR-TA-10004442	344.22	2	0.4	-189.321	Chuck Magee
+CA-2020-121300	2020-09-29	2020-09-29	Same Day	MG-17680	Maureen Gastineau	Home Office	United States	Mentor	Ohio	44060	East	OFF-PA-10002787	15.552	3	0.2	5.4432	Chuck Magee
+CA-2020-121300	2020-09-29	2020-09-29	Same Day	MG-17680	Maureen Gastineau	Home Office	United States	Mentor	Ohio	44060	East	FUR-FU-10004586	21.248	4	0.2	7.4368	Chuck Magee
+CA-2020-121300	2020-09-29	2020-09-29	Same Day	MG-17680	Maureen Gastineau	Home Office	United States	Mentor	Ohio	44060	East	OFF-PA-10002606	8.448	2	0.2	2.64	Chuck Magee
+CA-2020-121678	2020-11-16	2020-11-20	Second Class	BM-11650	Brian Moss	Corporate	United States	Elyria	Ohio	44035	East	OFF-BI-10002949	1.824	1	0.7	-1.3984	Chuck Magee
+CA-2020-121839	2020-09-24	2020-09-28	Standard Class	MH-18115	Mick Hernandez	Home Office	United States	Lancaster	Ohio	43130	East	TEC-PH-10002885	1169.694	3	0.4	-253.4337	Chuck Magee
+CA-2020-121888	2020-09-15	2020-09-17	Second Class	CL-11890	Carl Ludwig	Consumer	United States	Everett	Massachusetts	2149	East	TEC-PH-10000439	39.99	1	0	11.5971	Chuck Magee
+CA-2020-121888	2020-09-15	2020-09-17	Second Class	CL-11890	Carl Ludwig	Consumer	United States	Everett	Massachusetts	2149	East	OFF-AR-10003478	16.28	2	0	6.512	Chuck Magee
+CA-2020-121888	2020-09-15	2020-09-17	Second Class	CL-11890	Carl Ludwig	Consumer	United States	Everett	Massachusetts	2149	East	FUR-BO-10002545	782.94	3	0	203.5644	Chuck Magee
+CA-2020-121888	2020-09-15	2020-09-17	Second Class	CL-11890	Carl Ludwig	Consumer	United States	Everett	Massachusetts	2149	East	OFF-BI-10001765	242.48	7	0	116.3904	Chuck Magee
+CA-2020-121909	2020-07-31	2020-08-05	Standard Class	EA-14035	Erin Ashbrook	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-PA-10003790	54.816	3	0.2	17.8152	Chuck Magee
+CA-2020-122028	2020-08-18	2020-08-25	Standard Class	CK-12205	Chloris Kastensmidt	Consumer	United States	Lakewood	Ohio	44107	East	OFF-BI-10004817	10.782	3	0.7	-7.9068	Chuck Magee
+CA-2020-122112	2020-09-25	2020-09-29	Standard Class	CA-11965	Carol Adams	Corporate	United States	Lakewood	Ohio	44107	East	OFF-EN-10004459	24.448	4	0.2	8.8624	Chuck Magee
+CA-2020-122175	2020-05-12	2020-05-14	Second Class	CA-12775	Cynthia Arntzen	Consumer	United States	Vineland	New Jersey	8360	East	FUR-FU-10000719	42.85	5	0	15.426	Chuck Magee
+CA-2020-122175	2020-05-12	2020-05-14	Second Class	CA-12775	Cynthia Arntzen	Consumer	United States	Vineland	New Jersey	8360	East	OFF-LA-10002271	6.16	2	0	2.9568	Chuck Magee
+CA-2020-122175	2020-05-12	2020-05-14	Second Class	CA-12775	Cynthia Arntzen	Consumer	United States	Vineland	New Jersey	8360	East	OFF-SU-10004661	17	2	0	4.42	Chuck Magee
+CA-2020-122175	2020-05-12	2020-05-14	Second Class	CA-12775	Cynthia Arntzen	Consumer	United States	Vineland	New Jersey	8360	East	TEC-AC-10004859	87.4	5	0	34.96	Chuck Magee
+CA-2020-122196	2020-09-22	2020-09-24	First Class	CA-12265	Christina Anderson	Consumer	United States	Wilmington	Delaware	19805	East	TEC-PH-10004977	391.98	2	0	113.6742	Chuck Magee
+CA-2020-122280	2020-09-10	2020-09-10	Same Day	SH-20395	Shahid Hopkins	Consumer	United States	New York City	New York	10024	East	OFF-PA-10004911	18.76	2	0	9.0048	Chuck Magee
+CA-2020-122308	2020-03-24	2020-03-28	Standard Class	MV-17485	Mark Van Huff	Consumer	United States	New York City	New York	10011	East	FUR-CH-10000665	271.764	2	0.1	60.392	Chuck Magee
+CA-2020-122539	2020-12-01	2020-12-05	Standard Class	SC-20305	Sean Christensen	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-LA-10004853	15.936	4	0.2	5.1792	Chuck Magee
+CA-2020-122539	2020-12-01	2020-12-05	Standard Class	SC-20305	Sean Christensen	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-BI-10001759	8.001	7	0.7	-5.6007	Chuck Magee
+CA-2020-122539	2020-12-01	2020-12-05	Standard Class	SC-20305	Sean Christensen	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-CH-10003379	398.972	2	0.3	-28.498	Chuck Magee
+CA-2020-122644	2020-11-12	2020-11-17	Standard Class	SF-20965	Sylvia Foulston	Corporate	United States	Columbus	Ohio	43229	East	OFF-PA-10003673	10.848	2	0.2	3.5256	Chuck Magee
+CA-2020-122644	2020-11-12	2020-11-17	Standard Class	SF-20965	Sylvia Foulston	Corporate	United States	Columbus	Ohio	43229	East	TEC-AC-10003614	18.544	2	0.2	3.0134	Chuck Magee
+CA-2020-122700	2020-11-26	2020-11-30	Standard Class	LT-17110	Liz Thompson	Consumer	United States	Columbus	Ohio	43229	East	TEC-PH-10003092	220.752	8	0.4	-40.4712	Chuck Magee
+CA-2020-122735	2020-04-12	2020-04-15	Second Class	BD-11320	Bill Donatelli	Consumer	United States	Providence	Rhode Island	2908	East	OFF-BI-10004364	29.7	5	0	13.365	Chuck Magee
+CA-2020-122735	2020-04-12	2020-04-15	Second Class	BD-11320	Bill Donatelli	Consumer	United States	Providence	Rhode Island	2908	East	OFF-PA-10001712	39.96	4	0	17.982	Chuck Magee
+CA-2020-123036	2020-09-10	2020-09-17	Standard Class	HA-14905	Helen Abelman	Consumer	United States	Springfield	Ohio	45503	East	TEC-AC-10003499	37.056	4	0.2	8.8008	Chuck Magee
+CA-2020-123036	2020-09-10	2020-09-17	Standard Class	HA-14905	Helen Abelman	Consumer	United States	Springfield	Ohio	45503	East	TEC-PH-10003580	259.896	2	0.4	-56.3108	Chuck Magee
+CA-2020-123043	2020-08-24	2020-08-29	Standard Class	AH-10195	Alan Haines	Corporate	United States	New York City	New York	10024	East	OFF-BI-10003910	24.672	4	0.2	7.71	Chuck Magee
+CA-2020-123043	2020-08-24	2020-08-29	Standard Class	AH-10195	Alan Haines	Corporate	United States	New York City	New York	10024	East	OFF-BI-10000138	3.744	1	0.2	1.3104	Chuck Magee
+CA-2020-123134	2020-05-02	2020-05-07	Standard Class	DW-13585	Dorothy Wardle	Corporate	United States	Westfield	New Jersey	7090	East	FUR-FU-10003975	129.93	3	0	12.993	Chuck Magee
+CA-2020-123372	2020-11-28	2020-12-02	Standard Class	DG-13300	Deirdre Greer	Corporate	United States	New York City	New York	10035	East	TEC-PH-10002834	1979.89	11	0	494.9725	Chuck Magee
+CA-2020-123372	2020-11-28	2020-12-02	Standard Class	DG-13300	Deirdre Greer	Corporate	United States	New York City	New York	10035	East	OFF-EN-10003055	79.96	2	0	35.982	Chuck Magee
+CA-2020-123638	2020-06-27	2020-07-04	Standard Class	MA-17995	Michelle Arnett	Home Office	United States	Watertown	New York	13601	East	FUR-CH-10002647	191.646	3	0.1	31.941	Chuck Magee
+CA-2020-123659	2020-02-10	2020-02-13	First Class	MN-17935	Michael Nguyen	Consumer	United States	Clinton	Maryland	20735	East	OFF-PA-10002464	23.12	4	0	11.3288	Chuck Magee
+CA-2020-123981	2020-10-02	2020-10-08	Standard Class	RW-19630	Rob Williams	Corporate	United States	New York City	New York	10035	East	TEC-PH-10002115	65.99	1	0	17.1574	Chuck Magee
+CA-2020-124205	2020-09-15	2020-09-19	Standard Class	TC-21145	Theresa Coyne	Corporate	United States	Lakewood	New Jersey	8701	East	FUR-FU-10002445	47.4	5	0	18.96	Chuck Magee
+CA-2020-124205	2020-09-15	2020-09-19	Standard Class	TC-21145	Theresa Coyne	Corporate	United States	Lakewood	New Jersey	8701	East	FUR-CH-10003606	512.96	4	0	143.6288	Chuck Magee
+CA-2020-124205	2020-09-15	2020-09-19	Standard Class	TC-21145	Theresa Coyne	Corporate	United States	Lakewood	New Jersey	8701	East	TEC-PH-10002115	395.94	6	0	102.9444	Chuck Magee
+CA-2020-124205	2020-09-15	2020-09-19	Standard Class	TC-21145	Theresa Coyne	Corporate	United States	Lakewood	New Jersey	8701	East	OFF-ST-10000934	81.96	2	0	0	Chuck Magee
+CA-2020-124744	2020-06-21	2020-06-25	Standard Class	EH-14125	Eugene Hildebrand	Home Office	United States	Wheeling	West Virginia	26003	East	OFF-BI-10002852	82.4	5	0	40.376	Chuck Magee
+CA-2020-124744	2020-06-21	2020-06-25	Standard Class	EH-14125	Eugene Hildebrand	Home Office	United States	Wheeling	West Virginia	26003	East	OFF-BI-10000145	6.24	2	0	3.0576	Chuck Magee
+CA-2020-124744	2020-06-21	2020-06-25	Standard Class	EH-14125	Eugene Hildebrand	Home Office	United States	Wheeling	West Virginia	26003	East	OFF-PA-10001970	447.84	8	0	219.4416	Chuck Magee
+CA-2020-125199	2020-10-19	2020-10-25	Standard Class	HM-14860	Harry Marie	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-AR-10002956	123.256	7	0.2	9.2442	Chuck Magee
+CA-2020-125199	2020-10-19	2020-10-25	Standard Class	HM-14860	Harry Marie	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-PA-10004041	23.68	4	0.2	7.4	Chuck Magee
+CA-2020-125199	2020-10-19	2020-10-25	Standard Class	HM-14860	Harry Marie	Corporate	United States	Philadelphia	Pennsylvania	19120	East	TEC-PH-10001336	309.576	4	0.4	-56.7556	Chuck Magee
+CA-2020-125367	2020-07-23	2020-07-30	Standard Class	NM-18445	Nathan Mautz	Home Office	United States	New York City	New York	10011	East	OFF-BI-10002412	13.92	3	0.2	4.35	Chuck Magee
+CA-2020-125388	2020-10-19	2020-10-23	Standard Class	MP-17965	Michael Paige	Corporate	United States	Lawrence	Massachusetts	1841	East	FUR-FU-10004712	56.56	4	0	14.7056	Chuck Magee
+CA-2020-125388	2020-10-19	2020-10-23	Standard Class	MP-17965	Michael Paige	Corporate	United States	Lawrence	Massachusetts	1841	East	OFF-ST-10000918	32.7	3	0	8.502	Chuck Magee
+CA-2020-125451	2020-10-23	2020-10-24	First Class	AH-10075	Adam Hart	Corporate	United States	Cranston	Rhode Island	2920	East	FUR-TA-10001039	240.744	4	0.3	-13.7568	Chuck Magee
+CA-2020-125451	2020-10-23	2020-10-24	First Class	AH-10075	Adam Hart	Corporate	United States	Cranston	Rhode Island	2920	East	FUR-FU-10004963	35	4	0	14.7	Chuck Magee
+CA-2020-125451	2020-10-23	2020-10-24	First Class	AH-10075	Adam Hart	Corporate	United States	Cranston	Rhode Island	2920	East	FUR-FU-10000277	210.68	2	0	50.5632	Chuck Magee
+CA-2020-125451	2020-10-23	2020-10-24	First Class	AH-10075	Adam Hart	Corporate	United States	Cranston	Rhode Island	2920	East	FUR-TA-10004915	637.896	3	0.3	-127.5792	Chuck Magee
+CA-2020-125451	2020-10-23	2020-10-24	First Class	AH-10075	Adam Hart	Corporate	United States	Cranston	Rhode Island	2920	East	OFF-PA-10003724	43.44	8	0	21.2856	Chuck Magee
+CA-2020-125451	2020-10-23	2020-10-24	First Class	AH-10075	Adam Hart	Corporate	United States	Cranston	Rhode Island	2920	East	OFF-AP-10002906	2.22	1	0	0.666	Chuck Magee
+CA-2020-125640	2020-07-25	2020-07-29	Standard Class	DD-13570	Dorothy Dickinson	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-LA-10004178	3.304	1	0.2	1.0738	Chuck Magee
+CA-2020-126144	2020-07-31	2020-08-05	Standard Class	GM-14680	Greg Matthias	Consumer	United States	Philadelphia	Pennsylvania	19134	East	TEC-PH-10001079	285.576	4	0.4	-57.1152	Chuck Magee
+CA-2020-126438	2020-09-10	2020-09-13	First Class	AR-10345	Alex Russell	Corporate	United States	Lawrence	Massachusetts	1841	East	OFF-AR-10003338	14.88	2	0	3.72	Chuck Magee
+CA-2020-126676	2020-09-29	2020-10-01	First Class	FH-14365	Fred Hopkins	Corporate	United States	Hempstead	New York	11550	East	OFF-EN-10004846	7.98	3	0	3.9102	Chuck Magee
+CA-2020-126718	2020-04-29	2020-05-04	Standard Class	KT-16480	Kean Thornton	Consumer	United States	Orange	New Jersey	7050	East	OFF-LA-10004055	4.91	1	0	2.4059	Chuck Magee
+CA-2020-126928	2020-09-17	2020-09-23	Standard Class	GZ-14470	Gary Zandusky	Consumer	United States	Morristown	New Jersey	7960	East	TEC-MA-10004626	480	4	0	225.6	Chuck Magee
+CA-2020-126928	2020-09-17	2020-09-23	Standard Class	GZ-14470	Gary Zandusky	Consumer	United States	Morristown	New Jersey	7960	East	OFF-ST-10000615	34.05	3	0	9.534	Chuck Magee
+CA-2020-127117	2020-04-14	2020-04-19	Standard Class	HM-14860	Harry Marie	Corporate	United States	Morristown	New Jersey	7960	East	FUR-FU-10004018	74.45	5	0	20.1015	Chuck Magee
+CA-2020-127180	2020-10-22	2020-10-24	First Class	TA-21385	Tom Ashbrook	Home Office	United States	New York City	New York	10024	East	TEC-CO-10004722	11199.968	4	0.2	3919.9888	Chuck Magee
+CA-2020-127180	2020-10-22	2020-10-24	First Class	TA-21385	Tom Ashbrook	Home Office	United States	New York City	New York	10024	East	TEC-PH-10001494	2399.6	8	0	647.892	Chuck Magee
+CA-2020-127180	2020-10-22	2020-10-24	First Class	TA-21385	Tom Ashbrook	Home Office	United States	New York City	New York	10024	East	OFF-EN-10002500	63.9	5	0	28.755	Chuck Magee
+CA-2020-127180	2020-10-22	2020-10-24	First Class	TA-21385	Tom Ashbrook	Home Office	United States	New York City	New York	10024	East	TEC-PH-10003800	52.99	1	0	0.5299	Chuck Magee
+CA-2020-127313	2020-12-01	2020-12-04	First Class	RA-19285	Ralph Arnett	Consumer	United States	Philadelphia	Pennsylvania	19120	East	OFF-ST-10001228	37.392	3	0.2	2.337	Chuck Magee
+CA-2020-127313	2020-12-01	2020-12-04	First Class	RA-19285	Ralph Arnett	Consumer	United States	Philadelphia	Pennsylvania	19120	East	FUR-FU-10003798	79.12	5	0.2	13.846	Chuck Magee
+CA-2020-127397	2020-02-24	2020-02-28	Standard Class	ES-14080	Erin Smith	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-PA-10001125	123.92	5	0.2	38.725	Chuck Magee
+CA-2020-127397	2020-02-24	2020-02-28	Standard Class	ES-14080	Erin Smith	Corporate	United States	Philadelphia	Pennsylvania	19134	East	TEC-AC-10003033	1319.8	5	0.2	214.4675	Chuck Magee
+CA-2020-127705	2020-06-02	2020-06-06	Standard Class	AB-10255	Alejandro Ballentine	Home Office	United States	Lorain	Ohio	44052	East	TEC-PH-10000347	2.97	1	0.4	-0.6435	Chuck Magee
+CA-2020-127705	2020-06-02	2020-06-06	Standard Class	AB-10255	Alejandro Ballentine	Home Office	United States	Lorain	Ohio	44052	East	OFF-ST-10004507	27.44	2	0.2	2.401	Chuck Magee
+CA-2020-127782	2020-11-02	2020-11-06	Standard Class	TH-21115	Thea Hudgings	Corporate	United States	Philadelphia	Pennsylvania	19140	East	FUR-FU-10001847	3.312	1	0.2	0.6624	Chuck Magee
+CA-2020-127782	2020-11-02	2020-11-06	Standard Class	TH-21115	Thea Hudgings	Corporate	United States	Philadelphia	Pennsylvania	19140	East	OFF-AP-10001962	20.136	3	0.2	1.2585	Chuck Magee
+CA-2020-127782	2020-11-02	2020-11-06	Standard Class	TH-21115	Thea Hudgings	Corporate	United States	Philadelphia	Pennsylvania	19140	East	OFF-EN-10003845	8.856	3	0.2	2.8782	Chuck Magee
+CA-2020-127782	2020-11-02	2020-11-06	Standard Class	TH-21115	Thea Hudgings	Corporate	United States	Philadelphia	Pennsylvania	19140	East	TEC-PH-10001817	859.2	4	0.4	-186.16	Chuck Magee
+CA-2020-127929	2020-12-23	2020-12-27	Standard Class	FM-14215	Filia McAdams	Corporate	United States	Middletown	Connecticut	6457	East	FUR-FU-10003708	181.95	3	0	38.2095	Chuck Magee
+CA-2020-128265	2020-11-17	2020-11-22	Second Class	VW-21775	Victoria Wilson	Corporate	United States	New York City	New York	10011	East	OFF-ST-10000142	1247.64	3	0	349.3392	Chuck Magee
+CA-2020-128335	2020-09-29	2020-10-05	Standard Class	JA-15970	Joseph Airdo	Consumer	United States	Mount Vernon	New York	10550	East	OFF-EN-10001539	23.34	3	0	10.9698	Chuck Magee
+CA-2020-128335	2020-09-29	2020-10-05	Standard Class	JA-15970	Joseph Airdo	Consumer	United States	Mount Vernon	New York	10550	East	OFF-PA-10004996	51.55	5	0	24.2285	Chuck Magee
+CA-2020-128853	2020-04-21	2020-04-23	First Class	JM-15250	Janet Martin	Consumer	United States	Baltimore	Maryland	21215	East	FUR-CH-10004218	908.82	9	0	227.205	Chuck Magee
+CA-2020-128944	2020-06-19	2020-06-21	Second Class	KH-16330	Katharine Harms	Corporate	United States	Newark	Ohio	43055	East	FUR-CH-10000785	760.116	6	0.3	-43.4352	Chuck Magee
+CA-2020-128944	2020-06-19	2020-06-21	Second Class	KH-16330	Katharine Harms	Corporate	United States	Newark	Ohio	43055	East	FUR-FU-10004909	38.784	3	0.2	7.272	Chuck Magee
+CA-2020-128944	2020-06-19	2020-06-21	Second Class	KH-16330	Katharine Harms	Corporate	United States	Newark	Ohio	43055	East	TEC-AC-10001553	122.328	9	0.2	1.5291	Chuck Magee
+CA-2020-129581	2020-12-11	2020-12-18	Standard Class	KN-16390	Katherine Nockton	Corporate	United States	New Bedford	Massachusetts	2740	East	TEC-PH-10001527	128.85	3	0	3.8655	Chuck Magee
+CA-2020-130036	2020-08-27	2020-08-27	Same Day	BP-11185	Ben Peterman	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-PA-10000528	12.672	3	0.2	3.96	Chuck Magee
+CA-2020-130036	2020-08-27	2020-08-27	Same Day	BP-11185	Ben Peterman	Corporate	United States	Philadelphia	Pennsylvania	19120	East	TEC-AC-10001908	1119.888	14	0.2	209.979	Chuck Magee
+CA-2020-130302	2020-09-14	2020-09-19	Standard Class	CY-12745	Craig Yedwab	Corporate	United States	Springfield	Ohio	45503	East	TEC-AC-10002001	895.944	7	0.2	190.3881	Chuck Magee
+CA-2020-130505	2020-10-12	2020-10-12	Same Day	NF-18385	Natalie Fritzler	Consumer	United States	Wheeling	West Virginia	26003	East	FUR-TA-10001932	673.344	3	0.3	-76.9536	Chuck Magee
+CA-2020-130967	2020-03-10	2020-03-16	Standard Class	EB-13870	Emily Burns	Consumer	United States	Philadelphia	Pennsylvania	19140	East	TEC-PH-10004896	53.982	3	0.4	-10.7964	Chuck Magee
+CA-2020-131156	2020-04-03	2020-04-07	Standard Class	KH-16360	Katherine Hughes	Consumer	United States	Philadelphia	Pennsylvania	19143	East	FUR-FU-10001940	25.472	4	0.2	7.6416	Chuck Magee
+CA-2020-131233	2020-04-14	2020-04-19	Standard Class	CS-12355	Christine Sundaresam	Consumer	United States	New York City	New York	10024	East	OFF-BI-10000829	10.776	3	0.2	3.5022	Chuck Magee
+CA-2020-131233	2020-04-14	2020-04-19	Standard Class	CS-12355	Christine Sundaresam	Consumer	United States	New York City	New York	10024	East	FUR-BO-10003441	242.352	3	0.2	9.0882	Chuck Magee
+CA-2020-131366	2020-11-24	2020-11-29	Standard Class	SC-20440	Shaun Chance	Corporate	United States	Lancaster	Pennsylvania	17602	East	TEC-PH-10003437	89.988	2	0.4	-14.998	Chuck Magee
+CA-2020-131366	2020-11-24	2020-11-29	Standard Class	SC-20440	Shaun Chance	Corporate	United States	Lancaster	Pennsylvania	17602	East	OFF-PA-10000675	229.544	7	0.2	83.2097	Chuck Magee
+CA-2020-131625	2020-09-01	2020-09-05	Second Class	BN-11515	Bradley Nguyen	Consumer	United States	New York City	New York	10009	East	FUR-FU-10004960	114.9	5	0	39.066	Chuck Magee
+CA-2020-131653	2020-01-29	2020-02-05	Standard Class	RD-19585	Rob Dowd	Consumer	United States	New York City	New York	10011	East	OFF-LA-10001045	5.22	2	0	2.4012	Chuck Magee
+CA-2020-131695	2020-06-30	2020-07-06	Standard Class	RA-19285	Ralph Arnett	Consumer	United States	New York City	New York	10024	East	OFF-ST-10001476	248.57	7	0	67.1139	Chuck Magee
+CA-2020-131695	2020-06-30	2020-07-06	Standard Class	RA-19285	Ralph Arnett	Consumer	United States	New York City	New York	10024	East	FUR-FU-10002045	22.23	1	0	9.7812	Chuck Magee
+CA-2020-132199	2020-05-03	2020-05-08	Standard Class	BO-11350	Bill Overfelt	Corporate	United States	Philadelphia	Pennsylvania	19134	East	FUR-FU-10004245	32.448	2	0.2	7.3008	Chuck Magee
+CA-2020-132199	2020-05-03	2020-05-08	Standard Class	BO-11350	Bill Overfelt	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-BI-10003684	26.388	4	0.7	-17.592	Chuck Magee
+CA-2020-132199	2020-05-03	2020-05-08	Standard Class	BO-11350	Bill Overfelt	Corporate	United States	Philadelphia	Pennsylvania	19134	East	FUR-TA-10003748	373.47	5	0.4	-112.041	Chuck Magee
+CA-2020-132199	2020-05-03	2020-05-08	Standard Class	BO-11350	Bill Overfelt	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-BI-10002133	64.2	5	0.7	-44.94	Chuck Magee
+CA-2020-132199	2020-05-03	2020-05-08	Standard Class	BO-11350	Bill Overfelt	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-FA-10002280	8	2	0.2	2.8	Chuck Magee
+CA-2020-132234	2020-10-16	2020-10-18	First Class	MY-17380	Maribeth Yedwab	Corporate	United States	New York City	New York	10011	East	FUR-FU-10001290	547.3	13	0	175.136	Chuck Magee
+CA-2020-132339	2020-08-19	2020-08-23	Standard Class	JB-15400	Jennifer Braxton	Corporate	United States	Lawrence	Massachusetts	1841	East	OFF-BI-10003925	387.99	1	0	182.3553	Chuck Magee
+CA-2020-132346	2020-11-07	2020-11-11	Standard Class	PK-19075	Pete Kriz	Consumer	United States	Newark	Delaware	19711	East	OFF-AP-10000696	100.94	7	0	33.3102	Chuck Magee
+CA-2020-132430	2020-10-09	2020-10-11	First Class	CP-12085	Cathy Prescott	Corporate	United States	Lakewood	Ohio	44107	East	FUR-FU-10003577	45.888	4	0.2	9.1776	Chuck Magee
+CA-2020-132437	2020-09-08	2020-09-13	Second Class	EM-14095	Eudokia Martin	Corporate	United States	New York City	New York	10024	East	OFF-ST-10001031	65.12	4	0	16.9312	Chuck Magee
+CA-2020-132647	2020-02-17	2020-02-23	Standard Class	GH-14410	Gary Hansen	Home Office	United States	Perth Amboy	New Jersey	8861	East	OFF-PA-10001838	11.76	2	0	5.7624	Chuck Magee
+CA-2020-132647	2020-02-17	2020-02-23	Standard Class	GH-14410	Gary Hansen	Home Office	United States	Perth Amboy	New Jersey	8861	East	OFF-ST-10003123	166.45	5	0	39.948	Chuck Magee
+CA-2020-132934	2020-06-20	2020-06-26	Standard Class	JE-15475	Jeremy Ellison	Consumer	United States	New Rochelle	New York	10801	East	TEC-AC-10000927	149.95	5	0	14.995	Chuck Magee
+CA-2020-132934	2020-06-20	2020-06-26	Standard Class	JE-15475	Jeremy Ellison	Consumer	United States	New Rochelle	New York	10801	East	OFF-BI-10001098	51.312	3	0.2	18.6006	Chuck Magee
+CA-2020-132955	2020-06-24	2020-06-28	Standard Class	SC-20575	Sonia Cooley	Consumer	United States	Cranston	Rhode Island	2920	East	OFF-BI-10002735	102.93	3	0	48.3771	Chuck Magee
+CA-2020-132976	2020-10-13	2020-10-17	Standard Class	AG-10495	Andrew Gjertsen	Corporate	United States	Philadelphia	Pennsylvania	19140	East	OFF-PA-10000673	11.648	2	0.2	4.0768	Chuck Magee
+CA-2020-132976	2020-10-13	2020-10-17	Standard Class	AG-10495	Andrew Gjertsen	Corporate	United States	Philadelphia	Pennsylvania	19140	East	OFF-PA-10004470	18.176	4	0.2	5.9072	Chuck Magee
+CA-2020-132976	2020-10-13	2020-10-17	Standard Class	AG-10495	Andrew Gjertsen	Corporate	United States	Philadelphia	Pennsylvania	19140	East	OFF-ST-10000876	59.712	6	0.2	5.9712	Chuck Magee
+CA-2020-132976	2020-10-13	2020-10-17	Standard Class	AG-10495	Andrew Gjertsen	Corporate	United States	Philadelphia	Pennsylvania	19140	East	OFF-LA-10002043	24.84	3	0.2	8.694	Chuck Magee
+CA-2020-133067	2020-05-04	2020-05-10	Standard Class	MY-18295	Muhammed Yedwab	Corporate	United States	Philadelphia	Pennsylvania	19140	East	OFF-BI-10002897	2.202	2	0.7	-1.5414	Chuck Magee
+CA-2020-133067	2020-05-04	2020-05-10	Standard Class	MY-18295	Muhammed Yedwab	Corporate	United States	Philadelphia	Pennsylvania	19140	East	OFF-BI-10003694	9.396	3	0.7	-7.5168	Chuck Magee
+CA-2020-133620	2020-11-13	2020-11-18	Standard Class	EM-14065	Erin Mull	Consumer	United States	New York City	New York	10009	East	OFF-ST-10004634	11.21	1	0	3.363	Chuck Magee
+CA-2020-134173	2020-09-16	2020-09-21	Standard Class	AB-10060	Adam Bellavance	Home Office	United States	Philadelphia	Pennsylvania	19143	East	OFF-PA-10004355	20.736	4	0.2	7.2576	Chuck Magee
+CA-2020-134306	2020-07-08	2020-07-12	Standard Class	TD-20995	Tamara Dahlen	Consumer	United States	Lowell	Massachusetts	1852	East	OFF-AR-10004027	7.56	3	0	3.0996	Chuck Magee
+CA-2020-134306	2020-07-08	2020-07-12	Standard Class	TD-20995	Tamara Dahlen	Consumer	United States	Lowell	Massachusetts	1852	East	OFF-PA-10000249	24.56	2	0	11.5432	Chuck Magee
+CA-2020-134306	2020-07-08	2020-07-12	Standard Class	TD-20995	Tamara Dahlen	Consumer	United States	Lowell	Massachusetts	1852	East	OFF-AR-10001374	12.96	2	0	4.1472	Chuck Magee
+CA-2020-134404	2020-12-27	2020-12-27	Same Day	DR-12880	Dan Reichenbach	Corporate	United States	Newark	Ohio	43055	East	TEC-PH-10000576	164.388	2	0.4	-35.6174	Chuck Magee
+CA-2020-134404	2020-12-27	2020-12-27	Same Day	DR-12880	Dan Reichenbach	Corporate	United States	Newark	Ohio	43055	East	OFF-AR-10004441	13.248	4	0.2	3.6432	Chuck Magee
+CA-2020-134607	2020-10-03	2020-10-08	Second Class	HL-15040	Hunter Lopez	Consumer	United States	Rochester	New York	14609	East	OFF-ST-10002214	22.58	2	0	5.8708	Chuck Magee
+CA-2020-134978	2020-11-12	2020-11-15	Second Class	EB-13705	Ed Braxton	Corporate	United States	New York City	New York	10024	East	OFF-BI-10003274	15.92	5	0.2	5.373	Chuck Magee
+CA-2020-135069	2020-04-10	2020-04-14	Standard Class	BS-11755	Bruce Stewart	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-AP-10000026	195.104	4	0.2	21.9492	Chuck Magee
+CA-2020-135069	2020-04-10	2020-04-14	Standard Class	BS-11755	Bruce Stewart	Consumer	United States	Philadelphia	Pennsylvania	19143	East	FUR-FU-10003878	36.672	3	0.2	6.4176	Chuck Magee
+CA-2020-135279	2020-04-09	2020-04-11	First Class	BS-11800	Bryan Spruell	Home Office	United States	New York City	New York	10011	East	OFF-LA-10004055	9.82	2	0	4.8118	Chuck Magee
+CA-2020-135279	2020-04-09	2020-04-11	First Class	BS-11800	Bryan Spruell	Home Office	United States	New York City	New York	10011	East	OFF-AR-10004344	35.97	3	0	9.7119	Chuck Magee
+CA-2020-135279	2020-04-09	2020-04-11	First Class	BS-11800	Bryan Spruell	Home Office	United States	New York City	New York	10011	East	OFF-PA-10004621	12.96	2	0	6.2208	Chuck Magee
+CA-2020-135279	2020-04-09	2020-04-11	First Class	BS-11800	Bryan Spruell	Home Office	United States	New York City	New York	10011	East	OFF-PA-10001281	191.6	4	0	91.968	Chuck Magee
+CA-2020-135279	2020-04-09	2020-04-11	First Class	BS-11800	Bryan Spruell	Home Office	United States	New York City	New York	10011	East	OFF-LA-10001613	8.64	3	0	4.2336	Chuck Magee
+CA-2020-135279	2020-04-09	2020-04-11	First Class	BS-11800	Bryan Spruell	Home Office	United States	New York City	New York	10011	East	OFF-ST-10001097	501.81	3	0	0	Chuck Magee
+CA-2020-135377	2020-12-13	2020-12-18	Standard Class	BP-11095	Bart Pistole	Corporate	United States	New York City	New York	10024	East	FUR-BO-10004015	287.976	3	0.2	7.1994	Chuck Magee
+CA-2020-136000	2020-09-22	2020-09-25	Second Class	SC-20440	Shaun Chance	Corporate	United States	New York City	New York	10009	East	OFF-BI-10004828	40.176	3	0.2	14.5638	Chuck Magee
+CA-2020-136350	2020-06-24	2020-06-26	Second Class	GA-14515	George Ashbrook	Consumer	United States	New York City	New York	10011	East	FUR-FU-10003601	276.69	3	0	49.8042	Chuck Magee
+CA-2020-136350	2020-06-24	2020-06-26	Second Class	GA-14515	George Ashbrook	Consumer	United States	New York City	New York	10011	East	FUR-CH-10001891	172.764	2	0.1	32.6332	Chuck Magee
+CA-2020-136364	2020-07-13	2020-07-17	Second Class	MH-17455	Mark Hamilton	Consumer	United States	Philadelphia	Pennsylvania	19140	East	TEC-PH-10003885	39.594	1	0.4	-7.2589	Chuck Magee
+CA-2020-136364	2020-07-13	2020-07-17	Second Class	MH-17455	Mark Hamilton	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-FU-10002501	91.008	9	0.2	19.3392	Chuck Magee
+CA-2020-136448	2020-09-16	2020-09-18	First Class	AS-10090	Adam Shillingsburg	Consumer	United States	Philadelphia	Pennsylvania	19143	East	TEC-AC-10001109	71.976	3	0.2	19.7934	Chuck Magee
+CA-2020-136448	2020-09-16	2020-09-18	First Class	AS-10090	Adam Shillingsburg	Consumer	United States	Philadelphia	Pennsylvania	19143	East	FUR-FU-10003832	22.512	3	0.2	2.2512	Chuck Magee
+CA-2020-136448	2020-09-16	2020-09-18	First Class	AS-10090	Adam Shillingsburg	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-BI-10002393	3.444	2	0.7	-2.7552	Chuck Magee
+CA-2020-136448	2020-09-16	2020-09-18	First Class	AS-10090	Adam Shillingsburg	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-BI-10001359	538.194	2	0.7	-412.6154	Chuck Magee
+CA-2020-136448	2020-09-16	2020-09-18	First Class	AS-10090	Adam Shillingsburg	Consumer	United States	Philadelphia	Pennsylvania	19143	East	TEC-AC-10003628	47.984	2	0.2	14.3952	Chuck Magee
+CA-2020-136497	2020-04-16	2020-04-20	Standard Class	RF-19840	Roy Französisch	Consumer	United States	Columbus	Ohio	43229	East	OFF-BI-10001553	13.71	5	0.7	-10.054	Chuck Magee
+CA-2020-136511	2020-03-23	2020-03-25	Second Class	MZ-17515	Mary Zewe	Corporate	United States	New York City	New York	10011	East	OFF-SU-10003505	347.58	3	0	17.379	Chuck Magee
+CA-2020-136672	2020-03-07	2020-03-12	Standard Class	MG-17890	Michael Granlund	Home Office	United States	Clinton	Maryland	20735	East	TEC-AC-10004510	49.08	3	0	4.908	Chuck Magee
+CA-2020-137323	2020-11-14	2020-11-18	Second Class	PW-19030	Pauline Webber	Corporate	United States	Watertown	New York	13601	East	OFF-ST-10003996	96.36	6	0	25.0536	Chuck Magee
+CA-2020-137344	2020-08-20	2020-08-20	Same Day	EM-13810	Eleni McCrary	Corporate	United States	Franklin	Massachusetts	2038	East	OFF-ST-10000344	40.29	3	0	10.4754	Chuck Magee
+CA-2020-137785	2020-05-13	2020-05-17	Standard Class	MH-18115	Mick Hernandez	Home Office	United States	Philadelphia	Pennsylvania	19140	East	FUR-CH-10001482	458.43	5	0.3	-124.431	Chuck Magee
+CA-2020-138156	2020-02-11	2020-02-14	First Class	MM-17260	Magdelene Morse	Consumer	United States	Columbus	Ohio	43229	East	FUR-FU-10003601	147.568	2	0.2	-3.6892	Chuck Magee
+CA-2020-138163	2020-11-17	2020-11-20	First Class	XP-21865	Xylona Preis	Consumer	United States	Everett	Massachusetts	2149	East	OFF-AR-10001958	50.94	3	0	14.2632	Chuck Magee
+CA-2020-138548	2020-08-15	2020-08-21	Standard Class	JG-15160	James Galang	Consumer	United States	Plainfield	New Jersey	7060	East	OFF-AP-10002578	97.84	2	0	25.4384	Chuck Magee
+CA-2020-138611	2020-11-14	2020-11-17	Second Class	CK-12595	Clytie Kelty	Consumer	United States	Grove City	Ohio	43123	East	TEC-PH-10000011	119.94	10	0.4	15.992	Chuck Magee
+CA-2020-138611	2020-11-14	2020-11-17	Second Class	CK-12595	Clytie Kelty	Consumer	United States	Grove City	Ohio	43123	East	OFF-BI-10002949	3.648	2	0.7	-2.7968	Chuck Magee
+CA-2020-139416	2020-03-27	2020-03-29	Second Class	AG-10270	Alejandro Grove	Consumer	United States	Philadelphia	Pennsylvania	19120	East	FUR-FU-10003832	15.008	2	0.2	1.5008	Chuck Magee
+CA-2020-139717	2020-08-24	2020-08-26	Second Class	DM-13015	Darrin Martin	Consumer	United States	Lancaster	Ohio	43130	East	OFF-AP-10000938	646.272	8	0.2	64.6272	Chuck Magee
+CA-2020-139717	2020-08-24	2020-08-26	Second Class	DM-13015	Darrin Martin	Consumer	United States	Lancaster	Ohio	43130	East	OFF-PA-10002195	10.368	2	0.2	3.7584	Chuck Magee
+CA-2020-139773	2020-12-04	2020-12-04	Same Day	DV-13045	Darrin Van Huff	Corporate	United States	Philadelphia	Pennsylvania	19143	East	FUR-CH-10001797	188.552	7	0.3	-2.6936	Chuck Magee
+CA-2020-139822	2020-09-15	2020-09-21	Standard Class	Dp-13240	Dean percer	Home Office	United States	Waterbury	Connecticut	6708	East	OFF-ST-10000943	38.62	2	0	10.8136	Chuck Magee
+CA-2020-139822	2020-09-15	2020-09-21	Standard Class	Dp-13240	Dean percer	Home Office	United States	Waterbury	Connecticut	6708	East	TEC-AC-10001090	59.98	2	0	10.7964	Chuck Magee
+CA-2020-139913	2020-10-23	2020-10-29	Standard Class	JC-16105	Julie Creighton	Corporate	United States	Rochester	New York	14609	East	OFF-PA-10003739	11.56	2	0	5.6644	Chuck Magee
+CA-2020-139913	2020-10-23	2020-10-29	Standard Class	JC-16105	Julie Creighton	Corporate	United States	Rochester	New York	14609	East	OFF-PA-10002479	26.4	5	0	11.88	Chuck Magee
+CA-2020-139913	2020-10-23	2020-10-29	Standard Class	JC-16105	Julie Creighton	Corporate	United States	Rochester	New York	14609	East	FUR-FU-10000771	69.08	11	0	29.0136	Chuck Magee
+CA-2020-139913	2020-10-23	2020-10-29	Standard Class	JC-16105	Julie Creighton	Corporate	United States	Rochester	New York	14609	East	TEC-PH-10001552	35.88	3	0	10.0464	Chuck Magee
+CA-2020-140480	2020-07-08	2020-07-12	Standard Class	HE-14800	Harold Engle	Corporate	United States	Newark	Delaware	19711	East	FUR-FU-10003247	83.92	4	0	5.8744	Chuck Magee
+CA-2020-140480	2020-07-08	2020-07-12	Standard Class	HE-14800	Harold Engle	Corporate	United States	Newark	Delaware	19711	East	TEC-AC-10002473	141.9	5	0	58.179	Chuck Magee
+CA-2020-140480	2020-07-08	2020-07-12	Standard Class	HE-14800	Harold Engle	Corporate	United States	Newark	Delaware	19711	East	FUR-FU-10001057	39.98	2	0	9.1954	Chuck Magee
+CA-2020-140480	2020-07-08	2020-07-12	Standard Class	HE-14800	Harold Engle	Corporate	United States	Newark	Delaware	19711	East	OFF-AR-10001419	28.91	7	0	8.673	Chuck Magee
+CA-2020-140480	2020-07-08	2020-07-12	Standard Class	HE-14800	Harold Engle	Corporate	United States	Newark	Delaware	19711	East	OFF-AR-10004010	174.95	5	0	45.487	Chuck Magee
+CA-2020-140536	2020-04-04	2020-04-05	First Class	TA-21385	Tom Ashbrook	Home Office	United States	New York City	New York	10035	East	OFF-AR-10001545	7.04	4	0	2.0416	Chuck Magee
+CA-2020-140676	2020-09-12	2020-09-15	First Class	BF-11080	Bart Folk	Consumer	United States	Baltimore	Maryland	21215	East	OFF-PA-10004082	39.9	5	0	19.95	Chuck Magee
+CA-2020-140676	2020-09-12	2020-09-15	First Class	BF-11080	Bart Folk	Consumer	United States	Baltimore	Maryland	21215	East	OFF-AP-10000358	90.86	7	0	26.3494	Chuck Magee
+CA-2020-140676	2020-09-12	2020-09-15	First Class	BF-11080	Bart Folk	Consumer	United States	Baltimore	Maryland	21215	East	OFF-PA-10004243	94.85	5	0	45.528	Chuck Magee
+CA-2020-140844	2020-06-19	2020-06-23	Standard Class	AR-10405	Allen Rosenblatt	Corporate	United States	New York City	New York	10035	East	OFF-PA-10003892	97.82	2	0	45.9754	Chuck Magee
+CA-2020-140844	2020-06-19	2020-06-23	Standard Class	AR-10405	Allen Rosenblatt	Corporate	United States	New York City	New York	10035	East	TEC-AC-10001101	103.12	8	0	10.312	Chuck Magee
+CA-2020-140949	2020-03-17	2020-03-22	Second Class	DB-13405	Denny Blanton	Consumer	United States	New York City	New York	10011	East	OFF-LA-10000081	18.75	5	0	9	Chuck Magee
+CA-2020-140949	2020-03-17	2020-03-22	Second Class	DB-13405	Denny Blanton	Consumer	United States	New York City	New York	10011	East	TEC-PH-10000149	119.7	6	0	31.122	Chuck Magee
+CA-2020-140949	2020-03-17	2020-03-22	Second Class	DB-13405	Denny Blanton	Consumer	United States	New York City	New York	10011	East	OFF-BI-10000605	9.144	3	0.2	3.0861	Chuck Magee
+CA-2020-140949	2020-03-17	2020-03-22	Second Class	DB-13405	Denny Blanton	Consumer	United States	New York City	New York	10011	East	TEC-AC-10002399	57.06	3	0	18.2592	Chuck Magee
+CA-2020-140949	2020-03-17	2020-03-22	Second Class	DB-13405	Denny Blanton	Consumer	United States	New York City	New York	10011	East	TEC-AC-10003038	71.6	8	0	13.604	Chuck Magee
+CA-2020-140949	2020-03-17	2020-03-22	Second Class	DB-13405	Denny Blanton	Consumer	United States	New York City	New York	10011	East	OFF-ST-10000344	107.44	8	0	27.9344	Chuck Magee
+CA-2020-140949	2020-03-17	2020-03-22	Second Class	DB-13405	Denny Blanton	Consumer	United States	New York City	New York	10011	East	OFF-LA-10004093	7.31	1	0	3.4357	Chuck Magee
+CA-2020-140949	2020-03-17	2020-03-22	Second Class	DB-13405	Denny Blanton	Consumer	United States	New York City	New York	10011	East	OFF-AR-10001683	59.1	6	0	22.458	Chuck Magee
+CA-2020-140949	2020-03-17	2020-03-22	Second Class	DB-13405	Denny Blanton	Consumer	United States	New York City	New York	10011	East	OFF-ST-10003455	46.53	3	0	12.0978	Chuck Magee
+CA-2020-141103	2020-07-30	2020-08-06	Standard Class	JF-15355	Jay Fein	Consumer	United States	Baltimore	Maryland	21215	East	TEC-PH-10003589	89.95	5	0	43.176	Chuck Magee
+CA-2020-141425	2020-11-02	2020-11-06	Second Class	AR-10825	Anthony Rawles	Corporate	United States	Columbus	Ohio	43229	East	OFF-SU-10000646	384.592	2	0.2	-81.7258	Chuck Magee
+CA-2020-141572	2020-05-28	2020-05-31	Second Class	LO-17170	Lori Olson	Corporate	United States	Concord	New Hampshire	3301	East	FUR-FU-10001185	247.44	8	0	101.4504	Chuck Magee
+CA-2020-141663	2020-04-13	2020-04-17	Standard Class	DP-13105	Dave Poirier	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-FA-10004076	7.92	5	0.2	1.683	Chuck Magee
+CA-2020-141873	2020-10-09	2020-10-14	Standard Class	HG-14845	Harry Greene	Consumer	United States	New York City	New York	10024	East	OFF-BI-10001031	12.816	3	0.2	4.3254	Chuck Magee
+CA-2020-141873	2020-10-09	2020-10-14	Standard Class	HG-14845	Harry Greene	Consumer	United States	New York City	New York	10024	East	FUR-BO-10003034	314.352	3	0.2	-15.7176	Chuck Magee
+CA-2020-141873	2020-10-09	2020-10-14	Standard Class	HG-14845	Harry Greene	Consumer	United States	New York City	New York	10024	East	OFF-PA-10000069	18.98	2	0	8.9206	Chuck Magee
+CA-2020-141873	2020-10-09	2020-10-14	Standard Class	HG-14845	Harry Greene	Consumer	United States	New York City	New York	10024	East	OFF-BI-10003655	18.24	6	0.2	6.156	Chuck Magee
+CA-2020-143021	2020-11-19	2020-11-19	Same Day	AP-10720	Anne Pryor	Home Office	United States	New York City	New York	10011	East	OFF-BI-10001628	58.408	7	0.2	18.2525	Chuck Magee
+CA-2020-143021	2020-11-19	2020-11-19	Same Day	AP-10720	Anne Pryor	Home Office	United States	New York City	New York	10011	East	FUR-TA-10001676	79.974	3	0.4	-29.3238	Chuck Magee
+CA-2020-143035	2020-10-03	2020-10-05	Second Class	CC-12430	Chuck Clark	Home Office	United States	New York City	New York	10009	East	FUR-FU-10001934	83.92	4	0	21.8192	Chuck Magee
+CA-2020-143035	2020-10-03	2020-10-05	Second Class	CC-12430	Chuck Clark	Home Office	United States	New York City	New York	10009	East	OFF-AR-10001130	6.63	3	0	3.1161	Chuck Magee
+CA-2020-143035	2020-10-03	2020-10-05	Second Class	CC-12430	Chuck Clark	Home Office	United States	New York City	New York	10009	East	TEC-AC-10002049	371.97	3	0	66.9546	Chuck Magee
+CA-2020-143112	2020-10-05	2020-10-09	Standard Class	TS-21370	Todd Sumrall	Corporate	United States	New York City	New York	10035	East	TEC-PH-10003095	87.8	4	0	43.9	Chuck Magee
+CA-2020-143112	2020-10-05	2020-10-09	Standard Class	TS-21370	Todd Sumrall	Corporate	United States	New York City	New York	10035	East	FUR-CH-10002880	221.382	2	0.1	2.4598	Chuck Magee
+CA-2020-143112	2020-10-05	2020-10-09	Standard Class	TS-21370	Todd Sumrall	Corporate	United States	New York City	New York	10035	East	TEC-MA-10001047	5199.96	4	0	1351.9896	Chuck Magee
+CA-2020-143245	2020-12-01	2020-12-06	Standard Class	AD-10180	Alan Dominguez	Home Office	United States	Fairfield	Connecticut	6824	East	OFF-PA-10001972	19.44	3	0	9.3312	Chuck Magee
+CA-2020-143245	2020-12-01	2020-12-06	Standard Class	AD-10180	Alan Dominguez	Home Office	United States	Fairfield	Connecticut	6824	East	FUR-CH-10000155	897.15	3	0	251.202	Chuck Magee
+CA-2020-143259	2020-12-30	2021-01-03	Standard Class	PO-18865	Patrick O'Donnell	Consumer	United States	New York City	New York	10009	East	FUR-BO-10003441	323.136	4	0.2	12.1176	Chuck Magee
+CA-2020-143259	2020-12-30	2021-01-03	Standard Class	PO-18865	Patrick O'Donnell	Consumer	United States	New York City	New York	10009	East	TEC-PH-10004774	90.93	7	0	2.7279	Chuck Magee
+CA-2020-143259	2020-12-30	2021-01-03	Standard Class	PO-18865	Patrick O'Donnell	Consumer	United States	New York City	New York	10009	East	OFF-BI-10003684	52.776	3	0.2	19.791	Chuck Magee
+CA-2020-143455	2020-11-11	2020-11-18	Standard Class	ML-17755	Max Ludwig	Home Office	United States	Springfield	Ohio	45503	East	OFF-PA-10004451	10.368	2	0.2	3.6288	Chuck Magee
+CA-2020-143574	2020-06-29	2020-07-02	First Class	DR-12880	Dan Reichenbach	Corporate	United States	Milford	Connecticut	6460	East	FUR-BO-10002598	638.82	9	0	185.2578	Chuck Magee
+CA-2020-143574	2020-06-29	2020-07-02	First Class	DR-12880	Dan Reichenbach	Corporate	United States	Milford	Connecticut	6460	East	OFF-SU-10002537	30.69	3	0	7.9794	Chuck Magee
+CA-2020-143574	2020-06-29	2020-07-02	First Class	DR-12880	Dan Reichenbach	Corporate	United States	Milford	Connecticut	6460	East	FUR-FU-10003976	25.16	2	0	8.5544	Chuck Magee
+CA-2020-143658	2020-11-08	2020-11-13	Second Class	SR-20425	Sharelle Roach	Home Office	United States	New York City	New York	10035	East	OFF-AR-10002818	109.9	5	0	32.97	Chuck Magee
+CA-2020-143798	2020-12-10	2020-12-12	First Class	AW-10840	Anthony Witt	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-PA-10000788	10.368	2	0.2	3.6288	Chuck Magee
+CA-2020-143798	2020-12-10	2020-12-12	First Class	AW-10840	Anthony Witt	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-FU-10004306	310.88	2	0.2	23.316	Chuck Magee
+CA-2020-144225	2020-09-30	2020-10-02	Second Class	CC-12475	Cindy Chapman	Consumer	United States	Baltimore	Maryland	21215	East	OFF-PA-10000062	164.88	3	0	80.7912	Chuck Magee
+CA-2020-144526	2020-04-30	2020-05-06	Standard Class	QJ-19255	Quincy Jones	Corporate	United States	Philadelphia	Pennsylvania	19143	East	TEC-PH-10002549	677.58	5	0.4	-158.102	Chuck Magee
+CA-2020-144526	2020-04-30	2020-05-06	Standard Class	QJ-19255	Quincy Jones	Corporate	United States	Philadelphia	Pennsylvania	19143	East	OFF-BI-10002353	13.896	3	0.7	-9.264	Chuck Magee
+CA-2020-144596	2020-11-06	2020-11-10	Standard Class	CD-11980	Carol Darley	Consumer	United States	New York City	New York	10011	East	OFF-PA-10003302	318.96	9	0	149.9112	Chuck Magee
+CA-2020-144638	2020-03-10	2020-03-14	Standard Class	MH-18115	Mick Hernandez	Home Office	United States	Chester	Pennsylvania	19013	East	OFF-AR-10003958	5.248	2	0.2	0.5904	Chuck Magee
+CA-2020-144638	2020-03-10	2020-03-14	Standard Class	MH-18115	Mick Hernandez	Home Office	United States	Chester	Pennsylvania	19013	East	TEC-PH-10000149	35.91	3	0.4	-8.379	Chuck Magee
+CA-2020-144638	2020-03-10	2020-03-14	Standard Class	MH-18115	Mick Hernandez	Home Office	United States	Chester	Pennsylvania	19013	East	FUR-FU-10003724	6.696	1	0.2	0.5022	Chuck Magee
+CA-2020-144638	2020-03-10	2020-03-14	Standard Class	MH-18115	Mick Hernandez	Home Office	United States	Chester	Pennsylvania	19013	East	FUR-FU-10003535	43.872	2	0.2	11.5164	Chuck Magee
+CA-2020-144848	2020-04-04	2020-04-05	First Class	DS-13030	Darrin Sayre	Home Office	United States	New York City	New York	10009	East	TEC-PH-10004006	41.22	1	0	11.1294	Chuck Magee
+CA-2020-144848	2020-04-04	2020-04-05	First Class	DS-13030	Darrin Sayre	Home Office	United States	New York City	New York	10009	East	OFF-SU-10000646	240.37	1	0	7.2111	Chuck Magee
+CA-2020-144848	2020-04-04	2020-04-05	First Class	DS-13030	Darrin Sayre	Home Office	United States	New York City	New York	10009	East	TEC-PH-10002262	119.02	2	0	33.3256	Chuck Magee
+CA-2020-144862	2020-12-01	2020-12-05	Standard Class	EH-14005	Erica Hernandez	Home Office	United States	Philadelphia	Pennsylvania	19143	East	OFF-EN-10003040	104.68	5	0.2	35.3295	Chuck Magee
+CA-2020-144862	2020-12-01	2020-12-05	Standard Class	EH-14005	Erica Hernandez	Home Office	United States	Philadelphia	Pennsylvania	19143	East	TEC-PH-10000923	62.958	7	0.4	9.4437	Chuck Magee
+CA-2020-144904	2020-09-25	2020-10-01	Standard Class	KW-16435	Katrina Willman	Consumer	United States	New York City	New York	10009	East	OFF-LA-10001158	20.7	2	0	9.936	Chuck Magee
+CA-2020-144904	2020-09-25	2020-10-01	Standard Class	KW-16435	Katrina Willman	Consumer	United States	New York City	New York	10009	East	FUR-CH-10000785	488.646	3	0.1	86.8704	Chuck Magee
+CA-2020-144904	2020-09-25	2020-10-01	Standard Class	KW-16435	Katrina Willman	Consumer	United States	New York City	New York	10009	East	OFF-AR-10003732	5.56	2	0	1.4456	Chuck Magee
+CA-2020-144904	2020-09-25	2020-10-01	Standard Class	KW-16435	Katrina Willman	Consumer	United States	New York City	New York	10009	East	FUR-FU-10000023	47.12	8	0	20.7328	Chuck Magee
+CA-2020-144932	2020-04-14	2020-04-17	First Class	AB-10165	Alan Barnes	Consumer	United States	Toledo	Ohio	43615	East	OFF-AR-10003560	14.592	3	0.2	2.5536	Chuck Magee
+CA-2020-144932	2020-04-14	2020-04-17	First Class	AB-10165	Alan Barnes	Consumer	United States	Toledo	Ohio	43615	East	OFF-AR-10001468	89.856	3	0.2	21.3408	Chuck Magee
+CA-2020-144932	2020-04-14	2020-04-17	First Class	AB-10165	Alan Barnes	Consumer	United States	Toledo	Ohio	43615	East	OFF-PA-10004971	13.872	3	0.2	5.0286	Chuck Magee
+CA-2020-145037	2020-09-02	2020-09-07	Second Class	TB-21055	Ted Butterfield	Consumer	United States	Meriden	Connecticut	6450	East	OFF-ST-10000918	10.9	1	0	2.834	Chuck Magee
+CA-2020-145037	2020-09-02	2020-09-07	Second Class	TB-21055	Ted Butterfield	Consumer	United States	Meriden	Connecticut	6450	East	OFF-PA-10000157	79.92	4	0	37.5624	Chuck Magee
+CA-2020-145037	2020-09-02	2020-09-07	Second Class	TB-21055	Ted Butterfield	Consumer	United States	Meriden	Connecticut	6450	East	OFF-PA-10002499	146.82	3	0	73.41	Chuck Magee
+CA-2020-145226	2020-12-08	2020-12-10	Second Class	DL-13315	Delfina Latchford	Consumer	United States	New York City	New York	10035	East	FUR-FU-10004952	109.48	2	0	33.9388	Chuck Magee
+CA-2020-145226	2020-12-08	2020-12-10	Second Class	DL-13315	Delfina Latchford	Consumer	United States	New York City	New York	10035	East	OFF-ST-10004123	272.94	3	0	0	Chuck Magee
+CA-2020-145226	2020-12-08	2020-12-10	Second Class	DL-13315	Delfina Latchford	Consumer	United States	New York City	New York	10035	East	OFF-PA-10003172	19.44	3	0	9.3312	Chuck Magee
+CA-2020-145226	2020-12-08	2020-12-10	Second Class	DL-13315	Delfina Latchford	Consumer	United States	New York City	New York	10035	East	OFF-ST-10002352	31.92	4	0	8.2992	Chuck Magee
+CA-2020-145338	2020-01-29	2020-02-01	First Class	BD-11770	Bryan Davis	Consumer	United States	Philadelphia	Pennsylvania	19120	East	OFF-AR-10002053	4.768	2	0.2	0.4768	Chuck Magee
+CA-2020-145660	2020-12-01	2020-12-03	First Class	MG-17650	Matthew Grinstein	Home Office	United States	Marion	Ohio	43302	East	FUR-FU-10002885	7.712	2	0.2	1.7352	Chuck Magee
+CA-2020-146031	2020-07-29	2020-08-01	Second Class	GM-14440	Gary McGarr	Consumer	United States	Troy	New York	12180	East	OFF-AR-10002656	60.12	9	0	22.2444	Chuck Magee
+CA-2020-146780	2020-12-25	2020-12-30	Standard Class	CV-12805	Cynthia Voltz	Corporate	United States	New York City	New York	10035	East	FUR-FU-10001934	41.96	2	0	10.9096	Chuck Magee
+CA-2020-147032	2020-07-31	2020-08-04	Standard Class	LB-16795	Laurel Beltran	Home Office	United States	Wilmington	Delaware	19805	East	OFF-PA-10003256	11.54	1	0	5.5392	Chuck Magee
+CA-2020-147032	2020-07-31	2020-08-04	Standard Class	LB-16795	Laurel Beltran	Home Office	United States	Wilmington	Delaware	19805	East	OFF-BI-10003656	849.95	5	0	390.977	Chuck Magee
+CA-2020-147032	2020-07-31	2020-08-04	Standard Class	LB-16795	Laurel Beltran	Home Office	United States	Wilmington	Delaware	19805	East	OFF-BI-10002897	11.01	3	0	5.3949	Chuck Magee
+CA-2020-147277	2020-10-20	2020-10-24	Standard Class	EB-13705	Ed Braxton	Corporate	United States	Akron	Ohio	44312	East	FUR-TA-10001539	284.364	2	0.4	-75.8304	Chuck Magee
+CA-2020-147277	2020-10-20	2020-10-24	Standard Class	EB-13705	Ed Braxton	Corporate	United States	Akron	Ohio	44312	East	OFF-ST-10000142	665.408	2	0.2	66.5408	Chuck Magee
+CA-2020-147403	2020-09-10	2020-09-13	First Class	KH-16630	Ken Heidel	Corporate	United States	Akron	Ohio	44312	East	OFF-PA-10003302	85.056	3	0.2	28.7064	Chuck Magee
+CA-2020-147550	2020-12-04	2020-12-05	First Class	KE-16420	Katrina Edelman	Corporate	United States	Philadelphia	Pennsylvania	19134	East	FUR-FU-10001918	11.352	3	0.2	2.6961	Chuck Magee
+CA-2020-147564	2020-10-02	2020-10-06	Standard Class	BP-11155	Becky Pak	Consumer	United States	New York City	New York	10011	East	OFF-PA-10004438	49.12	4	0	23.0864	Chuck Magee
+CA-2020-147725	2020-09-14	2020-09-14	Same Day	LT-17110	Liz Thompson	Consumer	United States	Orange	New Jersey	7050	East	OFF-AR-10001725	70.95	3	0	18.447	Chuck Magee
+CA-2020-148012	2020-12-09	2020-12-15	Standard Class	KM-16225	Kalyca Meade	Corporate	United States	Philadelphia	Pennsylvania	19143	East	OFF-AR-10004757	2.624	1	0.2	0.4264	Chuck Magee
+CA-2020-148068	2020-09-18	2020-09-25	Standard Class	MM-18280	Muhammed MacIntyre	Corporate	United States	New York City	New York	10035	East	OFF-PA-10001639	19.44	3	0	9.3312	Chuck Magee
+CA-2020-148068	2020-09-18	2020-09-25	Standard Class	MM-18280	Muhammed MacIntyre	Corporate	United States	New York City	New York	10035	East	FUR-FU-10002268	9.82	2	0	3.2406	Chuck Magee
+CA-2020-148138	2020-09-29	2020-10-03	Standard Class	ME-18010	Michelle Ellison	Corporate	United States	Marion	Ohio	43302	East	OFF-ST-10000563	51.168	2	0.2	-6.396	Chuck Magee
+CA-2020-148355	2020-12-24	2020-12-28	Standard Class	NC-18535	Nick Crebassa	Corporate	United States	New Bedford	Massachusetts	2740	East	OFF-PA-10001972	19.44	3	0	9.3312	Chuck Magee
+CA-2020-148355	2020-12-24	2020-12-28	Standard Class	NC-18535	Nick Crebassa	Corporate	United States	New Bedford	Massachusetts	2740	East	OFF-BI-10000201	12.3	5	0	6.15	Chuck Magee
+CA-2020-148691	2020-12-03	2020-12-09	Standard Class	CS-12460	Chuck Sachs	Consumer	United States	New York City	New York	10009	East	OFF-BI-10001524	83.92	5	0.2	29.372	Chuck Magee
+CA-2020-148691	2020-12-03	2020-12-09	Standard Class	CS-12460	Chuck Sachs	Consumer	United States	New York City	New York	10009	East	OFF-BI-10001553	14.624	2	0.2	5.1184	Chuck Magee
+CA-2020-148691	2020-12-03	2020-12-09	Standard Class	CS-12460	Chuck Sachs	Consumer	United States	New York City	New York	10009	East	TEC-PH-10000576	136.99	1	0	36.9873	Chuck Magee
+CA-2020-148691	2020-12-03	2020-12-09	Standard Class	CS-12460	Chuck Sachs	Consumer	United States	New York City	New York	10009	East	OFF-LA-10001317	3.15	1	0	1.512	Chuck Magee
+CA-2020-148929	2020-09-07	2020-09-11	Standard Class	SP-20620	Stefania Perrino	Corporate	United States	New York City	New York	10011	East	OFF-ST-10003282	478.08	8	0	133.8624	Chuck Magee
+CA-2020-149181	2020-05-08	2020-05-12	Standard Class	MD-17350	Maribeth Dona	Consumer	United States	Columbus	Ohio	43229	East	FUR-CH-10004540	47.992	2	0.3	-2.0568	Chuck Magee
+CA-2020-149489	2020-04-24	2020-04-27	First Class	DK-12835	Damala Kotsonis	Corporate	United States	Philadelphia	Pennsylvania	19143	East	OFF-AP-10002495	99.28	2	0.2	12.41	Chuck Magee
+CA-2020-149489	2020-04-24	2020-04-27	First Class	DK-12835	Damala Kotsonis	Corporate	United States	Philadelphia	Pennsylvania	19143	East	OFF-BI-10002813	1.188	2	0.7	-0.99	Chuck Magee
+CA-2020-149489	2020-04-24	2020-04-27	First Class	DK-12835	Damala Kotsonis	Corporate	United States	Philadelphia	Pennsylvania	19143	East	OFF-BI-10002414	7.518	2	0.7	-5.7638	Chuck Magee
+CA-2020-149888	2020-11-07	2020-11-13	Standard Class	EP-13915	Emily Phan	Consumer	United States	Philadelphia	Pennsylvania	19120	East	TEC-PH-10003811	359.97	5	0.4	-71.994	Chuck Magee
+CA-2020-149888	2020-11-07	2020-11-13	Standard Class	EP-13915	Emily Phan	Consumer	United States	Philadelphia	Pennsylvania	19120	East	FUR-TA-10000849	350.352	4	0.4	-140.1408	Chuck Magee
+CA-2020-149895	2020-09-08	2020-09-12	Standard Class	EB-14110	Eugene Barchas	Consumer	United States	Philadelphia	Pennsylvania	19134	East	TEC-PH-10002200	258.528	2	0.4	-47.3968	Chuck Magee
+CA-2020-150091	2020-10-12	2020-10-16	Standard Class	NP-18670	Nora Paige	Consumer	United States	Lakewood	New Jersey	8701	East	TEC-AC-10002167	45	3	0	4.95	Chuck Magee
+CA-2020-150091	2020-10-12	2020-10-16	Standard Class	NP-18670	Nora Paige	Consumer	United States	Lakewood	New Jersey	8701	East	OFF-FA-10000621	17.9	5	0	8.771	Chuck Magee
+CA-2020-150091	2020-10-12	2020-10-16	Standard Class	NP-18670	Nora Paige	Consumer	United States	Lakewood	New Jersey	8701	East	FUR-FU-10004053	40.48	2	0	17.4064	Chuck Magee
+CA-2020-150091	2020-10-12	2020-10-16	Standard Class	NP-18670	Nora Paige	Consumer	United States	Lakewood	New Jersey	8701	East	FUR-BO-10003404	2154.9	5	0	129.294	Chuck Magee
+CA-2020-150623	2020-04-10	2020-04-14	Standard Class	DB-13360	Dennis Bolton	Home Office	United States	Waterbury	Connecticut	6708	East	TEC-AC-10004571	99.99	1	0	41.9958	Chuck Magee
+CA-2020-150623	2020-04-10	2020-04-14	Standard Class	DB-13360	Dennis Bolton	Home Office	United States	Waterbury	Connecticut	6708	East	OFF-ST-10003692	286.15	5	0	71.5375	Chuck Magee
+CA-2020-150707	2020-10-14	2020-10-19	Standard Class	EL-13735	Ed Ludwig	Home Office	United States	Columbia	Maryland	21044	East	OFF-BI-10001078	37.66	7	0	18.4534	Chuck Magee
+CA-2020-151176	2020-02-13	2020-02-20	Standard Class	SV-20785	Stewart Visinsky	Consumer	United States	Baltimore	Maryland	21215	East	OFF-SU-10001165	25.02	3	0	6.5052	Chuck Magee
+CA-2020-151176	2020-02-13	2020-02-20	Standard Class	SV-20785	Stewart Visinsky	Consumer	United States	Baltimore	Maryland	21215	East	OFF-AR-10000614	10.71	3	0	2.7846	Chuck Magee
+CA-2020-151484	2020-04-20	2020-04-23	First Class	CV-12805	Cynthia Voltz	Corporate	United States	Philadelphia	Pennsylvania	19120	East	FUR-FU-10001876	51.968	2	0.2	10.3936	Chuck Magee
+CA-2020-151484	2020-04-20	2020-04-23	First Class	CV-12805	Cynthia Voltz	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-ST-10002370	51.336	3	0.2	5.7753	Chuck Magee
+CA-2020-151484	2020-04-20	2020-04-23	First Class	CV-12805	Cynthia Voltz	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-ST-10000142	332.704	1	0.2	33.2704	Chuck Magee
+CA-2020-151484	2020-04-20	2020-04-23	First Class	CV-12805	Cynthia Voltz	Corporate	United States	Philadelphia	Pennsylvania	19120	East	FUR-FU-10004671	42.408	3	0.2	9.5418	Chuck Magee
+CA-2020-151596	2020-10-08	2020-10-11	First Class	BP-11050	Barry Pond	Corporate	United States	Cranston	Rhode Island	2920	East	OFF-ST-10001837	42.76	1	0	11.1176	Chuck Magee
+CA-2020-151799	2020-12-14	2020-12-18	Standard Class	BF-11170	Ben Ferrer	Home Office	United States	Lawrence	Massachusetts	1841	East	TEC-CO-10002313	1199.98	2	0	467.9922	Chuck Magee
+CA-2020-151799	2020-12-14	2020-12-18	Standard Class	BF-11170	Ben Ferrer	Home Office	United States	Lawrence	Massachusetts	1841	East	OFF-ST-10002790	73.85	1	0	2.2155	Chuck Magee
+CA-2020-151799	2020-12-14	2020-12-18	Standard Class	BF-11170	Ben Ferrer	Home Office	United States	Lawrence	Massachusetts	1841	East	OFF-SU-10001664	25.71	3	0	6.6846	Chuck Magee
+CA-2020-151799	2020-12-14	2020-12-18	Standard Class	BF-11170	Ben Ferrer	Home Office	United States	Lawrence	Massachusetts	1841	East	OFF-FA-10001332	17.28	6	0	8.1216	Chuck Magee
+CA-2020-151799	2020-12-14	2020-12-18	Standard Class	BF-11170	Ben Ferrer	Home Office	United States	Lawrence	Massachusetts	1841	East	FUR-TA-10003473	526.582	2	0.3	-52.6582	Chuck Magee
+CA-2020-151911	2020-04-30	2020-05-05	Second Class	DL-13495	Dionis Lloyd	Corporate	United States	New York City	New York	10024	East	OFF-EN-10002986	62.96	4	0	28.332	Chuck Magee
+CA-2020-151981	2020-08-06	2020-08-12	Standard Class	GM-14455	Gary Mitchum	Home Office	United States	Concord	New Hampshire	3301	East	TEC-PH-10003601	824.95	5	0	247.485	Chuck Magee
+CA-2020-151981	2020-08-06	2020-08-12	Standard Class	GM-14455	Gary Mitchum	Home Office	United States	Concord	New Hampshire	3301	East	OFF-LA-10002195	24.64	8	0	11.8272	Chuck Magee
+CA-2020-151981	2020-08-06	2020-08-12	Standard Class	GM-14455	Gary Mitchum	Home Office	United States	Concord	New Hampshire	3301	East	OFF-AR-10000380	227.88	6	0	68.364	Chuck Magee
+CA-2020-152135	2020-03-16	2020-03-18	Second Class	MG-17650	Matthew Grinstein	Home Office	United States	Lakewood	Ohio	44107	East	TEC-PH-10003505	445.44	8	0.4	-81.664	Chuck Magee
+CA-2020-152198	2020-09-09	2020-09-10	First Class	JD-16015	Joy Daniels	Consumer	United States	Toledo	Ohio	43615	East	OFF-LA-10000443	17.712	6	0.2	5.9778	Chuck Magee
+CA-2020-152198	2020-09-09	2020-09-10	First Class	JD-16015	Joy Daniels	Consumer	United States	Toledo	Ohio	43615	East	OFF-BI-10003669	4.86	3	0.7	-3.564	Chuck Magee
+CA-2020-152198	2020-09-09	2020-09-10	First Class	JD-16015	Joy Daniels	Consumer	United States	Toledo	Ohio	43615	East	OFF-BI-10001628	6.258	2	0.7	-5.215	Chuck Magee
+CA-2020-152205	2020-09-28	2020-10-05	Standard Class	SF-20965	Sylvia Foulston	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-BI-10004094	2.655	1	0.7	-1.8585	Chuck Magee
+CA-2020-152226	2020-05-12	2020-05-16	Standard Class	JH-15910	Jonathan Howell	Consumer	United States	Cincinnati	Ohio	45231	East	OFF-LA-10000443	5.904	2	0.2	1.9926	Chuck Magee
+CA-2020-152261	2020-03-02	2020-03-06	Standard Class	JA-15970	Joseph Airdo	Consumer	United States	Cuyahoga Falls	Ohio	44221	East	OFF-BI-10002353	18.528	4	0.7	-12.352	Chuck Magee
+CA-2020-152436	2020-12-08	2020-12-10	Second Class	CW-11905	Carl Weiss	Home Office	United States	Cranston	Rhode Island	2920	East	OFF-ST-10000036	592.74	6	0	160.0398	Chuck Magee
+CA-2020-152695	2020-12-10	2020-12-10	Same Day	CC-12220	Chris Cortes	Consumer	United States	Fairfield	Connecticut	6824	East	OFF-EN-10004030	10.86	3	0	5.1042	Chuck Magee
+CA-2020-152695	2020-12-10	2020-12-10	Same Day	CC-12220	Chris Cortes	Consumer	United States	Fairfield	Connecticut	6824	East	OFF-AP-10000026	426.79	7	0	123.7691	Chuck Magee
+CA-2020-152807	2020-10-30	2020-11-03	Standard Class	MC-18100	Mick Crebagga	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-PA-10004355	20.736	4	0.2	7.2576	Chuck Magee
+CA-2020-152807	2020-10-30	2020-11-03	Standard Class	MC-18100	Mick Crebagga	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-FU-10004415	7.168	2	0.2	0.9856	Chuck Magee
+CA-2020-152807	2020-10-30	2020-11-03	Standard Class	MC-18100	Mick Crebagga	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-ST-10002486	11.168	2	0.2	-2.5128	Chuck Magee
+CA-2020-152807	2020-10-30	2020-11-03	Standard Class	MC-18100	Mick Crebagga	Consumer	United States	Philadelphia	Pennsylvania	19140	East	TEC-AC-10001142	442.4	7	0.2	-55.3	Chuck Magee
+CA-2020-152856	2020-09-08	2020-09-10	Second Class	RS-19765	Roland Schwarz	Corporate	United States	Marion	Ohio	43302	East	TEC-AC-10004864	116.832	4	0.2	33.5892	Chuck Magee
+CA-2020-152912	2020-11-09	2020-11-12	Second Class	BM-11650	Brian Moss	Corporate	United States	Columbia	Maryland	21044	East	OFF-BI-10004728	9.64	2	0	4.4344	Chuck Magee
+CA-2020-152912	2020-11-09	2020-11-12	Second Class	BM-11650	Brian Moss	Corporate	United States	Columbia	Maryland	21044	East	TEC-AC-10004666	826.62	3	0	355.4466	Chuck Magee
+CA-2020-152912	2020-11-09	2020-11-12	Second Class	BM-11650	Brian Moss	Corporate	United States	Columbia	Maryland	21044	East	OFF-ST-10003208	1633.14	9	0	473.6106	Chuck Magee
+CA-2020-152961	2020-01-15	2020-01-19	Standard Class	SC-20095	Sanjit Chand	Consumer	United States	Quincy	Massachusetts	2169	East	OFF-PA-10004675	12.7	2	0	5.842	Chuck Magee
+CA-2020-152975	2020-09-14	2020-09-16	First Class	RB-19705	Roger Barcio	Home Office	United States	New York City	New York	10035	East	TEC-PH-10004586	1079.85	3	0	323.955	Chuck Magee
+CA-2020-152975	2020-09-14	2020-09-16	First Class	RB-19705	Roger Barcio	Home Office	United States	New York City	New York	10035	East	OFF-ST-10001370	70.98	1	0	3.549	Chuck Magee
+CA-2020-152975	2020-09-14	2020-09-16	First Class	RB-19705	Roger Barcio	Home Office	United States	New York City	New York	10035	East	OFF-AR-10001988	29.95	5	0	8.6855	Chuck Magee
+CA-2020-152975	2020-09-14	2020-09-16	First Class	RB-19705	Roger Barcio	Home Office	United States	New York City	New York	10035	East	FUR-CH-10003298	589.41	5	0.1	-6.549	Chuck Magee
+CA-2020-153045	2020-01-19	2020-01-24	Second Class	NS-18505	Neola Schneider	Consumer	United States	Philadelphia	Pennsylvania	19140	East	TEC-PH-10001817	429.6	2	0.4	-93.08	Chuck Magee
+CA-2020-153045	2020-01-19	2020-01-24	Second Class	NS-18505	Neola Schneider	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-FU-10002759	31.968	2	0.2	6.3936	Chuck Magee
+CA-2020-153045	2020-01-19	2020-01-24	Second Class	NS-18505	Neola Schneider	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-CH-10000309	887.271	3	0.3	-63.3765	Chuck Magee
+CA-2020-153045	2020-01-19	2020-01-24	Second Class	NS-18505	Neola Schneider	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-PA-10003673	21.696	4	0.2	7.0512	Chuck Magee
+CA-2020-153843	2020-03-13	2020-03-15	First Class	SC-20380	Shahid Collister	Consumer	United States	Fairfield	Connecticut	6824	East	OFF-BI-10002353	30.88	2	0	15.44	Chuck Magee
+CA-2020-153843	2020-03-13	2020-03-15	First Class	SC-20380	Shahid Collister	Consumer	United States	Fairfield	Connecticut	6824	East	OFF-AP-10001564	465.16	2	0	120.9416	Chuck Magee
+CA-2020-153843	2020-03-13	2020-03-15	First Class	SC-20380	Shahid Collister	Consumer	United States	Fairfield	Connecticut	6824	East	OFF-PA-10003673	27.12	4	0	12.4752	Chuck Magee
+CA-2020-153871	2020-12-11	2020-12-17	Standard Class	RB-19435	Richard Bierner	Consumer	United States	Plainfield	New Jersey	7060	East	OFF-BI-10004209	40.2	5	0	18.09	Chuck Magee
+CA-2020-153871	2020-12-11	2020-12-17	Standard Class	RB-19435	Richard Bierner	Consumer	United States	Plainfield	New Jersey	7060	East	OFF-BI-10004600	735.98	2	0	331.191	Chuck Magee
+CA-2020-153871	2020-12-11	2020-12-17	Standard Class	RB-19435	Richard Bierner	Consumer	United States	Plainfield	New Jersey	7060	East	OFF-AP-10003622	22.75	7	0	6.5975	Chuck Magee
+CA-2020-154109	2020-11-06	2020-11-11	Standard Class	ML-17410	Maris LaWare	Consumer	United States	Philadelphia	Pennsylvania	19143	East	FUR-CH-10003774	127.372	2	0.3	-30.9332	Chuck Magee
+CA-2020-154109	2020-11-06	2020-11-11	Standard Class	ML-17410	Maris LaWare	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-PA-10000157	47.952	3	0.2	16.1838	Chuck Magee
+CA-2020-154137	2020-11-11	2020-11-17	Standard Class	MT-17815	Meg Tillman	Consumer	United States	New York City	New York	10009	East	OFF-ST-10003324	35.48	1	0	0	Chuck Magee
+CA-2020-154760	2020-01-09	2020-01-13	Standard Class	BP-11290	Beth Paige	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-BI-10004632	274.491	3	0.7	-228.7425	Chuck Magee
+CA-2020-154935	2020-12-24	2020-12-29	Standard Class	AR-10540	Andy Reiter	Consumer	United States	New York City	New York	10024	East	OFF-BI-10003708	17.88	3	0.2	5.5875	Chuck Magee
+CA-2020-155075	2020-12-02	2020-12-09	Standard Class	GW-14605	Giulietta Weimer	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-BI-10003650	631.176	4	0.7	-462.8624	Chuck Magee
+CA-2020-155152	2020-07-07	2020-07-09	Second Class	MP-17965	Michael Paige	Corporate	United States	Warwick	Rhode Island	2886	East	TEC-AC-10004353	252	4	0	93.24	Chuck Magee
+CA-2020-155607	2020-11-26	2020-11-30	Standard Class	FG-14260	Frank Gastineau	Home Office	United States	New York City	New York	10009	East	OFF-AP-10001962	58.73	7	0	14.6825	Chuck Magee
+CA-2020-155607	2020-11-26	2020-11-30	Standard Class	FG-14260	Frank Gastineau	Home Office	United States	New York City	New York	10009	East	OFF-BI-10003364	93.344	4	0.2	32.6704	Chuck Magee
+CA-2020-155621	2020-11-08	2020-11-13	Standard Class	KN-16450	Kean Nguyen	Corporate	United States	Baltimore	Maryland	21215	East	FUR-FU-10003535	274.2	10	0	112.422	Chuck Magee
+CA-2020-155740	2020-07-30	2020-08-02	First Class	TC-21475	Tony Chapman	Home Office	United States	Lakewood	Ohio	44107	East	OFF-BI-10001071	76.776	4	0.7	-53.7432	Chuck Magee
+CA-2020-155957	2020-11-26	2020-11-30	Standard Class	CC-12610	Corey Catlett	Corporate	United States	Columbus	Ohio	43229	East	OFF-AP-10002082	52.272	3	0.2	9.801	Chuck Magee
+CA-2020-155957	2020-11-26	2020-11-30	Standard Class	CC-12610	Corey Catlett	Corporate	United States	Columbus	Ohio	43229	East	OFF-AP-10004708	213.136	7	0.2	23.9778	Chuck Magee
+CA-2020-156237	2020-09-14	2020-09-15	First Class	PS-18760	Pamela Stobb	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-BI-10000301	3.882	2	0.7	-2.588	Chuck Magee
+CA-2020-156237	2020-09-14	2020-09-15	First Class	PS-18760	Pamela Stobb	Consumer	United States	Philadelphia	Pennsylvania	19140	East	TEC-MA-10002930	12.585	1	0.7	-18.0385	Chuck Magee
+CA-2020-156237	2020-09-14	2020-09-15	First Class	PS-18760	Pamela Stobb	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-CH-10002372	113.372	2	0.3	-29.1528	Chuck Magee
+CA-2020-156237	2020-09-14	2020-09-15	First Class	PS-18760	Pamela Stobb	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-BI-10003707	18.312	4	0.7	-12.208	Chuck Magee
+CA-2020-156237	2020-09-14	2020-09-15	First Class	PS-18760	Pamela Stobb	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-FU-10001057	127.936	8	0.2	4.7976	Chuck Magee
+CA-2020-156237	2020-09-14	2020-09-15	First Class	PS-18760	Pamela Stobb	Consumer	United States	Philadelphia	Pennsylvania	19140	East	TEC-MA-10001681	241.17	2	0.7	-168.819	Chuck Magee
+CA-2020-156363	2020-10-22	2020-10-28	Standard Class	ML-17395	Marina Lichtenstein	Corporate	United States	Philadelphia	Pennsylvania	19134	East	TEC-PH-10003988	32.7	5	0.4	-6.54	Chuck Magee
+CA-2020-156363	2020-10-22	2020-10-28	Standard Class	ML-17395	Marina Lichtenstein	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-EN-10003068	31.68	4	0.2	11.088	Chuck Magee
+CA-2020-156412	2020-12-04	2020-12-08	Standard Class	CM-12160	Charles McCrossin	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-BI-10004364	5.346	3	0.7	-4.455	Chuck Magee
+CA-2020-156664	2020-12-18	2020-12-23	Standard Class	BP-11290	Beth Paige	Consumer	United States	Columbus	Ohio	43229	East	OFF-BI-10004209	7.236	3	0.7	-6.03	Chuck Magee
+CA-2020-156664	2020-12-18	2020-12-23	Standard Class	BP-11290	Beth Paige	Consumer	United States	Columbus	Ohio	43229	East	OFF-FA-10002988	4.824	3	0.2	1.7487	Chuck Magee
+CA-2020-156664	2020-12-18	2020-12-23	Standard Class	BP-11290	Beth Paige	Consumer	United States	Columbus	Ohio	43229	East	OFF-PA-10002222	91.36	5	0.2	29.692	Chuck Magee
+CA-2020-156664	2020-12-18	2020-12-23	Standard Class	BP-11290	Beth Paige	Consumer	United States	Columbus	Ohio	43229	East	OFF-AP-10004487	130.112	2	0.2	13.0112	Chuck Magee
+CA-2020-156818	2020-07-11	2020-07-13	Second Class	JD-16015	Joy Daniels	Consumer	United States	New York City	New York	10009	East	TEC-AC-10002323	132.6	6	0	17.238	Chuck Magee
+CA-2020-156895	2020-05-08	2020-05-12	Standard Class	DJ-13510	Don Jones	Corporate	United States	Philadelphia	Pennsylvania	19140	East	FUR-CH-10003535	128.058	3	0.3	-23.7822	Chuck Magee
+CA-2020-157112	2020-04-23	2020-04-26	First Class	GG-14650	Greg Guthrie	Corporate	United States	Columbus	Ohio	43229	East	OFF-BI-10000285	11.76	5	0.7	-7.84	Chuck Magee
+CA-2020-157112	2020-04-23	2020-04-26	First Class	GG-14650	Greg Guthrie	Corporate	United States	Columbus	Ohio	43229	East	OFF-PA-10001804	5.344	1	0.2	1.8704	Chuck Magee
+CA-2020-157252	2020-01-20	2020-01-23	Second Class	CV-12805	Cynthia Voltz	Corporate	United States	New York City	New York	10024	East	FUR-CH-10003396	207.846	3	0.1	2.3094	Chuck Magee
+CA-2020-157413	2020-06-01	2020-06-06	Standard Class	BW-11065	Barry Weirich	Consumer	United States	Philadelphia	Pennsylvania	19120	East	OFF-ST-10002756	324.744	3	0.2	-77.1267	Chuck Magee
+CA-2020-157469	2020-12-02	2020-12-07	Standard Class	ES-14080	Erin Smith	Corporate	United States	Lakewood	Ohio	44107	East	OFF-AR-10001662	19.728	9	0.2	1.7262	Chuck Magee
+CA-2020-157469	2020-12-02	2020-12-07	Standard Class	ES-14080	Erin Smith	Corporate	United States	Lakewood	Ohio	44107	East	TEC-PH-10004531	151.188	2	0.4	-25.198	Chuck Magee
+CA-2020-157651	2020-12-10	2020-12-14	Standard Class	HA-14920	Helen Andreada	Consumer	United States	Philadelphia	Pennsylvania	19120	East	TEC-AC-10003116	14.2	1	0.2	3.3725	Chuck Magee
+CA-2020-157980	2020-12-07	2020-12-09	First Class	SH-20395	Shahid Hopkins	Consumer	United States	Toledo	Ohio	43615	East	TEC-AC-10002567	127.984	2	0.2	25.5968	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	OFF-AR-10000658	23.1	2	0	6.468	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	FUR-FU-10001196	11.54	2	0	3.462	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	FUR-TA-10001889	254.526	1	0.4	-93.3262	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	OFF-AP-10000358	12.98	1	0	3.7642	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	OFF-BI-10004970	26.432	8	0.2	8.9208	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	TEC-PH-10003885	197.97	3	0	57.4113	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	OFF-LA-10001641	18.9	6	0	9.072	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	FUR-CH-10003379	1282.41	5	0.1	213.735	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	OFF-AR-10004582	4.92	3	0	2.214	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	TEC-AC-10002842	238	2	0	38.08	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	TEC-AC-10000109	167.97	3	0	40.3128	Chuck Magee
+CA-2020-157987	2020-09-02	2020-09-06	Standard Class	AC-10615	Ann Chong	Corporate	United States	New York City	New York	10009	East	OFF-PA-10003893	17.12	4	0	7.704	Chuck Magee
+CA-2020-158036	2020-09-08	2020-09-14	Standard Class	DB-13555	Dorothy Badders	Corporate	United States	Dublin	Ohio	43017	East	TEC-AC-10002558	9.096	1	0.2	1.7055	Chuck Magee
+CA-2020-158379	2020-09-22	2020-09-26	Second Class	JA-15970	Joseph Airdo	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-BI-10002498	5.607	1	0.7	-4.2987	Chuck Magee
+CA-2020-158379	2020-09-22	2020-09-26	Second Class	JA-15970	Joseph Airdo	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-SU-10002881	4663.736	7	0.2	-1049.3406	Chuck Magee
+CA-2020-158379	2020-09-22	2020-09-26	Second Class	JA-15970	Joseph Airdo	Consumer	United States	Philadelphia	Pennsylvania	19134	East	TEC-AC-10002926	79.984	2	0.2	22.9954	Chuck Magee
+CA-2020-158722	2020-10-20	2020-10-26	Standard Class	MA-17560	Matt Abelman	Home Office	United States	Philadelphia	Pennsylvania	19120	East	OFF-PA-10000176	45.528	3	0.2	15.9348	Chuck Magee
+CA-2020-159156	2020-11-13	2020-11-16	First Class	KB-16600	Ken Brennan	Corporate	United States	New York City	New York	10009	East	TEC-PH-10004389	629.95	5	0	163.787	Chuck Magee
+CA-2020-159352	2020-03-12	2020-03-17	Standard Class	KB-16585	Ken Black	Corporate	United States	Lowell	Massachusetts	1852	East	TEC-PH-10004700	69.93	7	0	32.1678	Chuck Magee
+CA-2020-159793	2020-08-25	2020-08-29	Standard Class	SV-20365	Seth Vernon	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-BO-10001798	130.98	2	0.5	-89.0664	Chuck Magee
+CA-2020-160031	2020-12-04	2020-12-07	Second Class	LT-16765	Larry Tron	Consumer	United States	Fairfield	Ohio	45014	East	OFF-PA-10000241	74.352	3	0.2	23.235	Chuck Magee
+CA-2020-160325	2020-09-24	2020-09-24	Same Day	BP-11095	Bart Pistole	Corporate	United States	Lawrence	Massachusetts	1841	East	TEC-PH-10000984	391.98	2	0	109.7544	Chuck Magee
+CA-2020-160325	2020-09-24	2020-09-24	Same Day	BP-11095	Bart Pistole	Corporate	United States	Lawrence	Massachusetts	1841	East	TEC-PH-10001944	437.85	3	0	131.355	Chuck Magee
+CA-2020-160416	2020-11-13	2020-11-18	Second Class	AD-10180	Alan Dominguez	Home Office	United States	Yonkers	New York	10701	East	TEC-AC-10004114	163.96	4	0	70.5028	Chuck Magee
+CA-2020-160633	2020-11-16	2020-11-21	Standard Class	BS-11380	Bill Stewart	Corporate	United States	Bowling Green	Ohio	43402	East	TEC-CO-10002095	899.982	3	0.4	74.9985	Chuck Magee
+CA-2020-160633	2020-11-16	2020-11-21	Standard Class	BS-11380	Bill Stewart	Corporate	United States	Bowling Green	Ohio	43402	East	OFF-AR-10004022	86.352	3	0.2	5.397	Chuck Magee
+CA-2020-160633	2020-11-16	2020-11-21	Standard Class	BS-11380	Bill Stewart	Corporate	United States	Bowling Green	Ohio	43402	East	TEC-AC-10002335	139.96	5	0.2	-1.7495	Chuck Magee
+CA-2020-160661	2020-10-28	2020-11-01	Standard Class	SA-20830	Sue Ann Reed	Consumer	United States	Everett	Massachusetts	2149	East	OFF-LA-10002475	21.93	3	0	10.3071	Chuck Magee
+CA-2020-160801	2020-09-19	2020-09-19	Same Day	FG-14260	Frank Gastineau	Home Office	United States	Philadelphia	Pennsylvania	19120	East	OFF-BI-10001132	4.842	3	0.7	-3.3894	Chuck Magee
+CA-2020-160962	2020-04-28	2020-05-02	Standard Class	MC-17605	Matt Connell	Corporate	United States	Philadelphia	Pennsylvania	19143	East	OFF-ST-10001325	8.384	1	0.2	0.7336	Chuck Magee
+CA-2020-160962	2020-04-28	2020-05-02	Standard Class	MC-17605	Matt Connell	Corporate	United States	Philadelphia	Pennsylvania	19143	East	OFF-AR-10003056	6.848	2	0.2	0.7704	Chuck Magee
+CA-2020-160983	2020-10-29	2020-10-31	Second Class	GB-14530	George Bell	Corporate	United States	Auburn	New York	13021	East	OFF-PA-10002250	46.96	8	0	22.5408	Chuck Magee
+CA-2020-161018	2020-11-09	2020-11-11	Second Class	PN-18775	Parhena Norris	Home Office	United States	New York City	New York	10009	East	FUR-FU-10000629	96.53	7	0	40.5426	Chuck Magee
+CA-2020-161067	2020-09-03	2020-09-06	Second Class	KB-16405	Katrina Bavinger	Home Office	United States	New York City	New York	10035	East	OFF-PA-10000418	419.4	4	0	201.312	Chuck Magee
+CA-2020-161067	2020-09-03	2020-09-06	Second Class	KB-16405	Katrina Bavinger	Home Office	United States	New York City	New York	10035	East	FUR-CH-10004626	90.801	1	0.1	14.1246	Chuck Magee
+CA-2020-161067	2020-09-03	2020-09-06	Second Class	KB-16405	Katrina Bavinger	Home Office	United States	New York City	New York	10035	East	FUR-CH-10004860	181.764	2	0.1	-8.0784	Chuck Magee
+CA-2020-161067	2020-09-03	2020-09-06	Second Class	KB-16405	Katrina Bavinger	Home Office	United States	New York City	New York	10035	East	OFF-AR-10003251	5.56	2	0	2.224	Chuck Magee
+CA-2020-161172	2020-03-16	2020-03-16	Same Day	SP-20920	Susan Pistek	Consumer	United States	Columbus	Ohio	43229	East	TEC-PH-10004348	44.376	2	0.4	-7.396	Chuck Magee
+CA-2020-161172	2020-03-16	2020-03-16	Same Day	SP-20920	Susan Pistek	Consumer	United States	Columbus	Ohio	43229	East	FUR-FU-10003424	51.264	6	0.2	7.6896	Chuck Magee
+CA-2020-161172	2020-03-16	2020-03-16	Same Day	SP-20920	Susan Pistek	Consumer	United States	Columbus	Ohio	43229	East	OFF-BI-10004654	5.193	3	0.7	-3.462	Chuck Magee
+CA-2020-161172	2020-03-16	2020-03-16	Same Day	SP-20920	Susan Pistek	Consumer	United States	Columbus	Ohio	43229	East	TEC-AC-10004571	159.984	2	0.2	43.9956	Chuck Magee
+CA-2020-161172	2020-03-16	2020-03-16	Same Day	SP-20920	Susan Pistek	Consumer	United States	Columbus	Ohio	43229	East	OFF-ST-10000675	54.224	2	0.2	3.389	Chuck Magee
+CA-2020-161340	2020-05-28	2020-06-01	Standard Class	AM-10360	Alice McCarthy	Corporate	United States	Cleveland	Ohio	44105	East	OFF-PA-10002464	13.872	3	0.2	5.0286	Chuck Magee
+CA-2020-161340	2020-05-28	2020-06-01	Standard Class	AM-10360	Alice McCarthy	Corporate	United States	Cleveland	Ohio	44105	East	FUR-BO-10004709	115.96	4	0.5	-64.9376	Chuck Magee
+CA-2020-161410	2020-06-26	2020-07-03	Standard Class	CC-12220	Chris Cortes	Consumer	United States	Philadelphia	Pennsylvania	19143	East	TEC-PH-10001760	358.2	3	0.4	41.79	Chuck Magee
+CA-2020-161410	2020-06-26	2020-07-03	Standard Class	CC-12220	Chris Cortes	Consumer	United States	Philadelphia	Pennsylvania	19143	East	TEC-PH-10000673	545.916	14	0.4	72.7888	Chuck Magee
+CA-2020-161480	2020-12-25	2020-12-29	Standard Class	RA-19285	Ralph Arnett	Consumer	United States	New York City	New York	10035	East	FUR-BO-10004015	191.984	2	0.2	4.7996	Chuck Magee
+CA-2020-161655	2020-05-13	2020-05-18	Second Class	CW-11905	Carl Weiss	Home Office	United States	Newark	Delaware	19711	East	OFF-BI-10002082	299.52	9	0	149.76	Chuck Magee
+CA-2020-161984	2020-04-10	2020-04-15	Standard Class	SJ-20125	Sanjit Jacobs	Home Office	United States	New Brunswick	New Jersey	8901	East	OFF-PA-10004569	7.61	1	0	3.5767	Chuck Magee
+CA-2020-161984	2020-04-10	2020-04-15	Standard Class	SJ-20125	Sanjit Jacobs	Home Office	United States	New Brunswick	New Jersey	8901	East	OFF-FA-10000624	7.16	2	0	3.58	Chuck Magee
+CA-2020-162572	2020-09-25	2020-09-27	Second Class	RB-19360	Raymond Buch	Consumer	United States	Cincinnati	Ohio	45231	East	TEC-AC-10003628	119.96	5	0.2	35.988	Chuck Magee
+CA-2020-162572	2020-09-25	2020-09-27	Second Class	RB-19360	Raymond Buch	Consumer	United States	Cincinnati	Ohio	45231	East	OFF-AR-10001547	10.608	6	0.2	0.9282	Chuck Magee
+CA-2020-162789	2020-09-22	2020-09-24	Second Class	LC-17140	Logan Currie	Consumer	United States	New York City	New York	10035	East	TEC-AC-10002842	1071	9	0	171.36	Chuck Magee
+CA-2020-162789	2020-09-22	2020-09-24	Second Class	LC-17140	Logan Currie	Consumer	United States	New York City	New York	10035	East	FUR-FU-10004864	12.07	1	0	3.9831	Chuck Magee
+CA-2020-162929	2020-11-19	2020-11-22	First Class	AS-10135	Adrian Shami	Home Office	United States	New York City	New York	10035	East	OFF-BI-10000404	41.28	6	0.2	13.932	Chuck Magee
+CA-2020-162929	2020-11-19	2020-11-22	First Class	AS-10135	Adrian Shami	Home Office	United States	New York City	New York	10035	East	OFF-PA-10002986	13.36	2	0	6.4128	Chuck Magee
+CA-2020-162936	2020-08-18	2020-08-22	Standard Class	CM-12160	Charles McCrossin	Consumer	United States	New Bedford	Massachusetts	2740	East	TEC-AC-10003614	23.18	2	0	7.6494	Chuck Magee
+CA-2020-163020	2020-09-15	2020-09-19	Standard Class	MO-17800	Meg O'Connel	Home Office	United States	New York City	New York	10009	East	FUR-FU-10000221	35.56	7	0	12.0904	Chuck Magee
+CA-2020-163069	2020-08-18	2020-08-21	Second Class	PJ-19015	Pauline Johnson	Consumer	United States	Columbus	Ohio	43229	East	OFF-AR-10001419	9.912	3	0.2	1.239	Chuck Magee
+CA-2020-163139	2020-12-01	2020-12-03	Second Class	CC-12670	Craig Carreira	Consumer	United States	New York City	New York	10009	East	TEC-AC-10000290	20.37	3	0	6.9258	Chuck Magee
+CA-2020-163139	2020-12-01	2020-12-03	Second Class	CC-12670	Craig Carreira	Consumer	United States	New York City	New York	10009	East	OFF-ST-10002790	221.55	3	0	6.6465	Chuck Magee
+CA-2020-163139	2020-12-01	2020-12-03	Second Class	CC-12670	Craig Carreira	Consumer	United States	New York City	New York	10009	East	OFF-BI-10003460	17.52	5	0.2	6.132	Chuck Magee
+CA-2020-163531	2020-06-26	2020-06-30	Standard Class	SC-20725	Steven Cartwright	Consumer	United States	New York City	New York	10024	East	TEC-PH-10001425	239.97	3	0	67.1916	Chuck Magee
+CA-2020-163566	2020-08-03	2020-08-06	First Class	TB-21055	Ted Butterfield	Consumer	United States	Fairfield	Ohio	45014	East	OFF-LA-10004484	16.52	5	0.2	5.369	Chuck Magee
+CA-2020-163818	2020-10-04	2020-10-08	Standard Class	PS-18970	Paul Stevenson	Home Office	United States	Clinton	Maryland	20735	East	FUR-FU-10000076	19.98	1	0	8.5914	Chuck Magee
+CA-2020-164000	2020-12-18	2020-12-22	Standard Class	AH-10030	Aaron Hawkins	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-AR-10003183	18.704	7	0.2	2.338	Chuck Magee
+CA-2020-164112	2020-06-30	2020-07-04	Standard Class	ND-18460	Neil Ducich	Corporate	United States	Mount Vernon	New York	10550	East	OFF-ST-10002615	1085.42	7	0	282.2092	Chuck Magee
+CA-2020-164378	2020-07-15	2020-07-18	Second Class	MM-18055	Michelle Moray	Consumer	United States	New York City	New York	10024	East	OFF-AR-10001177	6.56	2	0	1.9024	Chuck Magee
+CA-2020-164378	2020-07-15	2020-07-18	Second Class	MM-18055	Michelle Moray	Consumer	United States	New York City	New York	10024	East	OFF-LA-10000634	7.83	3	0	3.6018	Chuck Magee
+CA-2020-164378	2020-07-15	2020-07-18	Second Class	MM-18055	Michelle Moray	Consumer	United States	New York City	New York	10024	East	TEC-AC-10004708	41.9	2	0	8.799	Chuck Magee
+CA-2020-164378	2020-07-15	2020-07-18	Second Class	MM-18055	Michelle Moray	Consumer	United States	New York City	New York	10024	East	FUR-CH-10002084	664.146	6	0.1	88.5528	Chuck Magee
+CA-2020-164378	2020-07-15	2020-07-18	Second Class	MM-18055	Michelle Moray	Consumer	United States	New York City	New York	10024	East	OFF-PA-10004519	8.96	2	0	4.3904	Chuck Magee
+CA-2020-164819	2020-10-15	2020-10-19	Second Class	RS-19420	Ricardo Sperren	Corporate	United States	Fairfield	Connecticut	6824	East	OFF-LA-10001045	13.05	5	0	6.003	Chuck Magee
+CA-2020-164826	2020-12-28	2021-01-04	Standard Class	JF-15415	Jennifer Ferguson	Consumer	United States	New York City	New York	10024	East	OFF-LA-10001297	72.45	7	0	34.776	Chuck Magee
+CA-2020-164826	2020-12-28	2021-01-04	Standard Class	JF-15415	Jennifer Ferguson	Consumer	United States	New York City	New York	10024	East	OFF-FA-10000585	13.96	4	0	6.4216	Chuck Magee
+CA-2020-164826	2020-12-28	2021-01-04	Standard Class	JF-15415	Jennifer Ferguson	Consumer	United States	New York City	New York	10024	East	OFF-BI-10001922	33.264	7	0.2	11.2266	Chuck Magee
+CA-2020-164826	2020-12-28	2021-01-04	Standard Class	JF-15415	Jennifer Ferguson	Consumer	United States	New York City	New York	10024	East	TEC-PH-10000347	14.85	3	0	4.0095	Chuck Magee
+CA-2020-165323	2020-06-17	2020-06-21	Standard Class	SR-20740	Steven Roelle	Home Office	United States	New York City	New York	10024	East	TEC-MA-10003673	3404.5	5	0	1668.205	Chuck Magee
+CA-2020-165323	2020-06-17	2020-06-21	Standard Class	SR-20740	Steven Roelle	Home Office	United States	New York City	New York	10024	East	TEC-AC-10004992	101.34	3	0	8.1072	Chuck Magee
+CA-2020-165603	2020-10-17	2020-10-19	Second Class	SS-20140	Saphhira Shifley	Corporate	United States	Warwick	Rhode Island	2886	East	OFF-ST-10000798	49.96	2	0	9.4924	Chuck Magee
+CA-2020-165603	2020-10-17	2020-10-19	Second Class	SS-20140	Saphhira Shifley	Corporate	United States	Warwick	Rhode Island	2886	East	OFF-PA-10002552	12.96	2	0	6.2208	Chuck Magee
+CA-2020-165757	2020-06-22	2020-06-28	Standard Class	PL-18925	Paul Lucas	Home Office	United States	Philadelphia	Pennsylvania	19140	East	OFF-BI-10003166	10.332	3	0.7	-7.5768	Chuck Magee
+CA-2020-165757	2020-06-22	2020-06-28	Standard Class	PL-18925	Paul Lucas	Home Office	United States	Philadelphia	Pennsylvania	19140	East	OFF-BI-10003982	31.155	5	0.7	-23.8855	Chuck Magee
+CA-2020-165757	2020-06-22	2020-06-28	Standard Class	PL-18925	Paul Lucas	Home Office	United States	Philadelphia	Pennsylvania	19140	East	OFF-ST-10004835	8.928	2	0.2	0.6696	Chuck Magee
+CA-2020-165841	2020-12-21	2020-12-28	Standard Class	DB-13210	Dean Braden	Consumer	United States	Paterson	New Jersey	7501	East	TEC-PH-10002103	281.97	3	0	78.9516	Chuck Magee
+CA-2020-165841	2020-12-21	2020-12-28	Standard Class	DB-13210	Dean Braden	Consumer	United States	Paterson	New Jersey	7501	East	OFF-SU-10000898	69.5	5	0	20.155	Chuck Magee
+CA-2020-165841	2020-12-21	2020-12-28	Standard Class	DB-13210	Dean Braden	Consumer	United States	Paterson	New Jersey	7501	East	OFF-PA-10001144	166.44	3	0	79.8912	Chuck Magee
+CA-2020-166142	2020-07-15	2020-07-19	Standard Class	MM-17260	Magdelene Morse	Consumer	United States	Wilmington	Delaware	19805	East	OFF-BI-10004094	26.55	3	0	13.0095	Chuck Magee
+CA-2020-166142	2020-07-15	2020-07-19	Standard Class	MM-17260	Magdelene Morse	Consumer	United States	Wilmington	Delaware	19805	East	FUR-TA-10004607	310.443	3	0.3	-48.7839	Chuck Magee
+CA-2020-166184	2020-03-24	2020-03-27	First Class	HR-14830	Harold Ryan	Corporate	United States	New York City	New York	10035	East	OFF-EN-10004483	47.01	3	0	22.0947	Chuck Magee
+CA-2020-166184	2020-03-24	2020-03-27	First Class	HR-14830	Harold Ryan	Corporate	United States	New York City	New York	10035	East	TEC-PH-10002624	469.99	1	0	136.2971	Chuck Magee
+CA-2020-166184	2020-03-24	2020-03-27	First Class	HR-14830	Harold Ryan	Corporate	United States	New York City	New York	10035	East	FUR-CH-10003396	207.846	3	0.1	2.3094	Chuck Magee
+CA-2020-166436	2020-11-24	2020-11-28	Standard Class	TS-21370	Todd Sumrall	Corporate	United States	New York City	New York	10035	East	OFF-PA-10001838	5.88	1	0	2.8812	Chuck Magee
+CA-2020-166436	2020-11-24	2020-11-28	Standard Class	TS-21370	Todd Sumrall	Corporate	United States	New York City	New York	10035	East	FUR-CH-10000785	977.292	6	0.1	173.7408	Chuck Magee
+CA-2020-166499	2020-03-19	2020-03-20	First Class	VG-21805	Vivek Grady	Corporate	United States	Lakewood	New Jersey	8701	East	OFF-AR-10002467	8.94	3	0	2.4138	Chuck Magee
+CA-2020-166576	2020-05-16	2020-05-18	First Class	JM-15865	John Murray	Consumer	United States	Akron	Ohio	44312	East	OFF-ST-10002574	221.024	2	0.2	-55.256	Chuck Magee
+CA-2020-166709	2020-11-17	2020-11-22	Standard Class	HL-15040	Hunter Lopez	Consumer	United States	Newark	Delaware	19711	East	TEC-CO-10004722	10499.97	3	0	5039.9856	Chuck Magee
+CA-2020-166835	2020-11-12	2020-11-14	Second Class	DK-13375	Dennis Kane	Consumer	United States	Lancaster	Pennsylvania	17602	East	OFF-ST-10002574	221.024	2	0.2	-55.256	Chuck Magee
+CA-2020-167080	2020-06-10	2020-06-14	Standard Class	LC-16930	Linda Cazamias	Corporate	United States	New York City	New York	10011	East	OFF-AR-10001868	8.4	5	0	4.2	Chuck Magee
+CA-2020-167101	2020-03-24	2020-03-28	Second Class	BM-11650	Brian Moss	Corporate	United States	New York City	New York	10009	East	OFF-PA-10000357	221.92	4	0	106.5216	Chuck Magee
+CA-2020-167101	2020-03-24	2020-03-28	Second Class	BM-11650	Brian Moss	Corporate	United States	New York City	New York	10009	East	TEC-AC-10001266	26	2	0	11.7	Chuck Magee
+CA-2020-167395	2020-12-02	2020-12-04	First Class	KM-16720	Kunst Miller	Consumer	United States	Lowell	Massachusetts	1852	East	OFF-AP-10001293	286.86	7	0	80.3208	Chuck Magee
+CA-2020-167395	2020-12-02	2020-12-04	First Class	KM-16720	Kunst Miller	Consumer	United States	Lowell	Massachusetts	1852	East	TEC-PH-10004977	979.95	5	0	284.1855	Chuck Magee
+CA-2020-167395	2020-12-02	2020-12-04	First Class	KM-16720	Kunst Miller	Consumer	United States	Lowell	Massachusetts	1852	East	OFF-SU-10001935	4.36	2	0	0.1744	Chuck Magee
+CA-2020-167542	2020-08-13	2020-08-20	Standard Class	KD-16495	Keith Dawkins	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-LA-10004093	17.544	3	0.2	5.9211	Chuck Magee
+CA-2020-167668	2020-05-06	2020-05-08	First Class	TC-21295	Toby Carlisle	Consumer	United States	New York City	New York	10035	East	OFF-LA-10004544	59.2	4	0	29.6	Chuck Magee
+CA-2020-167703	2020-02-03	2020-02-08	Standard Class	MC-17575	Matt Collins	Consumer	United States	Cincinnati	Ohio	45231	East	OFF-BI-10002071	5.229	3	0.7	-4.1832	Chuck Magee
+CA-2020-167703	2020-02-03	2020-02-08	Standard Class	MC-17575	Matt Collins	Consumer	United States	Cincinnati	Ohio	45231	East	OFF-ST-10001490	285.552	2	0.2	35.694	Chuck Magee
+CA-2020-167752	2020-01-15	2020-01-18	First Class	RW-19690	Robert Waldorf	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-AP-10000159	34.384	1	0.2	3.8682	Chuck Magee
+CA-2020-167752	2020-01-15	2020-01-18	First Class	RW-19690	Robert Waldorf	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-AP-10002945	1924.16	8	0.2	312.676	Chuck Magee
+CA-2020-167899	2020-05-21	2020-05-26	Standard Class	JG-15805	John Grady	Corporate	United States	Auburn	New York	13021	East	FUR-FU-10004071	520.05	5	0	72.807	Chuck Magee
+CA-2020-167899	2020-05-21	2020-05-26	Standard Class	JG-15805	John Grady	Corporate	United States	Auburn	New York	13021	East	OFF-AR-10001988	17.97	3	0	5.2113	Chuck Magee
+CA-2020-168172	2020-08-06	2020-08-10	Standard Class	SH-20395	Shahid Hopkins	Consumer	United States	New York City	New York	10011	East	OFF-SU-10002573	70.12	4	0	21.036	Chuck Magee
+CA-2020-168193	2020-03-06	2020-03-11	Second Class	RM-19750	Roland Murray	Consumer	United States	New York City	New York	10011	East	OFF-PA-10002254	26.38	1	0	12.1348	Chuck Magee
+CA-2020-168193	2020-03-06	2020-03-11	Second Class	RM-19750	Roland Murray	Consumer	United States	New York City	New York	10011	East	FUR-FU-10002554	71.97	3	0	16.5531	Chuck Magee
+CA-2020-168641	2020-11-24	2020-12-01	Standard Class	KA-16525	Kelly Andreada	Consumer	United States	New York City	New York	10035	East	OFF-AR-10003759	16.38	9	0	7.371	Chuck Magee
+CA-2020-168641	2020-11-24	2020-12-01	Standard Class	KA-16525	Kelly Andreada	Consumer	United States	New York City	New York	10035	East	OFF-EN-10003001	167.96	2	0	78.9412	Chuck Magee
+CA-2020-168641	2020-11-24	2020-12-01	Standard Class	KA-16525	Kelly Andreada	Consumer	United States	New York City	New York	10035	East	FUR-BO-10000780	321.568	2	0.2	-16.0784	Chuck Magee
+CA-2020-168641	2020-11-24	2020-12-01	Standard Class	KA-16525	Kelly Andreada	Consumer	United States	New York City	New York	10035	East	OFF-PA-10001972	12.96	2	0	6.2208	Chuck Magee
+CA-2020-168858	2020-11-19	2020-11-23	Standard Class	JD-16150	Justin Deggeller	Corporate	United States	New York City	New York	10011	East	OFF-EN-10001415	16.74	3	0	8.37	Chuck Magee
+CA-2020-168858	2020-11-19	2020-11-23	Standard Class	JD-16150	Justin Deggeller	Corporate	United States	New York City	New York	10011	East	OFF-AP-10003849	2504.74	7	0	626.185	Chuck Magee
+CA-2020-168900	2020-05-04	2020-05-09	Standard Class	SH-20395	Shahid Hopkins	Consumer	United States	Springfield	Ohio	45503	East	OFF-BI-10003910	2.313	1	0.7	-1.9275	Chuck Magee
+CA-2020-169054	2020-04-22	2020-04-26	Standard Class	MO-17800	Meg O'Connel	Home Office	United States	Philadelphia	Pennsylvania	19140	East	FUR-FU-10001488	254.352	3	0.2	0	Chuck Magee
+CA-2020-169404	2020-04-09	2020-04-14	Standard Class	NC-18625	Noah Childs	Corporate	United States	York	Pennsylvania	17403	East	OFF-BI-10004492	37.896	4	0.7	-29.0536	Chuck Magee
+CA-2020-169404	2020-04-09	2020-04-14	Standard Class	NC-18625	Noah Childs	Corporate	United States	York	Pennsylvania	17403	East	OFF-PA-10001033	65.584	2	0.2	23.7742	Chuck Magee
+CA-2020-169411	2020-12-24	2020-12-29	Standard Class	AC-10615	Ann Chong	Corporate	United States	Rochester	New York	14609	East	FUR-FU-10001602	37.93	1	0	6.8274	Chuck Magee
+CA-2020-169439	2020-09-09	2020-09-13	Standard Class	LC-17140	Logan Currie	Consumer	United States	Cleveland	Ohio	44105	East	OFF-AR-10001374	25.92	5	0.2	3.888	Chuck Magee
+CA-2020-169439	2020-09-09	2020-09-13	Standard Class	LC-17140	Logan Currie	Consumer	United States	Cleveland	Ohio	44105	East	FUR-FU-10000723	66.112	2	0.2	-9.0904	Chuck Magee
+CA-2020-169474	2020-02-04	2020-02-09	Standard Class	JF-15355	Jay Fein	Consumer	United States	Rochester	New York	14609	East	OFF-AP-10003971	32.67	3	0	8.4942	Chuck Magee
+CA-2020-169607	2020-10-12	2020-10-15	First Class	CA-12265	Christina Anderson	Consumer	United States	New York City	New York	10024	East	OFF-PA-10000477	9.96	2	0	4.6812	Chuck Magee
+CA-2020-169817	2020-09-21	2020-09-25	Standard Class	EB-13870	Emily Burns	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-BI-10004141	1.908	2	0.7	-1.5264	Chuck Magee
+CA-2020-169978	2020-12-24	2020-12-28	Standard Class	HG-15025	Hunter Glantz	Consumer	United States	Oceanside	New York	11572	East	FUR-CH-10002602	271.764	2	0.1	48.3136	Chuck Magee
+CA-2020-169978	2020-12-24	2020-12-28	Standard Class	HG-15025	Hunter Glantz	Consumer	United States	Oceanside	New York	11572	East	OFF-BI-10001900	14.376	3	0.2	4.8519	Chuck Magee
+CA-2020-169999	2020-06-19	2020-06-26	Standard Class	JS-15685	Jim Sink	Corporate	United States	New York City	New York	10035	East	OFF-ST-10001511	129.3	2	0	6.465	Chuck Magee
+CA-2020-169999	2020-06-19	2020-06-26	Standard Class	JS-15685	Jim Sink	Corporate	United States	New York City	New York	10035	East	OFF-BI-10004728	11.568	3	0.2	3.7596	Chuck Magee
+US-2020-100048	2020-05-19	2020-05-24	Standard Class	RS-19765	Roland Schwarz	Corporate	United States	Mount Vernon	New York	10550	East	OFF-AP-10001154	281.34	6	0	109.7226	Chuck Magee
+US-2020-100048	2020-05-19	2020-05-24	Standard Class	RS-19765	Roland Schwarz	Corporate	United States	Mount Vernon	New York	10550	East	TEC-PH-10003012	307.98	2	0	89.3142	Chuck Magee
+US-2020-100048	2020-05-19	2020-05-24	Standard Class	RS-19765	Roland Schwarz	Corporate	United States	Mount Vernon	New York	10550	East	TEC-AC-10001606	299.97	3	0	113.9886	Chuck Magee
+US-2020-100482	2020-04-11	2020-04-15	Standard Class	JL-15130	Jack Lebron	Consumer	United States	Lancaster	Ohio	43130	East	OFF-ST-10001325	16.768	2	0.2	1.4672	Chuck Magee
+US-2020-100482	2020-04-11	2020-04-15	Standard Class	JL-15130	Jack Lebron	Consumer	United States	Lancaster	Ohio	43130	East	TEC-AC-10003441	27.12	2	0.2	-4.746	Chuck Magee
+US-2020-101518	2020-11-03	2020-11-08	Standard Class	PB-19105	Peter Bühler	Consumer	United States	Philadelphia	Pennsylvania	19140	East	TEC-AC-10001553	40.776	3	0.2	0.5097	Chuck Magee
+US-2020-101840	2020-02-06	2020-02-12	Standard Class	SP-20545	Sibella Parks	Corporate	United States	New York City	New York	10024	East	TEC-PH-10002538	227.46	6	0	65.9634	Chuck Magee
+US-2020-101840	2020-02-06	2020-02-12	Standard Class	SP-20545	Sibella Parks	Corporate	United States	New York City	New York	10024	East	OFF-BI-10000279	46.24	4	0.2	15.606	Chuck Magee
+US-2020-102183	2020-08-21	2020-08-28	Standard Class	PK-19075	Pete Kriz	Consumer	United States	New York City	New York	10035	East	OFF-BI-10003476	32.088	7	0.2	11.2308	Chuck Magee
+US-2020-102183	2020-08-21	2020-08-28	Standard Class	PK-19075	Pete Kriz	Consumer	United States	New York City	New York	10035	East	OFF-BI-10001359	4305.552	6	0.2	1453.1238	Chuck Magee
+US-2020-102638	2020-12-29	2020-12-31	First Class	MC-17845	Michael Chen	Consumer	United States	New York City	New York	10035	East	OFF-FA-10002988	6.03	3	0	2.9547	Chuck Magee
+US-2020-102890	2020-06-30	2020-06-30	Same Day	SG-20470	Sheri Gordon	Consumer	United States	New York City	New York	10011	East	FUR-TA-10000577	1044.63	5	0.4	-295.9785	Chuck Magee
+US-2020-103247	2020-10-05	2020-10-08	Second Class	PO-19195	Phillina Ober	Home Office	United States	New York City	New York	10011	East	TEC-PH-10003555	160.93	7	0	3.2186	Chuck Magee
+US-2020-103247	2020-10-05	2020-10-08	Second Class	PO-19195	Phillina Ober	Home Office	United States	New York City	New York	10011	East	OFF-BI-10004492	75.792	3	0.2	25.5798	Chuck Magee
+US-2020-104437	2020-01-27	2020-01-31	Standard Class	TG-21310	Toby Gnade	Consumer	United States	New York City	New York	10035	East	TEC-PH-10000193	137.94	3	0	35.8644	Chuck Magee
+US-2020-104955	2020-03-19	2020-03-24	Standard Class	CG-12040	Catherine Glotzbach	Home Office	United States	New York City	New York	10024	East	OFF-LA-10003121	28.91	7	0	13.2986	Chuck Magee
+US-2020-105046	2020-07-17	2020-07-23	Standard Class	BE-11335	Bill Eplett	Home Office	United States	Rome	New York	13440	East	TEC-PH-10004536	269.98	2	0	67.495	Chuck Magee
+US-2020-105046	2020-07-17	2020-07-23	Standard Class	BE-11335	Bill Eplett	Home Office	United States	Rome	New York	13440	East	OFF-PA-10004353	99.9	5	0	47.952	Chuck Magee
+US-2020-105046	2020-07-17	2020-07-23	Standard Class	BE-11335	Bill Eplett	Home Office	United States	Rome	New York	13440	East	FUR-FU-10004848	39.08	4	0	14.4596	Chuck Magee
+US-2020-105697	2020-08-25	2020-08-27	First Class	JE-15715	Joe Elijah	Consumer	United States	Cleveland	Ohio	44105	East	OFF-ST-10003996	25.696	2	0.2	1.9272	Chuck Magee
+US-2020-106796	2020-05-12	2020-05-19	Standard Class	JP-16135	Julie Prescott	Home Office	United States	Springfield	Ohio	45503	East	OFF-AR-10003504	10.272	3	0.2	1.1556	Chuck Magee
+US-2020-107636	2020-04-30	2020-05-02	First Class	NM-18520	Neoma Murray	Consumer	United States	Manchester	Connecticut	6040	East	OFF-LA-10003388	5.76	2	0	2.8224	Chuck Magee
+US-2020-108014	2020-11-19	2020-11-25	Standard Class	JH-15430	Jennifer Halladay	Consumer	United States	Cleveland	Ohio	44105	East	OFF-BI-10003984	59.913	7	0.7	-45.9333	Chuck Magee
+US-2020-108343	2020-07-20	2020-07-25	Standard Class	AR-10825	Anthony Rawles	Corporate	United States	New York City	New York	10009	East	OFF-PA-10000743	13.36	2	0	6.4128	Chuck Magee
+US-2020-108343	2020-07-20	2020-07-25	Standard Class	AR-10825	Anthony Rawles	Corporate	United States	New York City	New York	10009	East	FUR-CH-10002780	163.764	2	0.1	25.4744	Chuck Magee
+US-2020-108343	2020-07-20	2020-07-25	Standard Class	AR-10825	Anthony Rawles	Corporate	United States	New York City	New York	10009	East	FUR-FU-10000747	183.92	4	0	31.2664	Chuck Magee
+US-2020-110149	2020-12-10	2020-12-13	First Class	WB-21850	William Brown	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-BI-10000014	3.273	1	0.7	-2.5093	Chuck Magee
+US-2020-110149	2020-12-10	2020-12-13	First Class	WB-21850	William Brown	Consumer	United States	Philadelphia	Pennsylvania	19143	East	FUR-FU-10001475	87.92	5	0.2	15.386	Chuck Magee
+US-2020-110576	2020-11-28	2020-12-02	Standard Class	RB-19795	Ross Baird	Home Office	United States	Philadelphia	Pennsylvania	19120	East	FUR-FU-10003601	516.488	7	0.2	-12.9122	Chuck Magee
+US-2020-110576	2020-11-28	2020-12-02	Standard Class	RB-19795	Ross Baird	Home Office	United States	Philadelphia	Pennsylvania	19120	East	FUR-FU-10000576	1007.232	6	0.2	75.5424	Chuck Magee
+US-2020-110576	2020-11-28	2020-12-02	Standard Class	RB-19795	Ross Baird	Home Office	United States	Philadelphia	Pennsylvania	19120	East	FUR-TA-10004154	2065.32	12	0.4	-619.596	Chuck Magee
+US-2020-110576	2020-11-28	2020-12-02	Standard Class	RB-19795	Ross Baird	Home Office	United States	Philadelphia	Pennsylvania	19120	East	OFF-PA-10000788	15.552	3	0.2	5.4432	Chuck Magee
+US-2020-110576	2020-11-28	2020-12-02	Standard Class	RB-19795	Ross Baird	Home Office	United States	Philadelphia	Pennsylvania	19120	East	OFF-PA-10002479	25.344	6	0.2	7.92	Chuck Magee
+US-2020-110646	2020-10-26	2020-10-31	Standard Class	JF-15190	Jamie Frazer	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-BI-10004330	33.282	3	0.7	-27.735	Chuck Magee
+US-2020-110646	2020-10-26	2020-10-31	Standard Class	JF-15190	Jamie Frazer	Consumer	United States	Philadelphia	Pennsylvania	19134	East	TEC-PH-10002807	118.65	5	0.4	19.775	Chuck Magee
+US-2020-110646	2020-10-26	2020-10-31	Standard Class	JF-15190	Jamie Frazer	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-LA-10001404	14.76	5	0.2	4.9815	Chuck Magee
+US-2020-111024	2020-07-03	2020-07-06	Second Class	SZ-20035	Sam Zeldin	Home Office	United States	Lancaster	Ohio	43130	East	OFF-PA-10000174	32.896	4	0.2	11.1024	Chuck Magee
+US-2020-111024	2020-07-03	2020-07-06	Second Class	SZ-20035	Sam Zeldin	Home Office	United States	Lancaster	Ohio	43130	East	FUR-TA-10002041	215.148	2	0.4	-103.9882	Chuck Magee
+US-2020-111024	2020-07-03	2020-07-06	Second Class	SZ-20035	Sam Zeldin	Home Office	United States	Lancaster	Ohio	43130	East	OFF-PA-10002246	30.96	6	0.2	11.223	Chuck Magee
+US-2020-111423	2020-08-17	2020-08-19	First Class	EH-13765	Edward Hooks	Corporate	United States	Watertown	New York	13601	East	OFF-BI-10003091	895.92	5	0.2	302.373	Chuck Magee
+US-2020-111423	2020-08-17	2020-08-19	First Class	EH-13765	Edward Hooks	Corporate	United States	Watertown	New York	13601	East	FUR-CH-10003981	462.564	2	0.1	97.6524	Chuck Magee
+US-2020-112928	2020-06-01	2020-06-05	Second Class	BB-10990	Barry Blumstein	Corporate	United States	Toledo	Ohio	43615	East	OFF-AP-10002287	17.48	5	0.2	1.311	Chuck Magee
+US-2020-114657	2020-11-16	2020-11-21	Standard Class	MH-18115	Mick Hernandez	Home Office	United States	Yonkers	New York	10701	East	TEC-MA-10003173	52.44	4	0	24.1224	Chuck Magee
+US-2020-116505	2020-11-17	2020-11-21	Second Class	TB-21625	Trudy Brown	Consumer	United States	Hagerstown	Maryland	21740	East	OFF-BI-10000050	43.8	6	0	20.586	Chuck Magee
+US-2020-116659	2020-11-12	2020-11-12	Same Day	NG-18355	Nat Gilpin	Corporate	United States	Newark	Ohio	43055	East	TEC-PH-10002824	370.782	3	0.4	-92.6955	Chuck Magee
+US-2020-117723	2020-08-15	2020-08-18	Second Class	DL-13495	Dionis Lloyd	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-ST-10004459	1801.632	6	0.2	-337.806	Chuck Magee
+US-2020-118087	2020-09-09	2020-09-13	Standard Class	SP-20620	Stefania Perrino	Corporate	United States	Philadelphia	Pennsylvania	19134	East	FUR-CH-10004860	141.372	2	0.3	-48.4704	Chuck Magee
+US-2020-118087	2020-09-09	2020-09-13	Standard Class	SP-20620	Stefania Perrino	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-BI-10002432	3.036	2	0.7	-2.3276	Chuck Magee
+US-2020-118087	2020-09-09	2020-09-13	Standard Class	SP-20620	Stefania Perrino	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-BI-10000069	4.503	1	0.7	-3.6024	Chuck Magee
+US-2020-118087	2020-09-09	2020-09-13	Standard Class	SP-20620	Stefania Perrino	Corporate	United States	Philadelphia	Pennsylvania	19134	East	OFF-AR-10003602	4.672	1	0.2	1.5768	Chuck Magee
+US-2020-118087	2020-09-09	2020-09-13	Standard Class	SP-20620	Stefania Perrino	Corporate	United States	Philadelphia	Pennsylvania	19134	East	TEC-AC-10004469	95.88	3	0.2	28.764	Chuck Magee
+US-2020-118087	2020-09-09	2020-09-13	Standard Class	SP-20620	Stefania Perrino	Corporate	United States	Philadelphia	Pennsylvania	19134	East	FUR-FU-10001867	17.024	2	0.2	1.7024	Chuck Magee
+US-2020-118087	2020-09-09	2020-09-13	Standard Class	SP-20620	Stefania Perrino	Corporate	United States	Philadelphia	Pennsylvania	19134	East	TEC-AC-10003174	258.696	3	0.2	64.674	Chuck Magee
+US-2020-118087	2020-09-09	2020-09-13	Standard Class	SP-20620	Stefania Perrino	Corporate	United States	Philadelphia	Pennsylvania	19134	East	TEC-PH-10002200	1931.958	7	0.4	-386.3916	Chuck Magee
+US-2020-118535	2020-02-11	2020-02-15	Standard Class	DJ-13510	Don Jones	Corporate	United States	New York City	New York	10024	East	OFF-LA-10001297	20.7	2	0	9.936	Chuck Magee
+US-2020-118598	2020-11-16	2020-11-16	Same Day	CM-12190	Charlotte Melton	Consumer	United States	Utica	New York	13501	East	TEC-PH-10002583	119.94	6	0	5.997	Chuck Magee
+US-2020-118941	2020-08-12	2020-08-12	Same Day	BB-11545	Brenda Bowman	Corporate	United States	Columbia	Maryland	21044	East	OFF-AR-10004078	17.52	3	0	5.256	Chuck Magee
+US-2020-118941	2020-08-12	2020-08-12	Same Day	BB-11545	Brenda Bowman	Corporate	United States	Columbia	Maryland	21044	East	FUR-CH-10002331	1779.9	5	0	373.779	Chuck Magee
+US-2020-118941	2020-08-12	2020-08-12	Same Day	BB-11545	Brenda Bowman	Corporate	United States	Columbia	Maryland	21044	East	OFF-AR-10001953	219.9	5	0	59.373	Chuck Magee
+US-2020-120089	2020-11-30	2020-11-30	Same Day	ML-17755	Max Ludwig	Home Office	United States	Toledo	Ohio	43615	East	OFF-AP-10003779	663.936	4	0.2	82.992	Chuck Magee
+US-2020-120649	2020-01-20	2020-01-26	Standard Class	JF-15490	Jeremy Farry	Consumer	United States	Waterbury	Connecticut	6708	East	OFF-AR-10001545	3.52	2	0	1.0208	Chuck Magee
+US-2020-120908	2020-09-30	2020-10-02	First Class	BF-10975	Barbara Fisher	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-LA-10004677	20.664	7	0.2	6.9741	Chuck Magee
+US-2020-121251	2020-03-26	2020-03-27	First Class	GM-14440	Gary McGarr	Consumer	United States	New York City	New York	10009	East	FUR-BO-10001918	257.568	2	0.2	-28.9764	Chuck Magee
+US-2020-121251	2020-03-26	2020-03-27	First Class	GM-14440	Gary McGarr	Consumer	United States	New York City	New York	10009	East	TEC-PH-10004896	119.96	4	0	33.5888	Chuck Magee
+US-2020-122672	2020-11-04	2020-11-09	Standard Class	HG-14965	Henry Goldwyn	Corporate	United States	Lancaster	Ohio	43130	East	TEC-AC-10002323	70.72	4	0.2	-6.188	Chuck Magee
+US-2020-122672	2020-11-04	2020-11-09	Standard Class	HG-14965	Henry Goldwyn	Corporate	United States	Lancaster	Ohio	43130	East	OFF-ST-10002344	194.352	3	0.2	-43.7292	Chuck Magee
+US-2020-123204	2020-07-21	2020-07-27	Standard Class	CS-11860	Cari Schnelling	Consumer	United States	New York City	New York	10024	East	OFF-AP-10002287	17.48	4	0	4.5448	Chuck Magee
+US-2020-124303	2020-07-06	2020-07-13	Standard Class	FH-14365	Fred Hopkins	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-BI-10000343	2.946	2	0.7	-2.2586	Chuck Magee
+US-2020-124303	2020-07-06	2020-07-13	Standard Class	FH-14365	Fred Hopkins	Corporate	United States	Philadelphia	Pennsylvania	19120	East	OFF-PA-10002749	16.056	3	0.2	5.8203	Chuck Magee
+US-2020-125213	2020-12-11	2020-12-13	First Class	NB-18655	Nona Balk	Corporate	United States	Paterson	New Jersey	7501	East	OFF-FA-10001561	6.54	3	0	2.1582	Chuck Magee
+US-2020-126053	2020-12-05	2020-12-08	First Class	CS-11950	Carlos Soltero	Consumer	United States	New York City	New York	10024	East	FUR-FU-10001934	41.96	2	0	10.9096	Chuck Magee
+US-2020-126053	2020-12-05	2020-12-08	First Class	CS-11950	Carlos Soltero	Consumer	United States	New York City	New York	10024	East	OFF-LA-10003766	9.45	3	0	4.536	Chuck Magee
+US-2020-127292	2020-01-19	2020-01-23	Standard Class	RM-19375	Raymond Messe	Consumer	United States	Burlington	Vermont		East	OFF-PA-10000157	79.92	4	0	37.5624	Chuck Magee
+US-2020-127292	2020-01-19	2020-01-23	Standard Class	RM-19375	Raymond Messe	Consumer	United States	Burlington	Vermont		East	OFF-PA-10001970	12.28	1	0	5.7716	Chuck Magee
+US-2020-127292	2020-01-19	2020-01-23	Standard Class	RM-19375	Raymond Messe	Consumer	United States	Burlington	Vermont		East	OFF-AP-10000828	542.94	3	0	152.0232	Chuck Magee
+US-2020-127292	2020-01-19	2020-01-23	Standard Class	RM-19375	Raymond Messe	Consumer	United States	Burlington	Vermont		East	OFF-EN-10001509	2.04	1	0	0.9588	Chuck Magee
+US-2020-127719	2020-07-21	2020-07-25	Standard Class	TW-21025	Tamara Willingham	Home Office	United States	Plainfield	New Jersey	7060	East	OFF-PA-10001934	6.48	1	0	3.1752	Chuck Magee
+US-2020-128832	2020-04-24	2020-04-27	First Class	LS-16945	Linda Southworth	Corporate	United States	Providence	Rhode Island	2908	East	TEC-AC-10004855	69.98	2	0	4.8986	Chuck Magee
+US-2020-129777	2020-07-03	2020-07-09	Standard Class	FM-14290	Frank Merwin	Home Office	United States	Quincy	Massachusetts	2169	East	TEC-AC-10003590	258.9	10	0	93.204	Chuck Magee
+US-2020-129777	2020-07-03	2020-07-09	Standard Class	FM-14290	Frank Merwin	Home Office	United States	Quincy	Massachusetts	2169	East	OFF-PA-10001970	24.56	2	0	11.5432	Chuck Magee
+US-2020-131583	2020-06-10	2020-06-10	Same Day	CL-11890	Carl Ludwig	Consumer	United States	Philadelphia	Pennsylvania	19143	East	OFF-PA-10000380	40.032	6	0.2	15.012	Chuck Magee
+US-2020-131961	2020-12-08	2020-12-11	First Class	MJ-17740	Max Jones	Consumer	United States	Philadelphia	Pennsylvania	19140	East	OFF-AR-10004441	13.248	4	0.2	3.6432	Chuck Magee
+US-2020-131961	2020-12-08	2020-12-11	First Class	MJ-17740	Max Jones	Consumer	United States	Philadelphia	Pennsylvania	19140	East	TEC-PH-10001924	83.988	2	0.4	-20.997	Chuck Magee
+US-2020-132381	2020-08-22	2020-08-24	First Class	Dp-13240	Dean percer	Home Office	United States	Philadelphia	Pennsylvania	19143	East	FUR-TA-10002356	314.532	2	0.4	-83.8752	Chuck Magee
+US-2020-132927	2020-12-09	2020-12-15	Standard Class	RD-19720	Roger Demir	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-BI-10001116	11.088	7	0.7	-8.1312	Chuck Magee
+US-2020-133081	2020-03-11	2020-03-15	Standard Class	PV-18985	Paul Van Hugh	Home Office	United States	Cambridge	Massachusetts	2138	East	TEC-AC-10001772	63.88	4	0	24.9132	Chuck Magee
+US-2020-133081	2020-03-11	2020-03-15	Standard Class	PV-18985	Paul Van Hugh	Home Office	United States	Cambridge	Massachusetts	2138	East	FUR-FU-10001379	26.72	1	0	11.7568	Chuck Magee
+US-2020-133361	2020-05-14	2020-05-17	First Class	AJ-10780	Anthony Jacobs	Corporate	United States	Baltimore	Maryland	21215	East	OFF-AR-10001919	3.76	2	0	1.0904	Chuck Magee
+US-2020-133361	2020-05-14	2020-05-17	First Class	AJ-10780	Anthony Jacobs	Corporate	United States	Baltimore	Maryland	21215	East	OFF-AR-10003045	14.7	5	0	6.615	Chuck Magee
+US-2020-133361	2020-05-14	2020-05-17	First Class	AJ-10780	Anthony Jacobs	Corporate	United States	Baltimore	Maryland	21215	East	OFF-AR-10003338	37.2	5	0	9.3	Chuck Magee
+US-2020-133361	2020-05-14	2020-05-17	First Class	AJ-10780	Anthony Jacobs	Corporate	United States	Baltimore	Maryland	21215	East	TEC-AC-10003280	89.97	3	0	18.8937	Chuck Magee
+US-2020-133361	2020-05-14	2020-05-17	First Class	AJ-10780	Anthony Jacobs	Corporate	United States	Baltimore	Maryland	21215	East	FUR-CH-10003298	261.96	2	0	23.5764	Chuck Magee
+US-2020-133361	2020-05-14	2020-05-17	First Class	AJ-10780	Anthony Jacobs	Corporate	United States	Baltimore	Maryland	21215	East	OFF-LA-10004544	74	5	0	37	Chuck Magee
+US-2020-134481	2020-08-27	2020-09-01	Standard Class	AR-10405	Allen Rosenblatt	Corporate	United States	Franklin	Massachusetts	2038	East	FUR-TA-10004915	1488.424	7	0.3	-297.6848	Chuck Magee
+US-2020-136868	2020-10-06	2020-10-12	Standard Class	CR-12820	Cyra Reiten	Home Office	United States	New York City	New York	10035	East	TEC-AC-10001539	319.96	4	0	115.1856	Chuck Magee
+US-2020-136868	2020-10-06	2020-10-12	Standard Class	CR-12820	Cyra Reiten	Home Office	United States	New York City	New York	10035	East	OFF-PA-10002377	17.04	3	0	7.668	Chuck Magee
+US-2020-136868	2020-10-06	2020-10-12	Standard Class	CR-12820	Cyra Reiten	Home Office	United States	New York City	New York	10035	East	OFF-ST-10000991	344.91	3	0	10.3473	Chuck Magee
+US-2020-139465	2020-08-27	2020-08-30	First Class	MR-17545	Mathew Reese	Home Office	United States	New York City	New York	10024	East	OFF-ST-10002352	63.84	8	0	16.5984	Chuck Magee
+US-2020-139465	2020-08-27	2020-08-30	First Class	MR-17545	Mathew Reese	Home Office	United States	New York City	New York	10024	East	TEC-PH-10000455	347.97	3	0	100.9113	Chuck Magee
+US-2020-139465	2020-08-27	2020-08-30	First Class	MR-17545	Mathew Reese	Home Office	United States	New York City	New York	10024	East	OFF-BI-10003910	37.008	6	0.2	11.565	Chuck Magee
+US-2020-140074	2020-03-23	2020-03-29	Standard Class	EC-14050	Erin Creighton	Consumer	United States	New York City	New York	10024	East	OFF-PA-10002741	25.68	6	0	11.556	Chuck Magee
+US-2020-141558	2020-03-11	2020-03-16	Standard Class	MH-17290	Marc Harrigan	Home Office	United States	Philadelphia	Pennsylvania	19140	East	TEC-PH-10002555	776.85	5	0.4	-181.265	Chuck Magee
+US-2020-141558	2020-03-11	2020-03-16	Standard Class	MH-17290	Marc Harrigan	Home Office	United States	Philadelphia	Pennsylvania	19140	East	OFF-BI-10002794	12.294	1	0.7	-8.6058	Chuck Magee
+US-2020-141558	2020-03-11	2020-03-16	Standard Class	MH-17290	Marc Harrigan	Home Office	United States	Philadelphia	Pennsylvania	19140	East	FUR-TA-10004086	154.764	3	0.4	-46.4292	Chuck Magee
+US-2020-141558	2020-03-11	2020-03-16	Standard Class	MH-17290	Marc Harrigan	Home Office	United States	Philadelphia	Pennsylvania	19140	East	OFF-ST-10004946	43.28	1	0.2	3.246	Chuck Magee
+US-2020-143770	2020-03-20	2020-03-24	Standard Class	RD-19720	Roger Demir	Consumer	United States	Middletown	Connecticut	6457	East	TEC-AC-10002842	238	2	0	38.08	Chuck Magee
+US-2020-143770	2020-03-20	2020-03-24	Standard Class	RD-19720	Roger Demir	Consumer	United States	Middletown	Connecticut	6457	East	OFF-PA-10001125	61.96	2	0	27.882	Chuck Magee
+US-2020-145366	2020-12-09	2020-12-13	Standard Class	CA-12310	Christine Abelman	Corporate	United States	Cincinnati	Ohio	45231	East	OFF-ST-10004180	37.208	1	0.2	-7.4416	Chuck Magee
+US-2020-145366	2020-12-09	2020-12-13	Standard Class	CA-12310	Christine Abelman	Corporate	United States	Cincinnati	Ohio	45231	East	OFF-EN-10004386	57.576	3	0.2	21.591	Chuck Magee
+US-2020-146906	2020-03-13	2020-03-17	Standard Class	MT-17815	Meg Tillman	Consumer	United States	New York City	New York	10011	East	TEC-PH-10001809	299.9	2	0	74.975	Chuck Magee
+US-2020-147669	2020-12-25	2020-12-30	Standard Class	SV-20935	Susan Vittorini	Consumer	United States	Fairfield	Ohio	45014	East	TEC-AC-10002473	158.928	7	0.2	41.7186	Chuck Magee
+US-2020-147669	2020-12-25	2020-12-30	Standard Class	SV-20935	Susan Vittorini	Consumer	United States	Fairfield	Ohio	45014	East	OFF-BI-10000632	13.023	1	0.7	-10.4184	Chuck Magee
+US-2020-147669	2020-12-25	2020-12-30	Standard Class	SV-20935	Susan Vittorini	Consumer	United States	Fairfield	Ohio	45014	East	FUR-TA-10002645	273.06	2	0.4	-104.673	Chuck Magee
+US-2020-147669	2020-12-25	2020-12-30	Standard Class	SV-20935	Susan Vittorini	Consumer	United States	Fairfield	Ohio	45014	East	OFF-FA-10002975	39.312	13	0.2	12.7764	Chuck Magee
+US-2020-148866	2020-09-19	2020-09-24	Standard Class	JM-15535	Jessica Myrick	Consumer	United States	New York City	New York	10011	East	OFF-PA-10004782	32.4	5	0	15.552	Chuck Magee
+US-2020-150847	2020-04-30	2020-05-06	Standard Class	JF-15490	Jeremy Farry	Consumer	United States	Columbus	Ohio	43229	East	OFF-PA-10004451	10.368	2	0.2	3.6288	Chuck Magee
+US-2020-154851	2020-03-30	2020-04-03	Standard Class	BP-11155	Becky Pak	Consumer	United States	Lancaster	Pennsylvania	17602	East	OFF-BI-10001525	5.715	5	0.7	-4.7625	Chuck Magee
+US-2020-154872	2020-05-14	2020-05-18	Standard Class	DP-13000	Darren Powers	Consumer	United States	Cleveland	Ohio	44105	East	OFF-BI-10003007	58.17	5	0.7	-46.536	Chuck Magee
+US-2020-154872	2020-05-14	2020-05-18	Standard Class	DP-13000	Darren Powers	Consumer	United States	Cleveland	Ohio	44105	East	OFF-LA-10000973	5.04	2	0.2	1.764	Chuck Magee
+US-2020-154872	2020-05-14	2020-05-18	Standard Class	DP-13000	Darren Powers	Consumer	United States	Cleveland	Ohio	44105	East	OFF-PA-10000483	24.784	1	0.2	7.745	Chuck Magee
+US-2020-155866	2020-11-17	2020-11-21	Standard Class	CC-12370	Christopher Conant	Consumer	United States	New York City	New York	10011	East	OFF-PA-10004735	38.88	6	0	18.6624	Chuck Magee
+US-2020-155866	2020-11-17	2020-11-21	Standard Class	CC-12370	Christopher Conant	Consumer	United States	New York City	New York	10011	East	FUR-FU-10004091	187.76	4	0	76.9816	Chuck Magee
+US-2020-156909	2020-07-16	2020-07-18	Second Class	SF-20065	Sandra Flanagan	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-CH-10002774	71.372	2	0.3	-1.0196	Chuck Magee
+US-2020-157896	2020-11-16	2020-11-16	Same Day	CB-12415	Christy Brittain	Consumer	United States	New York City	New York	10009	East	OFF-PA-10004092	146.82	3	0	73.41	Chuck Magee
+US-2020-158512	2020-01-12	2020-01-17	Second Class	DA-13450	Dianna Arnett	Home Office	United States	Washington	District of Columbia	20016	East	OFF-PA-10001804	40.08	6	0	19.2384	Chuck Magee
+US-2020-158512	2020-01-12	2020-01-17	Second Class	DA-13450	Dianna Arnett	Home Office	United States	Washington	District of Columbia	20016	East	FUR-FU-10004973	37.68	2	0	15.8256	Chuck Magee
+US-2020-158946	2020-11-18	2020-11-23	Standard Class	JW-15220	Jane Waco	Corporate	United States	Lakewood	Ohio	44107	East	OFF-AR-10001860	38.864	7	0.2	7.7728	Chuck Magee
+US-2020-160465	2020-07-21	2020-07-26	Standard Class	SW-20350	Sean Wendt	Home Office	United States	Cleveland	Ohio	44105	East	OFF-BI-10001670	33.93	3	0.7	-22.62	Chuck Magee
+US-2020-160465	2020-07-21	2020-07-26	Standard Class	SW-20350	Sean Wendt	Home Office	United States	Cleveland	Ohio	44105	East	OFF-ST-10000136	222.32	7	0.2	25.011	Chuck Magee
+US-2020-160465	2020-07-21	2020-07-26	Standard Class	SW-20350	Sean Wendt	Home Office	United States	Cleveland	Ohio	44105	East	TEC-PH-10004522	210.564	6	0.4	-52.641	Chuck Magee
+US-2020-160759	2020-12-11	2020-12-17	Standard Class	AI-10855	Arianne Irving	Consumer	United States	Philadelphia	Pennsylvania	19120	East	FUR-CH-10002961	63.686	1	0.3	-9.098	Chuck Magee
+US-2020-161193	2020-11-20	2020-11-26	Standard Class	BT-11680	Brian Thompson	Consumer	United States	Newark	Ohio	43055	East	FUR-FU-10001861	77.6	5	0.2	28.13	Chuck Magee
+US-2020-161193	2020-11-20	2020-11-26	Standard Class	BT-11680	Brian Thompson	Consumer	United States	Newark	Ohio	43055	East	FUR-FU-10000206	4.656	2	0.2	1.5714	Chuck Magee
+US-2020-161935	2020-07-14	2020-07-18	Standard Class	JL-15835	John Lee	Consumer	United States	Columbus	Ohio	43229	East	OFF-PA-10000605	9.248	2	0.2	3.3524	Chuck Magee
+US-2020-161935	2020-07-14	2020-07-18	Standard Class	JL-15835	John Lee	Consumer	United States	Columbus	Ohio	43229	East	TEC-PH-10000560	1889.946	9	0.4	-377.9892	Chuck Magee
+US-2020-161935	2020-07-14	2020-07-18	Standard Class	JL-15835	John Lee	Consumer	United States	Columbus	Ohio	43229	East	OFF-ST-10003455	62.04	5	0.2	4.653	Chuck Magee
+US-2020-161935	2020-07-14	2020-07-18	Standard Class	JL-15835	John Lee	Consumer	United States	Columbus	Ohio	43229	East	FUR-FU-10002937	396.92	5	0.2	148.845	Chuck Magee
+US-2020-161935	2020-07-14	2020-07-18	Standard Class	JL-15835	John Lee	Consumer	United States	Columbus	Ohio	43229	East	OFF-ST-10001837	239.456	7	0.2	17.9592	Chuck Magee
+US-2020-161935	2020-07-14	2020-07-18	Standard Class	JL-15835	John Lee	Consumer	United States	Columbus	Ohio	43229	East	OFF-AR-10004757	13.12	5	0.2	2.132	Chuck Magee
+US-2020-164056	2020-04-29	2020-05-04	Second Class	FM-14215	Filia McAdams	Corporate	United States	Dublin	Ohio	43017	East	FUR-TA-10001307	1048.35	5	0.4	-69.89	Chuck Magee
+US-2020-164147	2020-02-02	2020-02-05	First Class	DW-13585	Dorothy Wardle	Corporate	United States	Columbus	Ohio	43229	East	TEC-PH-10002293	59.97	5	0.4	-11.994	Chuck Magee
+US-2020-164147	2020-02-02	2020-02-05	First Class	DW-13585	Dorothy Wardle	Corporate	United States	Columbus	Ohio	43229	East	OFF-PA-10002377	78.304	2	0.2	29.364	Chuck Magee
+US-2020-164147	2020-02-02	2020-02-05	First Class	DW-13585	Dorothy Wardle	Corporate	United States	Columbus	Ohio	43229	East	OFF-FA-10002780	21.456	9	0.2	6.9732	Chuck Magee
+US-2020-165344	2020-11-13	2020-11-15	First Class	SB-20290	Sean Braxton	Corporate	United States	Springfield	Ohio	45503	East	TEC-AC-10002399	60.864	4	0.2	9.1296	Chuck Magee
+US-2020-165344	2020-11-13	2020-11-15	First Class	SB-20290	Sean Braxton	Corporate	United States	Springfield	Ohio	45503	East	TEC-MA-10002210	652.995	7	0.7	-935.9595	Chuck Magee
+US-2020-165344	2020-11-13	2020-11-15	First Class	SB-20290	Sean Braxton	Corporate	United States	Springfield	Ohio	45503	East	OFF-BI-10003196	11.22	10	0.7	-7.48	Chuck Magee
+US-2020-165358	2020-07-18	2020-07-23	Standard Class	SV-20365	Seth Vernon	Consumer	United States	Philadelphia	Pennsylvania	19134	East	TEC-CO-10001943	599.97	5	0.4	69.9965	Chuck Magee
+US-2020-165358	2020-07-18	2020-07-23	Standard Class	SV-20365	Seth Vernon	Consumer	United States	Philadelphia	Pennsylvania	19134	East	FUR-CH-10002647	198.744	4	0.3	-14.196	Chuck Magee
+US-2020-165358	2020-07-18	2020-07-23	Standard Class	SV-20365	Seth Vernon	Consumer	United States	Philadelphia	Pennsylvania	19134	East	OFF-SU-10004768	9.184	2	0.2	1.148	Chuck Magee
+US-2020-165456	2020-11-30	2020-12-03	First Class	TB-21625	Trudy Brown	Consumer	United States	Philadelphia	Pennsylvania	19134	East	FUR-CH-10003981	1079.316	6	0.3	-15.4188	Chuck Magee
+US-2020-166037	2020-01-28	2020-02-01	Standard Class	CL-12700	Craig Leslie	Home Office	United States	New York City	New York	10009	East	TEC-AC-10002800	449.91	9	0	157.4685	Chuck Magee
+US-2020-166324	2020-04-20	2020-04-21	First Class	BE-11455	Brad Eason	Home Office	United States	Cleveland	Ohio	44105	East	OFF-ST-10000078	848.544	4	0.2	-21.2136	Chuck Magee
+US-2020-166324	2020-04-20	2020-04-21	First Class	BE-11455	Brad Eason	Home Office	United States	Cleveland	Ohio	44105	East	OFF-BI-10000174	8.7	5	0.7	-6.38	Chuck Magee
+US-2020-166324	2020-04-20	2020-04-21	First Class	BE-11455	Brad Eason	Home Office	United States	Cleveland	Ohio	44105	East	TEC-PH-10004080	122.382	3	0.4	-24.4764	Chuck Magee
+US-2020-166394	2020-09-04	2020-09-06	Second Class	VM-21835	Vivian Mathis	Consumer	United States	Nashua	New Hampshire	3060	East	OFF-FA-10001843	14.82	6	0	6.9654	Chuck Magee
+US-2020-167570	2020-12-08	2020-12-15	Standard Class	EG-13900	Emily Grady	Consumer	United States	Philadelphia	Pennsylvania	19140	East	FUR-CH-10003396	215.544	4	0.3	-58.5048	Chuck Magee
+US-2020-168613	2020-10-08	2020-10-14	Standard Class	GM-14440	Gary McGarr	Consumer	United States	New York City	New York	10009	East	FUR-CH-10002372	145.764	2	0.1	3.2392	Chuck Magee
+US-2020-169488	2020-09-07	2020-09-09	First Class	AA-10375	Allen Armold	Consumer	United States	Providence	Rhode Island	2908	East	OFF-PA-10002659	16.9	5	0	7.774	Chuck Magee
+US-2020-169488	2020-09-07	2020-09-09	First Class	AA-10375	Allen Armold	Consumer	United States	Providence	Rhode Island	2908	East	OFF-PA-10000157	39.96	2	0	18.7812	Chuck Magee
+US-2020-169551	2020-07-07	2020-07-09	First Class	RL-19615	Rob Lucas	Consumer	United States	Philadelphia	Pennsylvania	19120	East	FUR-BO-10001519	87.21	3	0.5	-45.3492	Chuck Magee
+US-2020-169551	2020-07-07	2020-07-09	First Class	RL-19615	Rob Lucas	Consumer	United States	Philadelphia	Pennsylvania	19120	East	OFF-PA-10004100	15.552	3	0.2	5.4432	Chuck Magee
+US-2020-169551	2020-07-07	2020-07-09	First Class	RL-19615	Rob Lucas	Consumer	United States	Philadelphia	Pennsylvania	19120	East	TEC-PH-10001363	683.988	2	0.4	-113.998	Chuck Magee
+US-2020-169551	2020-07-07	2020-07-09	First Class	RL-19615	Rob Lucas	Consumer	United States	Philadelphia	Pennsylvania	19120	East	OFF-ST-10004835	13.392	3	0.2	1.0044	Chuck Magee
+US-2020-169551	2020-07-07	2020-07-09	First Class	RL-19615	Rob Lucas	Consumer	United States	Philadelphia	Pennsylvania	19120	East	TEC-AC-10002018	16.776	3	0.2	4.8231	Chuck Magee
+US-2020-169551	2020-07-07	2020-07-09	First Class	RL-19615	Rob Lucas	Consumer	United States	Philadelphia	Pennsylvania	19120	East	TEC-AC-10003033	527.92	2	0.2	85.787	Chuck Magee

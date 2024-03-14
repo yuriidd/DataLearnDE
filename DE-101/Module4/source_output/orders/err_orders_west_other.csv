@@ -1,0 +1,147 @@
+Order_ID;Order_Date;Ship_Date;Ship_Mode;Customer_ID;Customer_Name;Segment;Country/Region;City;State;Postal_Code;Region;Product_ID;Sales;Quantity;Discount;Profit;Person
+CA-2020-100237;2020-10-15;2020-10-19;Standard Class;SV-20815;Stuart Van;Corporate;US;Orem;Utah;84057;West;OFF-AR-10001761;11.68;2;0;4.2048;Anna Andreadi
+CA-2020-101581;2020-10-22;2020-10-27;Standard Class;DW-13195;David Wiener;Corporate;US;Redmond;Oregon;97756;West;FUR-TA-10002607;177.225;5;0.5;-120.513;Anna Andreadi
+CA-2020-101700;2020-04-23;2020-04-26;First Class;SO-20335;Sean O'Donnell;Consumer;US;Greeley;Colorado;80634;West;OFF-EN-10003134;18.688;2;0.2;7.008;Anna Andreadi
+CA-2020-101700;2020-04-23;2020-04-26;First Class;SO-20335;Sean O'Donnell;Consumer;US;Greeley;Colorado;80634;West;FUR-FU-10001025;11.664;3;0.2;3.3534;Anna Andreadi
+CA-2020-102218;2020-09-02;2020-09-04;Second Class;LW-17215;Luke Weiss;Consumer;US;Fort ~collins;Colorado;80525;West;OFF-LA-10002475;11.696;2;0.2;3.9474;Anna Andreadi
+CA-2020-102946;2020-06-30;2020-07-05;Standard Class;VP-21730;Victor Preis;Home Office;US;Las Vegas;Nevada;89115;West;OFF-BI-10004492;75.792;3;0.2;25.5798;Anna Andreadi
+CA-2020-105445;2020-02-20;2020-02-25;Second Class;BP-11095;Bart Pistole;Corporate;US;Louisville;Colorado;80027;West;OFF-FA-10001229;9.432;3;0.2;3.0654;Anna Andreadi
+CA-2020-105851;2020-03-13;2020-03-20;Standard Class;SE-20110;Sanjit Engle;Consumer;US;Denver;Colorado;80219;West;OFF-SU-10002881;1332.496;2;0.2;-299.8116;Anna Andreadi
+CA-2020-105991;2020-05-05;2020-05-06;First Class;LH-17020;Lisa Hazard;Consumer;US;Louisville;Colorado;80027;West;OFF-EN-10002600;21.24;9;0.2;7.434;Anna Andreadi
+CA-2020-105991;2020-05-05;2020-05-06;First Class;LH-17020;Lisa Hazard;Consumer;US;Louisville;Colorado;80027;West;OFF-BI-10003274;9.552;8;0.7;-7.3232;Anna Andreadi
+CA-2020-105991;2020-05-05;2020-05-06;First Class;LH-17020;Lisa Hazard;Consumer;US;Louisville;Colorado;80027;West;FUR-BO-10004467;89.991;3;0.7;-152.9847;Anna Andreadi
+CA-2020-106859;2020-03-13;2020-03-18;Second Class;BF-11215;Benjamin Farhat;Home Office;US;Albuquerque;New Mexico;87105;West;OFF-ST-10000615;90.8;8;0;25.424;Anna Andreadi
+CA-2020-106859;2020-03-13;2020-03-18;Second Class;BF-11215;Benjamin Farhat;Home Office;US;Albuquerque;New Mexico;87105;West;TEC-PH-10004531;140.736;8;0.2;49.2576;Anna Andreadi
+CA-2020-106859;2020-03-13;2020-03-18;Second Class;BF-11215;Benjamin Farhat;Home Office;US;Albuquerque;New Mexico;87105;West;TEC-AC-10004001;214.95;5;0;88.1295;Anna Andreadi
+CA-2020-106859;2020-03-13;2020-03-18;Second Class;BF-11215;Benjamin Farhat;Home Office;US;Albuquerque;New Mexico;87105;West;OFF-PA-10001534;45.36;7;0;21.7728;Anna Andreadi
+CA-2020-106859;2020-03-13;2020-03-18;Second Class;BF-11215;Benjamin Farhat;Home Office;US;Albuquerque;New Mexico;87105;West;OFF-PA-10001815;288.24;6;0;138.3552;Anna Andreadi
+CA-2020-112515;2020-09-17;2020-09-21;Second Class;AS-10225;Alan Schoenberger;Corporate;US;Provo;Utah;84604;West;OFF-BI-10000829;10.776;3;0.2;3.5022;Anna Andreadi
+CA-2020-112515;2020-09-17;2020-09-21;Second Class;AS-10225;Alan Schoenberger;Corporate;US;Provo;Utah;84604;West;OFF-BI-10003712;11.784;3;0.2;4.2717;Anna Andreadi
+CA-2020-112515;2020-09-17;2020-09-21;Second Class;AS-10225;Alan Schoenberger;Corporate;US;Provo;Utah;84604;West;OFF-PA-10000062;164.88;3;0;80.7912;Anna Andreadi
+CA-2020-112515;2020-09-17;2020-09-21;Second Class;AS-10225;Alan Schoenberger;Corporate;US;Provo;Utah;84604;West;FUR-BO-10003404;1292.94;3;0;77.5764;Anna Andreadi
+CA-2020-112515;2020-09-17;2020-09-21;Second Class;AS-10225;Alan Schoenberger;Corporate;US;Provo;Utah;84604;West;OFF-BI-10004233;25.584;2;0.2;8.9544;Anna Andreadi
+CA-2020-112515;2020-09-17;2020-09-21;Second Class;AS-10225;Alan Schoenberger;Corporate;US;Provo;Utah;84604;West;OFF-ST-10001272;261.74;2;0;65.435;Anna Andreadi
+CA-2020-112515;2020-09-17;2020-09-21;Second Class;AS-10225;Alan Schoenberger;Corporate;US;Provo;Utah;84604;West;OFF-LA-10001175;14.4;5;0;7.056;Anna Andreadi
+CA-2020-115931;2020-12-22;2020-12-26;Standard Class;JM-15655;Jim Mitchum;Corporate;US;~carlsbad;New Mexico;88220;West;OFF-AR-10000369;4.17;3;0;1.0842;Anna Andreadi
+CA-2020-115931;2020-12-22;2020-12-26;Standard Class;JM-15655;Jim Mitchum;Corporate;US;~carlsbad;New Mexico;88220;West;TEC-PH-10001300;67.04;4;0.2;6.704;Anna Andreadi
+CA-2020-115931;2020-12-22;2020-12-26;Standard Class;JM-15655;Jim Mitchum;Corporate;US;~carlsbad;New Mexico;88220;West;OFF-ST-10000876;37.32;3;0;10.4496;Anna Andreadi
+CA-2020-115931;2020-12-22;2020-12-26;Standard Class;JM-15655;Jim Mitchum;Corporate;US;~carlsbad;New Mexico;88220;West;OFF-LA-10001404;18.45;5;0;8.6715;Anna Andreadi
+CA-2020-116946;2020-12-19;2020-12-23;Standard Class;TS-21505;Tony Sayre;Consumer;US;Parker;Colorado;80134;West;FUR-FU-10000320;13.36;5;0.2;4.008;Anna Andreadi
+CA-2020-116946;2020-12-19;2020-12-23;Standard Class;TS-21505;Tony Sayre;Consumer;US;Parker;Colorado;80134;West;OFF-ST-10002554;78.256;2;0.2;-17.6076;Anna Andreadi
+CA-2020-116946;2020-12-19;2020-12-23;Standard Class;TS-21505;Tony Sayre;Consumer;US;Parker;Colorado;80134;West;FUR-BO-10000468;102.018;7;0.7;-183.6324;Anna Andreadi
+CA-2020-117646;2020-08-21;2020-08-25;Standard Class;SC-20845;Sung Chung;Consumer;US;Louisville;Colorado;80027;West;OFF-ST-10000036;237.096;3;0.2;20.7459;Anna Andreadi
+CA-2020-117646;2020-08-21;2020-08-25;Standard Class;SC-20845;Sung Chung;Consumer;US;Louisville;Colorado;80027;West;FUR-FU-10001037;22.752;3;0.2;7.11;Anna Andreadi
+CA-2020-117646;2020-08-21;2020-08-25;Standard Class;SC-20845;Sung Chung;Consumer;US;Louisville;Colorado;80027;West;OFF-PA-10001950;6.672;1;0.2;2.085;Anna Andreadi
+CA-2020-118017;2020-12-03;2020-12-06;Second Class;LC-16870;Lena Cacioppo;Consumer;US;Thornton;Colorado;80229;West;OFF-AR-10003856;13.344;6;0.2;1.0008;Anna Andreadi
+CA-2020-118017;2020-12-03;2020-12-06;Second Class;LC-16870;Lena Cacioppo;Consumer;US;Thornton;Colorado;80229;West;TEC-AC-10002006;76.752;6;0.2;10.5534;Anna Andreadi
+CA-2020-118017;2020-12-03;2020-12-06;Second Class;LC-16870;Lena Cacioppo;Consumer;US;Thornton;Colorado;80229;West;OFF-PA-10002246;10.32;2;0.2;3.741;Anna Andreadi
+CA-2020-118017;2020-12-03;2020-12-06;Second Class;LC-16870;Lena Cacioppo;Consumer;US;Thornton;Colorado;80229;West;OFF-SU-10004782;47.32;7;0.2;5.915;Anna Andreadi
+CA-2020-118017;2020-12-03;2020-12-06;Second Class;LC-16870;Lena Cacioppo;Consumer;US;Thornton;Colorado;80229;West;FUR-FU-10004351;23.376;3;0.2;7.0128;Anna Andreadi
+CA-2020-118017;2020-12-03;2020-12-06;Second Class;LC-16870;Lena Cacioppo;Consumer;US;Thornton;Colorado;80229;West;FUR-FU-10004270;16.72;5;0.2;3.344;Anna Andreadi
+CA-2020-118017;2020-12-03;2020-12-06;Second Class;LC-16870;Lena Cacioppo;Consumer;US;Thornton;Colorado;80229;West;FUR-FU-10004053;16.192;1;0.2;4.6552;Anna Andreadi
+CA-2020-118857;2020-04-15;2020-04-18;First Class;AH-10075;Adam Hart;Corporate;US;Henderson;Nevada;89015;West;FUR-FU-10004460;196.45;5;0;70.722;Anna Andreadi
+CA-2020-121125;2020-05-30;2020-06-03;Standard Class;MG-17890;Michael Granlund;Home Office;US;Tigard;Oregon;97224;West;TEC-PH-10001619;156.792;1;0.2;17.6391;Anna Andreadi
+CA-2020-121125;2020-05-30;2020-06-03;Standard Class;MG-17890;Michael Granlund;Home Office;US;Tigard;Oregon;97224;West;TEC-AC-10002323;35.36;2;0.2;-3.094;Anna Andreadi
+CA-2020-121125;2020-05-30;2020-06-03;Standard Class;MG-17890;Michael Granlund;Home Office;US;Tigard;Oregon;97224;West;FUR-FU-10000820;13.592;1;0.2;-0.3398;Anna Andreadi
+CA-2020-121412;2020-09-23;2020-09-27;Standard Class;BG-11695;Brooke Gillingham;Corporate;US;Louisville;Colorado;80027;West;FUR-FU-10000246;29.328;3;0.2;3.666;Anna Andreadi
+CA-2020-121538;2020-11-28;2020-12-01;First Class;RH-19495;Rick Hansen;Consumer;US;Denver;Colorado;80219;West;OFF-PA-10004071;88.768;2;0.2;31.0688;Anna Andreadi
+CA-2020-121643;2020-05-18;2020-05-20;First Class;AB-10105;Adrian Barton;Consumer;US;Portland;Oregon;97206;West;TEC-PH-10002200;344.704;2;0.2;38.7792;Anna Andreadi
+CA-2020-122798;2020-12-28;2021-01-01;Standard Class;SV-20935;Susan Vittorini;Consumer;US;Albuquerque;New Mexico;87105;West;OFF-ST-10003058;118.25;5;0;34.2925;Anna Andreadi
+CA-2020-122798;2020-12-28;2021-01-01;Standard Class;SV-20935;Susan Vittorini;Consumer;US;Albuquerque;New Mexico;87105;West;OFF-PA-10004239;4.28;1;0;1.926;Anna Andreadi
+CA-2020-124401;2020-09-07;2020-09-12;Standard Class;RD-19900;Ruben Dartt;Consumer;US;Portland;Oregon;97206;West;OFF-ST-10000649;37.68;3;0.2;2.355;Anna Andreadi
+CA-2020-124401;2020-09-07;2020-09-12;Standard Class;RD-19900;Ruben Dartt;Consumer;US;Portland;Oregon;97206;West;TEC-AC-10002926;279.944;7;0.2;80.4839;Anna Andreadi
+CA-2020-127432;2020-01-22;2020-01-27;Standard Class;AD-10180;Alan Dominguez;Home Office;US;Great Falls;Montana;59405;West;TEC-CO-10003236;2999.95;5;0;1379.977;Anna Andreadi
+CA-2020-127432;2020-01-22;2020-01-27;Standard Class;AD-10180;Alan Dominguez;Home Office;US;Great Falls;Montana;59405;West;OFF-ST-10004507;51.45;3;0;13.8915;Anna Andreadi
+CA-2020-127432;2020-01-22;2020-01-27;Standard Class;AD-10180;Alan Dominguez;Home Office;US;Great Falls;Montana;59405;West;OFF-PA-10001667;11.96;2;0;5.382;Anna Andreadi
+CA-2020-127432;2020-01-22;2020-01-27;Standard Class;AD-10180;Alan Dominguez;Home Office;US;Great Falls;Montana;59405;West;OFF-ST-10004459;1126.02;3;0;56.301;Anna Andreadi
+CA-2020-127712;2020-08-31;2020-09-05;Standard Class;MG-17890;Michael Granlund;Home Office;US;Salem;Oregon;97301;West;OFF-SU-10002522;6.208;2;0.2;0.6984;Anna Andreadi
+CA-2020-130141;2020-10-22;2020-10-24;Second Class;HA-14905;Helen Abelman;Consumer;US;Fort ~collins;Colorado;80525;West;OFF-BI-10000831;3.168;4;0.7;-2.5344;Anna Andreadi
+CA-2020-130141;2020-10-22;2020-10-24;Second Class;HA-14905;Helen Abelman;Consumer;US;Fort ~collins;Colorado;80525;West;FUR-CH-10000749;579.136;4;0.2;-28.9568;Anna Andreadi
+CA-2020-132738;2020-08-04;2020-08-07;First Class;HM-14860;Harry Marie;Corporate;US;Loveland;Colorado;80538;West;OFF-PA-10001752;7.968;2;0.2;2.8884;Anna Andreadi
+CA-2020-132738;2020-08-04;2020-08-07;First Class;HM-14860;Harry Marie;Corporate;US;Loveland;Colorado;80538;West;OFF-EN-10001141;8.784;1;0.2;3.1842;Anna Andreadi
+CA-2020-133648;2020-06-25;2020-07-02;Standard Class;ML-17755;Max Ludwig;Home Office;US;Springfield;Oregon;97477;West;OFF-LA-10003923;71.04;6;0.2;26.64;Anna Andreadi
+CA-2020-133648;2020-06-25;2020-07-02;Standard Class;ML-17755;Max Ludwig;Home Office;US;Springfield;Oregon;97477;West;OFF-AR-10002257;5.344;2;0.2;0.7348;Anna Andreadi
+CA-2020-133648;2020-06-25;2020-07-02;Standard Class;ML-17755;Max Ludwig;Home Office;US;Springfield;Oregon;97477;West;OFF-FA-10004395;11.304;3;0.2;-2.1195;Anna Andreadi
+CA-2020-134845;2020-04-17;2020-04-23;Standard Class;SR-20425;Sharelle Roach;Home Office;US;Louisville;Colorado;80027;West;OFF-BI-10000773;12.03;5;0.7;-9.223;Anna Andreadi
+CA-2020-134845;2020-04-17;2020-04-23;Standard Class;SR-20425;Sharelle Roach;Home Office;US;Louisville;Colorado;80027;West;TEC-MA-10000822;2549.985;5;0.7;-3399.98;Anna Andreadi
+CA-2020-134845;2020-04-17;2020-04-23;Standard Class;SR-20425;Sharelle Roach;Home Office;US;Louisville;Colorado;80027;West;OFF-BI-10001543;21.594;2;0.7;-15.8356;Anna Andreadi
+CA-2020-134845;2020-04-17;2020-04-23;Standard Class;SR-20425;Sharelle Roach;Home Office;US;Louisville;Colorado;80027;West;OFF-BI-10003355;8.964;6;0.7;-6.5736;Anna Andreadi
+CA-2020-134845;2020-04-17;2020-04-23;Standard Class;SR-20425;Sharelle Roach;Home Office;US;Louisville;Colorado;80027;West;OFF-PA-10002005;20.736;4;0.2;7.2576;Anna Andreadi
+CA-2020-138310;2020-06-26;2020-06-30;Standard Class;NP-18700;Nora Preis;Consumer;US;Denver;Colorado;80219;West;TEC-AC-10001990;431.928;9;0.2;64.7892;Anna Andreadi
+CA-2020-138422;2020-09-23;2020-09-26;First Class;KN-16705;Kristina Nunn;Home Office;US;Fort ~collins;Colorado;80525;West;OFF-EN-10004147;14.352;3;0.2;5.2026;Anna Andreadi
+CA-2020-140053;2020-07-03;2020-07-10;Standard Class;CA-12265;Christina Anderson;Consumer;US;Farmington;New Mexico;87401;West;FUR-FU-10003708;545.85;9;0;114.6285;Anna Andreadi
+CA-2020-141117;2020-10-02;2020-10-08;Standard Class;JK-16090;Juliana Krohn;Consumer;US;Springfield;Oregon;97477;West;FUR-BO-10001972;217.764;6;0.7;-384.7164;Anna Andreadi
+CA-2020-141117;2020-10-02;2020-10-08;Standard Class;JK-16090;Juliana Krohn;Consumer;US;Springfield;Oregon;97477;West;OFF-SU-10004664;39.072;6;0.2;4.3956;Anna Andreadi
+CA-2020-141117;2020-10-02;2020-10-08;Standard Class;JK-16090;Juliana Krohn;Consumer;US;Springfield;Oregon;97477;West;OFF-BI-10003676;22.638;7;0.7;-16.6012;Anna Andreadi
+CA-2020-141117;2020-10-02;2020-10-08;Standard Class;JK-16090;Juliana Krohn;Consumer;US;Springfield;Oregon;97477;West;OFF-AR-10003727;95.144;7;0.2;10.7037;Anna Andreadi
+CA-2020-142293;2020-09-17;2020-09-20;First Class;SC-20380;Shahid Collister;Consumer;US;Boise;Idaho;83704;West;TEC-AC-10001109;89.97;3;0;37.7874;Anna Andreadi
+CA-2020-143329;2020-11-03;2020-11-08;Standard Class;DL-13330;Denise Leinenbach;Consumer;US;Las ~cru~ces;New Mexico;88001;West;FUR-FU-10000629;41.37;3;0;17.3754;Anna Andreadi
+CA-2020-143378;2020-09-19;2020-09-25;Standard Class;JR-16210;Justin Ritter;Corporate;US;Springfield;Oregon;97477;West;TEC-PH-10001425;191.976;3;0.2;19.1976;Anna Andreadi
+CA-2020-143378;2020-09-19;2020-09-25;Standard Class;JR-16210;Justin Ritter;Corporate;US;Springfield;Oregon;97477;West;OFF-AR-10001915;23.832;3;0.2;6.5538;Anna Andreadi
+CA-2020-143378;2020-09-19;2020-09-25;Standard Class;JR-16210;Justin Ritter;Corporate;US;Springfield;Oregon;97477;West;FUR-FU-10004864;409.216;8;0.2;61.3824;Anna Andreadi
+CA-2020-143378;2020-09-19;2020-09-25;Standard Class;JR-16210;Justin Ritter;Corporate;US;Springfield;Oregon;97477;West;FUR-BO-10001972;72.588;2;0.7;-128.2388;Anna Andreadi
+CA-2020-145233;2020-12-01;2020-12-05;Standard Class;DV-13465;Dianna Vittorini;Consumer;US;Denver;Colorado;80219;West;TEC-PH-10004977;470.376;3;0.2;52.9173;Anna Andreadi
+CA-2020-145233;2020-12-01;2020-12-05;Standard Class;DV-13465;Dianna Vittorini;Consumer;US;Denver;Colorado;80219;West;TEC-PH-10000586;105.584;2;0.2;9.2386;Anna Andreadi
+CA-2020-145233;2020-12-01;2020-12-05;Standard Class;DV-13465;Dianna Vittorini;Consumer;US;Denver;Colorado;80219;West;OFF-AP-10000358;31.152;3;0.2;3.5046;Anna Andreadi
+CA-2020-145233;2020-12-01;2020-12-05;Standard Class;DV-13465;Dianna Vittorini;Consumer;US;Denver;Colorado;80219;West;OFF-BI-10002764;6.783;7;0.7;-4.7481;Anna Andreadi
+CA-2020-145233;2020-12-01;2020-12-05;Standard Class;DV-13465;Dianna Vittorini;Consumer;US;Denver;Colorado;80219;West;TEC-PH-10001254;406.368;4;0.2;30.4776;Anna Andreadi
+CA-2020-146346;2020-06-17;2020-06-20;First Class;RA-19945;Ryan Akin;Consumer;US;~commer~ce ~city;Colorado;80022;West;OFF-ST-10001418;146.352;3;0.2;-32.9292;Anna Andreadi
+CA-2020-148446;2020-12-10;2020-12-14;Second Class;MC-17845;Michael Chen;Consumer;US;North Las Vegas;Nevada;89031;West;FUR-TA-10004256;1669.6;4;0;116.872;Anna Andreadi
+CA-2020-151008;2020-09-07;2020-09-08;First Class;JM-16195;Justin MacKendrick;Consumer;US;Draper;Utah;84020;West;FUR-FU-10002396;25.16;2;0;10.5672;Anna Andreadi
+CA-2020-151008;2020-09-07;2020-09-08;First Class;JM-16195;Justin MacKendrick;Consumer;US;Draper;Utah;84020;West;TEC-PH-10002807;126.56;4;0.2;47.46;Anna Andreadi
+CA-2020-155873;2020-06-16;2020-06-21;Standard Class;AB-10255;Alejandro Ballentine;Home Office;US;~carlsbad;New Mexico;88220;West;OFF-SU-10001165;16.68;2;0;4.3368;Anna Andreadi
+CA-2020-155873;2020-06-16;2020-06-21;Standard Class;AB-10255;Alejandro Ballentine;Home Office;US;~carlsbad;New Mexico;88220;West;OFF-PA-10001246;19.44;3;0;9.3312;Anna Andreadi
+CA-2020-155873;2020-06-16;2020-06-21;Standard Class;AB-10255;Alejandro Ballentine;Home Office;US;~carlsbad;New Mexico;88220;West;OFF-PA-10001815;192.16;4;0;92.2368;Anna Andreadi
+CA-2020-156391;2020-09-26;2020-09-28;First Class;SL-20155;Sara Luxemburg;Home Office;US;Salem;Oregon;97301;West;OFF-AR-10003251;2.224;1;0.2;0.556;Anna Andreadi
+CA-2020-156720;2020-12-30;2021-01-03;Standard Class;JM-15580;Jill Matthias;Consumer;US;Loveland;Colorado;80538;West;OFF-FA-10003472;3.024;3;0.2;-0.6048;Anna Andreadi
+CA-2020-157672;2020-10-05;2020-10-07;First Class;RB-19795;Ross Baird;Home Office;US;Denver;Colorado;80219;West;TEC-AC-10001714;63.824;2;0.2;13.5626;Anna Andreadi
+CA-2020-158120;2020-11-17;2020-11-21;Standard Class;KH-16330;Katharine Harms;Corporate;US;Hillsboro;Oregon;97123;West;OFF-PA-10003205;19.608;3;0.2;6.6177;Anna Andreadi
+CA-2020-158120;2020-11-17;2020-11-21;Standard Class;KH-16330;Katharine Harms;Corporate;US;Hillsboro;Oregon;97123;West;OFF-BI-10002813;4.158;7;0.7;-3.465;Anna Andreadi
+CA-2020-163671;2020-12-24;2020-12-30;Standard Class;DP-13105;Dave Poirier;Corporate;US;Meridian;Idaho;83642;West;OFF-BI-10001679;21.312;3;0.2;7.992;Anna Andreadi
+CA-2020-165008;2020-09-15;2020-09-17;Second Class;DO-13645;Doug O'Connell;Consumer;US;Salt Lake ~city;Utah;84106;West;OFF-BI-10002794;295.056;9;0.2;106.9578;Anna Andreadi
+CA-2020-166856;2020-09-18;2020-09-22;Standard Class;TS-21505;Tony Sayre;Consumer;US;~clovis;New Mexico;88101;West;OFF-BI-10002012;10.08;7;0.2;3.528;Anna Andreadi
+CA-2020-166856;2020-09-18;2020-09-22;Standard Class;TS-21505;Tony Sayre;Consumer;US;~clovis;New Mexico;88101;West;TEC-AC-10004992;101.34;3;0;8.1072;Anna Andreadi
+CA-2020-167094;2020-10-21;2020-10-22;First Class;DK-12835;Damala Kotsonis;Corporate;US;Springfield;Oregon;97477;West;OFF-PA-10003953;5.184;1;0.2;1.8144;Anna Andreadi
+CA-2020-167094;2020-10-21;2020-10-22;First Class;DK-12835;Damala Kotsonis;Corporate;US;Springfield;Oregon;97477;West;FUR-CH-10000155;478.48;2;0.2;47.848;Anna Andreadi
+CA-2020-167094;2020-10-21;2020-10-22;First Class;DK-12835;Damala Kotsonis;Corporate;US;Springfield;Oregon;97477;West;TEC-AC-10003116;28.4;2;0.2;6.745;Anna Andreadi
+CA-2020-168179;2020-11-02;2020-11-07;Standard Class;JB-16000;Joy Bell-;Consumer;US;Salt Lake ~city;Utah;84106;West;OFF-PA-10001800;19.44;3;0;9.3312;Anna Andreadi
+CA-2020-168403;2020-09-09;2020-09-15;Standard Class;DK-12835;Damala Kotsonis;Corporate;US;Portland;Oregon;97206;West;OFF-PA-10002036;31.104;6;0.2;11.2752;Anna Andreadi
+CA-2020-168403;2020-09-09;2020-09-15;Standard Class;DK-12835;Damala Kotsonis;Corporate;US;Portland;Oregon;97206;West;OFF-AP-10003278;11.176;1;0.2;0.8382;Anna Andreadi
+CA-2020-168655;2020-10-12;2020-10-18;Standard Class;ML-18040;Michelle Lonsdale;Corporate;US;Albuquerque;New Mexico;87105;West;TEC-AC-10002842;595;5;0;95.2;Anna Andreadi
+CA-2020-168655;2020-10-12;2020-10-18;Standard Class;ML-18040;Michelle Lonsdale;Corporate;US;Albuquerque;New Mexico;87105;West;OFF-BI-10002082;79.872;3;0.2;29.952;Anna Andreadi
+CA-2020-169929;2020-09-25;2020-09-28;First Class;LS-17200;Luke Schmidt;Corporate;US;Helena;Montana;59601;West;OFF-ST-10002352;39.9;5;0;10.374;Anna Andreadi
+US-2020-100209;2020-07-09;2020-07-15;Standard Class;TD-20995;Tamara Dahlen;Consumer;US;Portland;Oregon;97206;West;OFF-BI-10002012;1.08;2;0.7;-0.792;Anna Andreadi
+US-2020-100398;2020-08-19;2020-08-23;Standard Class;DO-13435;Denny Ordway;Consumer;US;Salt Lake ~city;Utah;84106;West;OFF-BI-10002133;102.72;3;0.2;37.236;Anna Andreadi
+US-2020-103226;2020-09-22;2020-09-28;Standard Class;DW-13195;David Wiener;Corporate;US;Albuquerque;New Mexico;87105;West;OFF-PA-10002666;27.18;3;0;12.231;Anna Andreadi
+US-2020-106131;2020-01-14;2020-01-16;First Class;TP-21565;Tracy Poddar;Corporate;US;Aurora;Colorado;80013;West;TEC-AC-10003027;169.064;7;0.2;-14.7931;Anna Andreadi
+US-2020-106131;2020-01-14;2020-01-16;First Class;TP-21565;Tracy Poddar;Corporate;US;Aurora;Colorado;80013;West;OFF-ST-10003638;168.624;9;0.2;14.7546;Anna Andreadi
+US-2020-109484;2020-11-06;2020-11-12;Standard Class;RB-19705;Roger Barcio;Home Office;US;Portland;Oregon;97206;West;OFF-BI-10004738;5.682;1;0.7;-3.788;Anna Andreadi
+US-2020-111745;2020-11-05;2020-11-06;First Class;RA-19885;Ruben Ausman;Corporate;US;Farmington;New Mexico;87401;West;TEC-AC-10003911;159.99;1;0;54.3966;Anna Andreadi
+US-2020-112347;2020-12-02;2020-12-06;Standard Class;BS-11380;Bill Stewart;Corporate;US;Denver;Colorado;80219;West;OFF-ST-10003306;114.288;1;0.2;12.8574;Anna Andreadi
+US-2020-112347;2020-12-02;2020-12-06;Standard Class;BS-11380;Bill Stewart;Corporate;US;Denver;Colorado;80219;West;OFF-BI-10003707;36.624;8;0.7;-24.416;Anna Andreadi
+US-2020-112347;2020-12-02;2020-12-06;Standard Class;BS-11380;Bill Stewart;Corporate;US;Denver;Colorado;80219;West;FUR-BO-10003546;242.352;8;0.7;-363.528;Anna Andreadi
+US-2020-112347;2020-12-02;2020-12-06;Standard Class;BS-11380;Bill Stewart;Corporate;US;Denver;Colorado;80219;West;TEC-PH-10000213;49.616;2;0.2;4.9616;Anna Andreadi
+US-2020-112347;2020-12-02;2020-12-06;Standard Class;BS-11380;Bill Stewart;Corporate;US;Denver;Colorado;80219;West;FUR-FU-10001488;508.704;6;0.2;0;Anna Andreadi
+US-2020-112347;2020-12-02;2020-12-06;Standard Class;BS-11380;Bill Stewart;Corporate;US;Denver;Colorado;80219;West;TEC-PH-10004833;57.36;6;0.2;-14.34;Anna Andreadi
+US-2020-112347;2020-12-02;2020-12-06;Standard Class;BS-11380;Bill Stewart;Corporate;US;Denver;Colorado;80219;West;FUR-CH-10002335;906.68;5;0.2;68.001;Anna Andreadi
+US-2020-116897;2020-05-27;2020-05-29;First Class;JG-15160;James Galang;Consumer;US;Po~catello;Idaho;83201;West;FUR-FU-10004963;35;4;0;14.7;Anna Andreadi
+US-2020-116897;2020-05-27;2020-05-29;First Class;JG-15160;James Galang;Consumer;US;Po~catello;Idaho;83201;West;OFF-ST-10000025;477.15;5;0;28.629;Anna Andreadi
+US-2020-116897;2020-05-27;2020-05-29;First Class;JG-15160;James Galang;Consumer;US;Po~catello;Idaho;83201;West;TEC-PH-10004389;302.376;3;0.2;22.6782;Anna Andreadi
+US-2020-125717;2020-09-28;2020-10-01;First Class;DS-13030;Darrin Sayre;Home Office;US;Aurora;Colorado;80013;West;FUR-FU-10001979;32.776;1;0.2;3.2776;Anna Andreadi
+US-2020-125717;2020-09-28;2020-10-01;First Class;DS-13030;Darrin Sayre;Home Office;US;Aurora;Colorado;80013;West;OFF-ST-10001522;147.184;2;0.2;-29.4368;Anna Andreadi
+US-2020-125717;2020-09-28;2020-10-01;First Class;DS-13030;Darrin Sayre;Home Office;US;Aurora;Colorado;80013;West;TEC-AC-10003657;54.384;2;0.2;1.3596;Anna Andreadi
+US-2020-125717;2020-09-28;2020-10-01;First Class;DS-13030;Darrin Sayre;Home Office;US;Aurora;Colorado;80013;West;OFF-BI-10001718;76.776;4;0.7;-58.8616;Anna Andreadi
+US-2020-125717;2020-09-28;2020-10-01;First Class;DS-13030;Darrin Sayre;Home Office;US;Aurora;Colorado;80013;West;OFF-PA-10003022;14.352;3;0.2;5.2026;Anna Andreadi
+US-2020-125717;2020-09-28;2020-10-01;First Class;DS-13030;Darrin Sayre;Home Office;US;Aurora;Colorado;80013;West;OFF-AP-10000891;209.792;2;0.2;26.224;Anna Andreadi
+US-2020-132059;2020-09-23;2020-09-29;Standard Class;AP-10915;Arthur Prichep;Consumer;US;Fort ~collins;Colorado;80525;West;FUR-BO-10001811;180.588;2;0.7;-240.784;Anna Andreadi
+US-2020-132059;2020-09-23;2020-09-29;Standard Class;AP-10915;Arthur Prichep;Consumer;US;Fort ~collins;Colorado;80525;West;TEC-AC-10003280;47.984;2;0.2;0.5998;Anna Andreadi
+US-2020-147655;2020-09-04;2020-09-05;First Class;AS-10045;Aaron Smayling;Corporate;US;Redmond;Oregon;97756;West;OFF-BI-10002931;88.074;7;0.7;-58.716;Anna Andreadi
+US-2020-148054;2020-10-06;2020-10-11;Standard Class;NZ-18565;Nick Zandusky;Home Office;US;Meridian;Idaho;83642;West;FUR-FU-10003247;41.96;2;0;2.9372;Anna Andreadi
+US-2020-148054;2020-10-06;2020-10-11;Standard Class;NZ-18565;Nick Zandusky;Home Office;US;Meridian;Idaho;83642;West;OFF-AP-10004336;227.84;4;0;66.0736;Anna Andreadi
+US-2020-148054;2020-10-06;2020-10-11;Standard Class;NZ-18565;Nick Zandusky;Home Office;US;Meridian;Idaho;83642;West;OFF-PA-10001295;37.94;2;0;18.2112;Anna Andreadi
+US-2020-158505;2020-07-21;2020-07-21;Same Day;SF-20200;Sarah Foster;Consumer;US;Murray;Utah;84107;West;TEC-PH-10004071;71.928;9;0.2;6.2937;Anna Andreadi
+US-2020-158505;2020-07-21;2020-07-21;Same Day;SF-20200;Sarah Foster;Consumer;US;Murray;Utah;84107;West;OFF-AR-10001044;25.99;1;0;7.5371;Anna Andreadi
+US-2020-162068;2020-12-28;2020-12-31;Second Class;PC-18745;Pamela Coakley;Corporate;US;Loveland;Colorado;80538;West;OFF-BI-10002813;1.188;2;0.7;-0.99;Anna Andreadi
+US-2020-166688;2020-05-20;2020-05-26;Standard Class;RD-19480;Rick Duston;Consumer;US;Las Vegas;Nevada;89115;West;OFF-BI-10004040;8.288;2;0.2;3.0044;Anna Andreadi
+US-2020-166688;2020-05-20;2020-05-26;Standard Class;RD-19480;Rick Duston;Consumer;US;Las Vegas;Nevada;89115;West;TEC-PH-10004094;1123.128;9;0.2;70.1955;Anna Andreadi
+US-2020-166688;2020-05-20;2020-05-26;Standard Class;RD-19480;Rick Duston;Consumer;US;Las Vegas;Nevada;89115;West;OFF-AP-10000358;64.9;5;0;18.821;Anna Andreadi

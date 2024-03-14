@@ -1,0 +1,71 @@
+Order_ID;Order_Date;Ship_Date;Ship_Mode;Customer_ID;Customer_Name;Segment;Country/Region;City;State;Postal_Code;Region;Product_ID;Sales;Quantity;Discount;Profit;Person
+CA-2020-102414;2020-05-15;2020-05-18;Second Class;JA-15970;Joseph Airdo;Consumer;United States;Phoenix;Arizona;85023;West;TEC-PH-10002923;29.592;1;0.2;2.5893;Anna Andreadi
+CA-2020-102414;2020-05-15;2020-05-18;Second Class;JA-15970;Joseph Airdo;Consumer;United States;Phoenix;Arizona;85023;West;OFF-BI-10004465;4.752;2;0.7;-3.168;Anna Andreadi
+CA-2020-102414;2020-05-15;2020-05-18;Second Class;JA-15970;Joseph Airdo;Consumer;United States;Phoenix;Arizona;85023;West;OFF-PA-10002333;15.552;3;0.2;5.6376;Anna Andreadi
+CA-2020-111577;2020-10-16;2020-10-21;Standard Class;AJ-10780;Anthony Jacobs;Corporate;United States;Scottsdale;Arizona;85254;West;OFF-PA-10000062;307.776;7;0.2;111.5688;Anna Andreadi
+CA-2020-116953;2020-04-24;2020-04-25;First Class;SV-20935;Susan Vittorini;Consumer;United States;Mesa;Arizona;85204;West;TEC-PH-10004614;552;10;0.2;34.5;Anna Andreadi
+CA-2020-128734;2020-12-24;2020-12-31;Standard Class;JL-15175;James Lanier;Home Office;United States;Chandler;Arizona;85224;West;FUR-FU-10001731;8.544;4;0.2;1.9224;Anna Andreadi
+CA-2020-128734;2020-12-24;2020-12-31;Standard Class;JL-15175;James Lanier;Home Office;United States;Chandler;Arizona;85224;West;FUR-CH-10001394;842.376;3;0.2;105.297;Anna Andreadi
+CA-2020-129707;2020-04-25;2020-04-29;Standard Class;LH-16750;Larry Hughes;Consumer;United States;Chandler;Arizona;85224;West;OFF-AR-10000246;8.896;4;0.2;0.6672;Anna Andreadi
+CA-2020-134880;2020-10-27;2020-11-01;Standard Class;TW-21025;Tamara Willingham;Home Office;United States;Mesa;Arizona;85204;West;OFF-PA-10004039;44.784;1;0.2;16.2342;Anna Andreadi
+CA-2020-134915;2020-11-12;2020-11-12;Same Day;EM-14140;Eugene Moren;Home Office;United States;Glendale;Arizona;85301;West;TEC-AC-10001266;41.6;4;0.2;13;Anna Andreadi
+CA-2020-134915;2020-11-12;2020-11-12;Same Day;EM-14140;Eugene Moren;Home Office;United States;Glendale;Arizona;85301;West;OFF-PA-10002160;23.12;5;0.2;8.381;Anna Andreadi
+CA-2020-134915;2020-11-12;2020-11-12;Same Day;EM-14140;Eugene Moren;Home Office;United States;Glendale;Arizona;85301;West;FUR-CH-10004875;113.888;2;0.2;9.9652;Anna Andreadi
+CA-2020-134915;2020-11-12;2020-11-12;Same Day;EM-14140;Eugene Moren;Home Office;United States;Glendale;Arizona;85301;West;FUR-FU-10000305;113.568;2;0.2;-5.6784;Anna Andreadi
+CA-2020-134915;2020-11-12;2020-11-12;Same Day;EM-14140;Eugene Moren;Home Office;United States;Glendale;Arizona;85301;West;TEC-PH-10000347;7.92;2;0.2;0.693;Anna Andreadi
+CA-2020-134915;2020-11-12;2020-11-12;Same Day;EM-14140;Eugene Moren;Home Office;United States;Glendale;Arizona;85301;West;TEC-PH-10001459;671.984;2;0.2;50.3988;Anna Andreadi
+CA-2020-135937;2020-02-20;2020-02-27;Standard Class;KM-16375;Katherine Murray;Home Office;United States;Gilbert;Arizona;85234;West;TEC-PH-10004447;333.576;3;0.2;25.0182;Anna Andreadi
+CA-2020-135937;2020-02-20;2020-02-27;Standard Class;KM-16375;Katherine Murray;Home Office;United States;Gilbert;Arizona;85234;West;TEC-AC-10001114;31.992;1;0.2;4.7988;Anna Andreadi
+CA-2020-135937;2020-02-20;2020-02-27;Standard Class;KM-16375;Katherine Murray;Home Office;United States;Gilbert;Arizona;85234;West;OFF-ST-10000563;51.168;2;0.2;-6.396;Anna Andreadi
+CA-2020-135937;2020-02-20;2020-02-27;Standard Class;KM-16375;Katherine Murray;Home Office;United States;Gilbert;Arizona;85234;West;OFF-EN-10004846;10.64;5;0.2;3.857;Anna Andreadi
+CA-2020-135937;2020-02-20;2020-02-27;Standard Class;KM-16375;Katherine Murray;Home Office;United States;Gilbert;Arizona;85234;West;FUR-FU-10002253;68.704;2;0.2;16.3172;Anna Andreadi
+CA-2020-135937;2020-02-20;2020-02-27;Standard Class;KM-16375;Katherine Murray;Home Office;United States;Gilbert;Arizona;85234;West;FUR-TA-10001039;386.91;9;0.5;-185.7168;Anna Andreadi
+CA-2020-137421;2020-10-06;2020-10-11;Standard Class;AJ-10945;Ashley Jarboe;Consumer;United States;Chandler;Arizona;85224;West;OFF-AR-10001761;9.344;2;0.2;1.8688;Anna Andreadi
+CA-2020-139402;2020-12-09;2020-12-13;Standard Class;NC-18535;Nick Crebassa;Corporate;United States;Phoenix;Arizona;85023;West;OFF-PA-10004359;419.4;5;0.2;146.79;Anna Andreadi
+CA-2020-139402;2020-12-09;2020-12-13;Standard Class;NC-18535;Nick Crebassa;Corporate;United States;Phoenix;Arizona;85023;West;OFF-BI-10000279;13.005;3;0.7;-9.9705;Anna Andreadi
+CA-2020-140760;2020-06-02;2020-06-05;Second Class;DO-13435;Denny Ordway;Consumer;United States;Mesa;Arizona;85204;West;OFF-PA-10002479;25.344;6;0.2;7.92;Anna Andreadi
+CA-2020-140760;2020-06-02;2020-06-05;Second Class;DO-13435;Denny Ordway;Consumer;United States;Mesa;Arizona;85204;West;OFF-EN-10001141;43.92;5;0.2;15.921;Anna Andreadi
+CA-2020-142909;2020-12-22;2020-12-25;Second Class;AG-10330;Alex Grayson;Consumer;United States;Mesa;Arizona;85204;West;FUR-TA-10003008;182.55;2;0.5;-135.087;Anna Andreadi
+CA-2020-144750;2020-08-21;2020-08-21;Same Day;DL-13495;Dionis Lloyd;Corporate;United States;Chandler;Arizona;85224;West;OFF-PA-10003395;83.88;1;0.2;29.358;Anna Andreadi
+CA-2020-145765;2020-05-28;2020-06-02;Standard Class;CM-11815;Candace McMahon;Corporate;United States;Phoenix;Arizona;85023;West;TEC-PH-10001305;195.96;5;0.2;19.596;Anna Andreadi
+CA-2020-145765;2020-05-28;2020-06-02;Standard Class;CM-11815;Candace McMahon;Corporate;United States;Phoenix;Arizona;85023;West;OFF-PA-10001534;15.552;3;0.2;5.4432;Anna Andreadi
+CA-2020-145765;2020-05-28;2020-06-02;Standard Class;CM-11815;Candace McMahon;Corporate;United States;Phoenix;Arizona;85023;West;TEC-AC-10000844;271.968;4;0.2;54.3936;Anna Andreadi
+CA-2020-145779;2020-05-06;2020-05-10;Standard Class;DB-13615;Doug Bickford;Consumer;United States;Tucson;Arizona;85705;West;OFF-PA-10002254;84.416;4;0.2;27.4352;Anna Andreadi
+CA-2020-147767;2020-12-02;2020-12-02;Same Day;SV-20935;Susan Vittorini;Consumer;United States;Peoria;Arizona;85345;West;OFF-BI-10001670;67.86;6;0.7;-45.24;Anna Andreadi
+CA-2020-153822;2020-09-19;2020-09-25;Standard Class;AB-10105;Adrian Barton;Consumer;United States;Phoenix;Arizona;85023;West;OFF-ST-10000321;12.624;2;0.2;-2.5248;Anna Andreadi
+CA-2020-153822;2020-09-19;2020-09-25;Standard Class;AB-10105;Adrian Barton;Consumer;United States;Phoenix;Arizona;85023;West;TEC-AC-10000109;89.584;2;0.2;4.4792;Anna Andreadi
+CA-2020-153822;2020-09-19;2020-09-25;Standard Class;AB-10105;Adrian Barton;Consumer;United States;Phoenix;Arizona;85023;West;TEC-PH-10002415;471.92;2;0.2;29.495;Anna Andreadi
+CA-2020-153822;2020-09-19;2020-09-25;Standard Class;AB-10105;Adrian Barton;Consumer;United States;Phoenix;Arizona;85023;West;OFF-BI-10001460;18.18;4;0.7;-13.938;Anna Andreadi
+CA-2020-155929;2020-09-09;2020-09-13;Standard Class;AI-10855;Arianne Irving;Consumer;United States;Glendale;Arizona;85301;West;OFF-PA-10000859;6.368;2;0.2;2.388;Anna Andreadi
+CA-2020-159282;2020-10-16;2020-10-21;Standard Class;GH-14410;Gary Hansen;Home Office;United States;Yuma;Arizona;85364;West;TEC-MA-10001148;599.985;5;0.7;-479.988;Anna Andreadi
+CA-2020-159884;2020-08-31;2020-09-05;Standard Class;JF-15490;Jeremy Farry;Consumer;United States;Tempe;Arizona;85281;West;OFF-ST-10000344;10.744;1;0.2;0.8058;Anna Andreadi
+CA-2020-159884;2020-08-31;2020-09-05;Standard Class;JF-15490;Jeremy Farry;Consumer;United States;Tempe;Arizona;85281;West;OFF-FA-10000585;8.376;3;0.2;2.7222;Anna Andreadi
+CA-2020-161893;2020-01-23;2020-01-27;Standard Class;HP-14815;Harold Pawlan;Home Office;United States;Tucson;Arizona;85705;West;TEC-AC-10001874;95.984;2;0.2;11.998;Anna Andreadi
+CA-2020-161893;2020-01-23;2020-01-27;Standard Class;HP-14815;Harold Pawlan;Home Office;United States;Tucson;Arizona;85705;West;OFF-BI-10004506;4.938;2;0.7;-3.6212;Anna Andreadi
+CA-2020-163097;2020-08-27;2020-08-31;Standard Class;SF-20200;Sarah Foster;Consumer;United States;Mesa;Arizona;85204;West;FUR-FU-10004973;120.576;8;0.2;33.1584;Anna Andreadi
+CA-2020-163692;2020-09-07;2020-09-09;First Class;Dp-13240;Dean percer;Home Office;United States;Phoenix;Arizona;85023;West;OFF-BI-10003291;7.857;3;0.7;-6.0237;Anna Andreadi
+CA-2020-169894;2020-11-24;2020-11-29;Second Class;MV-17485;Mark Van Huff;Consumer;United States;Mesa;Arizona;85204;West;OFF-BI-10004230;20.724;2;0.7;-15.1976;Anna Andreadi
+CA-2020-169894;2020-11-24;2020-11-29;Second Class;MV-17485;Mark Van Huff;Consumer;United States;Mesa;Arizona;85204;West;OFF-ST-10000060;415.872;8;0.2;-41.5872;Anna Andreadi
+US-2020-107272;2020-11-05;2020-11-12;Standard Class;TS-21610;Troy Staebel;Consumer;United States;Phoenix;Arizona;85023;West;OFF-BI-10003274;2.388;2;0.7;-1.8308;Anna Andreadi
+US-2020-107272;2020-11-05;2020-11-12;Standard Class;TS-21610;Troy Staebel;Consumer;United States;Phoenix;Arizona;85023;West;OFF-ST-10002974;243.992;7;0.2;30.499;Anna Andreadi
+US-2020-107979;2020-06-08;2020-06-13;Standard Class;FO-14305;Frank Olsen;Consumer;United States;Glendale;Arizona;85301;West;TEC-AC-10002006;89.544;7;0.2;12.3123;Anna Andreadi
+US-2020-107979;2020-06-08;2020-06-13;Standard Class;FO-14305;Frank Olsen;Consumer;United States;Glendale;Arizona;85301;West;OFF-ST-10002485;35.168;2;0.2;-8.3524;Anna Andreadi
+US-2020-107979;2020-06-08;2020-06-13;Standard Class;FO-14305;Frank Olsen;Consumer;United States;Glendale;Arizona;85301;West;OFF-BI-10000778;72.588;2;0.7;-48.392;Anna Andreadi
+US-2020-117331;2020-10-21;2020-10-28;Standard Class;ND-18370;Natalie DeCherney;Consumer;United States;Glendale;Arizona;85301;West;OFF-BI-10003984;8.559;1;0.7;-6.5619;Anna Andreadi
+US-2020-120418;2020-06-11;2020-06-12;First Class;BC-11125;Becky Castell;Home Office;United States;Peoria;Arizona;85345;West;FUR-CH-10001394;280.792;1;0.2;35.099;Anna Andreadi
+US-2020-120418;2020-06-11;2020-06-12;First Class;BC-11125;Becky Castell;Home Office;United States;Peoria;Arizona;85345;West;OFF-ST-10002370;68.448;4;0.2;7.7004;Anna Andreadi
+US-2020-120418;2020-06-11;2020-06-12;First Class;BC-11125;Becky Castell;Home Office;United States;Peoria;Arizona;85345;West;OFF-AR-10002956;88.04;5;0.2;6.603;Anna Andreadi
+US-2020-120418;2020-06-11;2020-06-12;First Class;BC-11125;Becky Castell;Home Office;United States;Peoria;Arizona;85345;West;OFF-AR-10001955;15.872;1;0.2;1.984;Anna Andreadi
+US-2020-120418;2020-06-11;2020-06-12;First Class;BC-11125;Becky Castell;Home Office;United States;Peoria;Arizona;85345;West;OFF-ST-10001809;215.592;3;0.2;-48.5082;Anna Andreadi
+US-2020-132220;2020-11-12;2020-11-16;Standard Class;DJ-13510;Don Jones;Corporate;United States;Tempe;Arizona;85281;West;TEC-AC-10004227;62.352;6;0.2;-10.9116;Anna Andreadi
+US-2020-139647;2020-05-11;2020-05-13;First Class;TS-21370;Todd Sumrall;Corporate;United States;Phoenix;Arizona;85023;West;FUR-BO-10004467;209.979;7;0.7;-356.9643;Anna Andreadi
+US-2020-142573;2020-07-18;2020-07-23;Standard Class;ML-17410;Maris LaWare;Consumer;United States;Phoenix;Arizona;85023;West;FUR-TA-10001932;801.6;5;0.5;-448.896;Anna Andreadi
+US-2020-142573;2020-07-18;2020-07-23;Standard Class;ML-17410;Maris LaWare;Consumer;United States;Phoenix;Arizona;85023;West;FUR-CH-10004218;161.568;2;0.2;10.098;Anna Andreadi
+US-2020-142573;2020-07-18;2020-07-23;Standard Class;ML-17410;Maris LaWare;Consumer;United States;Phoenix;Arizona;85023;West;OFF-PA-10000246;16.096;2;0.2;5.2312;Anna Andreadi
+US-2020-142573;2020-07-18;2020-07-23;Standard Class;ML-17410;Maris LaWare;Consumer;United States;Phoenix;Arizona;85023;West;OFF-BI-10003350;7.656;4;0.7;-6.1248;Anna Andreadi
+US-2020-142573;2020-07-18;2020-07-23;Standard Class;ML-17410;Maris LaWare;Consumer;United States;Phoenix;Arizona;85023;West;FUR-CH-10000513;311.976;3;0.2;-42.8967;Anna Andreadi
+US-2020-155425;2020-11-10;2020-11-11;First Class;AB-10600;Ann Blume;Corporate;United States;Tucson;Arizona;85705;West;OFF-BI-10001036;38.388;14;0.7;-25.592;Anna Andreadi
+US-2020-155425;2020-11-10;2020-11-11;First Class;AB-10600;Ann Blume;Corporate;United States;Tucson;Arizona;85705;West;TEC-MA-10003183;95.994;2;0.7;-63.996;Anna Andreadi
+US-2020-155425;2020-11-10;2020-11-11;First Class;AB-10600;Ann Blume;Corporate;United States;Tucson;Arizona;85705;West;TEC-AC-10001314;239.952;6;0.2;-35.9928;Anna Andreadi
+US-2020-155425;2020-11-10;2020-11-11;First Class;AB-10600;Ann Blume;Corporate;United States;Tucson;Arizona;85705;West;TEC-PH-10002563;201.584;2;0.2;15.1188;Anna Andreadi
+US-2020-155425;2020-11-10;2020-11-11;First Class;AB-10600;Ann Blume;Corporate;United States;Tucson;Arizona;85705;West;FUR-CH-10003312;899.136;4;0.2;-146.1096;Anna Andreadi
