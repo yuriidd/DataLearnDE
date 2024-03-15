@@ -23,7 +23,7 @@ MindMaps: [SQL.xmind](SQL.xmind)
 
 ## Module 3
 
-Home task is DONE. [You can check it (RU).](DE-101/Module3/README.md)
+Home task is DONE. [RU version](DE-101/Module3/README.md), [EN version](DE-101/Module3/README-EN.md).
 
 ## Module 4
 
