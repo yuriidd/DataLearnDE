@@ -107,7 +107,7 @@ Although here is another funny insight - when the Operator called the Client, he
 
 ### 3
 
-This does not apply to this dashboard, but in general it seemed to me that building graphs based on ordinary numbers (finance) was much easier. One, two - here's the sum, here's the average, here's the top 10 xD.
+This does not apply to this dashboard, but in general it seemed to me that building diagrams based on ordinary numbers (finance) was much easier. One, two - here's the sum, here's the average, here's the top 10 xD.
 
 # Software Behavior
 
