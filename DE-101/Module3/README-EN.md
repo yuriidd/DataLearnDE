@@ -138,5 +138,30 @@ There is a MindMap for PowerBI, but I did it when I took courses at DataCamp. Of
 ![](_att/Pasted%20image%2020240314193505.png)
 
 ---
+---
+
+# Continuation. Tableau
+
+So... xDDD
+
+I returned to Tableau and I want to say that it is a very flexible and interesting tool.
+
+Redesigned the dashboard. I didn’t display the main metrics, the task was to correctly create filters and a page for viewing statistics for the day for lines 1 and 2 (Incoming, Outgoing and Client Waiting Time). Well, or directly select statistics for the month.
+
+I can also add that now the data on the dashboard looks correct and they differ in content. When I did it in PowerBI, the time of one call, even if it was 60+ minutes, fell into one bin. What is not correct from the point of view of displaying information. And this can hardly be calculated using Tableau, so it’s impossible to do without prior preparation using ETL.
+
+https://public.tableau.com/app/profile/yurii.z/viz/sip_calls2_for_public/Story1
+
+And here's what it looks like on screenshots:
+
+![](_att/Pasted%20image%2020240615163538.png)
+
+![](_att/Pasted%20image%2020240615163614.png)
+
+The tooltip displays not only information on the selected piece, but also the sum and average of the whole bin.
+
+![](_att/Pasted%20image%2020240615164216.png)
+
+---
 
 > [Start](../../README.md) >> Module 3
