@@ -27,7 +27,7 @@ Home task is DONE. [RU version](DE-101/Module3/README.md), [EN version](DE-101/M
 
 ## Module 4
 
-In process... 
+Home task is DONE. [RU version](DE-101/Module4/README.md), [EN version](DE-101/Module4/README-EN.md).
 
 
 # Surfalytics ~ projects
@@ -37,3 +37,6 @@ In process...
 ## Docker
 
 Local deployment is DONE. [RU version](Surfalytics/Docker/README.md), [EN version](Surfalytics/Docker/README-EN.md).
+
+## Tableau Prep
+
